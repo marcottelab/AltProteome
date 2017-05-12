@@ -1,0 +1,16 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	K1C9_HUMAN				62.09190997979053	68.38	23.43	556.6592545866516					Related Proteins	P35527	K1C9_HUMAN, P35527	10	10	10	10	10	10	21	21	100.0	Doubtful
+2	TRYP_PIG				24.393805244132462	81.39	35.5	862.8886283781284					Single Protein		TRYP_PIG	9	12	4	3	5	4	18	29	100.0	Doubtful
+3	Q5D862				247.9278151013042	53.79	0.46	30.743297908562212					Single Protein		Q5D862	1	2	2	1	2	1	1	2	100.0	Doubtful
+4	P81605				11.27682755014452	63.64	10.0	564.7983015773					Single Protein		P81605	1	1	1	1	1	1	1	1	100.0	Doubtful
+5	P02533				51.52938407421822	87.29	11.65	322.91596530309494					Single Protein		P02533	5	6	2	2	5	4	10	12	100.0	Doubtful
+6	Q13535				301.1718986774208	85.48	0.45	17.493752703721682					Single Protein		Q13535	1	1	1	1	1	1	1	2	100.0	Doubtful
+7	TRY1_BOVIN				25.408419297583514	82.3	73.66	67944.51135458385					Single Protein		TRY1_BOVIN	63	70	63	58	63	58	1186	1212	100.0	Doubtful
+8	P04264				65.99900087210398	69.25	38.04	776.8635865144258					Single Protein		P04264	22	27	21	16	22	17	70	74	100.0	Doubtful
+9	P08572				167.44862949188118	81.19	0.76	56.88615987109497					Single Protein		P08572	1	5	5	1	5	1	2	7	100.0	Doubtful
+10	REF_HEVBR				14.71268950229706	100.0	15.94	859.4756763132826					Single Protein		REF_HEVBR	2	3	3	2	3	2	6	6	100.0	Doubtful
+11	Q14CN4				55.842437763397974	92.37	2.35	41.88122998984216					Related Proteins	Q3SY84, Q7RTS7, Q86Y46	Q14CN4, Q3SY84, Q7RTS7, Q86Y46	1	1	0	0	1	1	1	1	100.0	Doubtful
+12	P13647				62.33997694347283	73.56	10.68	494.42492331059424					Single Protein		P13647	8	10	5	3	5	3	24	26	100.0	Doubtful
+13	P13645				58.79169361540863	71.92	44.86	681.3840893450588					Single Protein		P13645	21	23	22	20	22	20	54	56	100.0	Doubtful
+14	Q86YZ3				282.2276283698903	55.93	3.44	15.944745025707967					Single Protein		Q86YZ3	2	4	4	2	4	2	3	6	100.0	Doubtful
+15	P35908				65.39321717101762	93.11	55.24	473.4552890469662					Single Protein		P35908	29	31	24	22	25	23	68	71	100.0	Doubtful

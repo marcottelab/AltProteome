@@ -1,0 +1,2 @@
+Total_Alt_ORFs	Confident_Alt_ORFs	Doubtful_Alt_ORFs	Percent_Confident
+3	1	2	33.33333333333333

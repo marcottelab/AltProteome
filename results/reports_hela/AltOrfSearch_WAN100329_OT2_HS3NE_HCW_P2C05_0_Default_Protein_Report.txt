@@ -1,0 +1,9 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	K1C9_HUMAN				62.09190997979053	48.8	12.68	1150.536755099945					Related Proteins	P35527	K1C9_HUMAN, P35527	6	7	7	6	7	6	10	12	83.33333333333334	Doubtful
+2	O00522				84.29444262479272	73.1	1.09	1773.3226877693708					Single Protein		O00522	1	1	1	1	1	1	10	16	83.33333333333334	Doubtful
+3	K22E_HUMAN				65.82539290353346	68.22	27.13	1473.7719772178107					Related Proteins	P35908	K22E_HUMAN, P35908	16	21	16	12	17	13	33	42	83.33333333333334	Doubtful
+4	TRY1_BOVIN				25.408419297583514	71.6	85.6	40331.220232658154					Single Protein		TRY1_BOVIN	45	50	44	40	50	45	377	422	83.33333333333334	Doubtful
+5	K1C10_HUMAN				59.48287701205572	57.84	20.91	1422.3292053615696					Related Proteins	P13645	K1C10_HUMAN, P13645	10	11	11	10	11	10	16	17	83.33333333333334	Doubtful
+6	P04264				65.99900087210398	65.22	34.16	1647.8530701788386					Single Protein		P04264	20	24	20	17	20	17	40	45	83.33333333333334	Doubtful
+7	REF_HEVBR				14.71268950229706	82.61	34.06	4421.741571459713					Single Protein		REF_HEVBR	4	4	4	4	4	4	9	9	83.33333333333334	Doubtful
+8	ALBU_BOVIN				69.24844068501862	100.0	64.58	5760.403407702105					Single Protein		ALBU_BOVIN	51	55	55	51	55	51	295	332	83.33333333333334	Doubtful

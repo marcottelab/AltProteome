@@ -1,0 +1,5 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	K22E_HUMAN				65.82539290353346	87.6	23.57	3389.878650351969					Related Proteins	P35908	K22E_HUMAN, P35908	9	12	9	8	10	9	12	15	19.948186528497413	Doubtful
+2	TRY1_BOVIN				25.408419297583514	82.3	51.44	60134.23638197863					Single Protein		TRY1_BOVIN	8	14	14	8	14	8	34	55	19.948186528497413	Doubtful
+3	K1C10_HUMAN				59.48287701205572	66.27	14.33	2226.903116662986					Related Proteins	P13645	K1C10_HUMAN, P13645	5	9	0	0	9	5	8	25	19.948186528497413	Doubtful
+4	K2C1_HUMAN				65.84694613410919	69.21	7.47	1768.9720851822615					Related Proteins	P04264	K2C1_HUMAN, P04264	3	8	0	0	6	3	6	10	19.948186528497413	Doubtful

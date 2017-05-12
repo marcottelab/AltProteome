@@ -1,0 +1,2 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	NM_001130848_8; NM_004910_8	NM_001130848_8, NM_004910_8 (Not Validated)	0	1	GPPPGAKR	NH2-GPPPGAKR-COOH	42; 42	VR; VR	AL; AL				0	187	30.097087378640776	Doubtful

@@ -1,0 +1,13 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	NM_153366_22	Homo sapiens sushi, von Willebrand factor type A, EGF and pentraxin domain containing 1 (SVEP1), mRNA|SVEP1|frame-3			5.402780412260881	100.0	0.0	0.0					Single Protein		NM_153366_22	0	1	1	0	1	0	0	1	5.696484201157103	Doubtful
+2	Q9NWK9				53.88420118759104	100.0	0.0	0.0					Single Protein		Q9NWK9	0	2	2	0	2	0	0	4	5.696484201157103	Doubtful
+3	P81605				11.27682755014452	63.64	10.0	825.3293433824028					Single Protein		P81605	1	1	1	1	1	1	1	1	5.696484201157103	Doubtful
+4	CTRA_BOVIN				25.649765464359135	66.94	8.57	704.549439472783					Single Protein		CTRA_BOVIN	1	1	1	1	1	1	2	2	5.696484201157103	Doubtful
+5	P19338				76.568358644663	83.24	3.1	97.75474456305956					Single Protein		P19338	1	3	3	1	3	1	1	4	5.696484201157103	Doubtful
+6	TRY1_BOVIN				25.408419297583514	82.3	67.49	73073.34565815351					Single Protein		TRY1_BOVIN	31	37	36	30	36	30	420	436	5.696484201157103	Doubtful
+7	Q13094				60.15107907456671	66.42	3.56	979.2043057079356					Single Protein		Q13094	1	1	1	1	1	1	6	29	5.696484201157103	Doubtful
+8	P35030				32.50802898407952	73.68	8.88	988.6757759268369					Single Protein		P35030	3	4	3	2	3	2	8	9	5.696484201157103	Doubtful
+9	Q6ZNL6				159.79111898474147	72.5	1.3	109.00576233352491					Single Protein		Q6ZNL6	1	1	1	1	1	1	2	3	5.696484201157103	Doubtful
+10	Q7Z7A1				268.71964718374045	88.86	0.0	0.0					Single Protein		Q7Z7A1	0	2	2	0	2	0	0	39	5.696484201157103	Doubtful
+11	Q8NEZ3				151.48322668656363	88.38	0.0	0.0					Single Protein		Q8NEZ3	0	1	1	0	1	0	0	1	5.696484201157103	Doubtful
+12	O95397				43.510823615484796	80.82	0.0	0.0					Related Proteins	Q96JA3	O95397, Q96JA3	0	1	1	0	1	0	0	1	5.696484201157103	Doubtful

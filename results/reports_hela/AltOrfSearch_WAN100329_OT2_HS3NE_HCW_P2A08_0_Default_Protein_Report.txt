@@ -1,0 +1,7 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	Q96PE2				221.53476722827253	72.27	0.0	NaN					Single Protein		Q96PE2	0	2	2	0	2	0	0	40	33.63636363636363	Doubtful
+2	TRY1_BOVIN				25.408419297583514	82.3	0.0	NaN					Single Protein		TRY1_BOVIN	0	6	6	0	6	0	0	9	33.63636363636363	Doubtful
+3	Q8WZ42				3634.273545458802	91.02	0.0	NaN					Single Protein		Q8WZ42	0	2	2	0	2	0	0	17	33.63636363636363	Doubtful
+4	Q14978				73.55963598521475	100.0	0.0	NaN					Single Protein		Q14978	0	4	4	0	4	0	0	5	33.63636363636363	Doubtful
+5	Q08945				81.02442027045807	93.09	0.0	NaN					Single Protein		Q08945	0	3	3	0	3	0	0	3	33.63636363636363	Doubtful
+6	Q13428				152.0153228971003	80.04	0.0	NaN					Single Protein		Q13428	0	8	8	0	8	0	0	12	33.63636363636363	Doubtful
