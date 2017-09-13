@@ -28,7 +28,7 @@ par_file = sys.argv[2]
 current_path = os.getcwd()
 
 sample = mgf_file.split('.')[0]
-out_path = current_path + '/' + sample
+out_path = current_path + '/' + sample #Always run the python script from the directory containing the mgf files
 if not os.path.exists(out_path):
 	os.makedirs(out_path)
 	os.makedirs(out_path + '/log')
@@ -55,7 +55,7 @@ process.wait()
 
 ###Run PeptideShaker
 cmd2 = ['java', '-cp', PeptideShaker, 'eu.isas.peptideshaker.cmd.PeptideShakerCLI', 
-		'-experiment', 'AltOrfSearch',
+		'-experiment', 'AltOrfSearch', #Put in your sample name
 		'-sample', mgf_file.split('.')[0],
 		'-replicate', '0',
 		'-identification_files', '"' + out_path + '/' + mgf_file.split('.')[0] + '.omx, ' + out_path + '/' + mgf_file.split('.')[0] +'.msgf.mzid, ' + out_path + '/' + mgf_file.split('.')[0] + '.t.xml,' + '"',
@@ -68,7 +68,7 @@ print('Running PeptudeShaker on %s\n' % mgf_file)
 process2 = subprocess.Popen(cmd2)
 process2.wait()
 
-###Copy mgf file into PeptideShaker directory since the program is dumb and can't locate the mgf file via command line. It says you can but provides no documentation of the command to do that.
+###Move/Copy mgf file into PeptideShaker directory since the program is dumb and can't locate the mgf file via command line. It says you can but provides no documentation of the command to do that.
 cmd3 = ['mv', mgf_file, out_path + '/peptide_shaker']
 process3 = subprocess.Popen(cmd3)
 process3.wait()
