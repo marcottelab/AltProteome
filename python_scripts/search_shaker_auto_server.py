@@ -69,7 +69,7 @@ process2 = subprocess.Popen(cmd2)
 process2.wait()
 
 ###Copy mgf file into PeptideShaker directory since the program is dumb and can't locate the mgf file via command line. It says you can but provides no documentation of the command to do that.
-cmd3 = ['cp', mgf_file, out_path + '/peptide_shaker']
+cmd3 = ['mv', mgf_file, out_path + '/peptide_shaker']
 process3 = subprocess.Popen(cmd3)
 process3.wait()
 
