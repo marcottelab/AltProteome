@@ -35,15 +35,18 @@ awk 'BEGIN {
   }
   #$2 ~ /\,/ && $24 /Confident/ {
   $2 !~ /,/ {
-    pep_totals[$3] += 1
-    peps[$3,filecounter] += 1
-    prot[$3]=$2
+    prot_totals[$2] += 1
+    prots[$2,filecounter] += 1
+    if (peps_unique[$2,$3]++ == 0) {
+        peps_uniq_counts[$2]++
+      
+    }
   }
   END {
-    for (pep in pep_totals) {
-      printf("\n%s\t%d\t%s", pep, pep_totals[pep], prot[pep])
+    for (prot in prot_totals) {
+      printf("\n%s\t%d\t%d", prot, prot_totals[prot], peps_uniq_counts[prot])
       for (i = 1; i<=filecounter; i++)
-        printf("\t%d", peps[pep,i])
+        printf("\t%d", prots[prot,i])
     }
   }' "$@"
 

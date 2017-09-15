@@ -29,7 +29,7 @@ awk 'BEGIN {
     filecounter++
     split(FILENAME,splitted,"_")
     if (filecounter == 1)
-      print($2,"TotalCount","UniquePeptides")
+      printf($2"\tTotalCount\tUniquePeptides")
     printf("\t%s_%s",splitted[2],splitted[6])
     next
   }
