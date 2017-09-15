@@ -1,0 +1,20 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	K1C9_HUMAN				62.09190997979053	68.38	21.99	681.3978240444959	Oxidation of M(M245)	Oxidation of M(1)			Related Proteins	P35527	K1C9_HUMAN, P35527	11	13	13	11	13	11	21	23	100.0	Doubtful
+2	Q5D862				247.9278151013042	53.79	0.46	39.32566192190779					Single Protein		Q5D862	1	1	1	1	1	1	1	1	100.0	Doubtful
+3	P81605				11.27682755014452	63.64	10.0	1444.9371780449544					Single Protein		P81605	1	1	1	1	1	1	2	2	100.0	Doubtful
+4	NM_005053_1	Homo sapiens RAD23 homolog A (S. cerevisiae) (RAD23A), mRNA|RAD23A|frame-1			12.765954195175235	100.0	0.0	0.0					Single Protein		NM_005053_1	0	1	1	0	1	0	1	9	71.42857142857143	Doubtful
+5	O00522				84.29444262479272	90.49	1.09	1214.9621917495115					Single Protein		O00522	1	1	1	1	1	1	16	30	100.0	Doubtful
+6	P02533				51.52938407421822	87.29	7.63	378.76993987586195	Oxidation of M(M119)	Oxidation of M(1)			Single Protein		P02533	3	3	1	1	1	1	8	8	100.0	Doubtful
+7	K22E_HUMAN				65.82539290353346	87.6	47.44	636.6153604025819	Oxidation of M(M263, M300, M343, M473)	Oxidation of M(4)			Related Proteins	P35908	K22E_HUMAN, P35908	25	25	17	17	19	19	45	48	100.0	Doubtful
+8	TRY1_BOVIN				25.408419297583514	82.3	64.61	63635.970878667526	Oxidation of M(M106, M180)	Oxidation of M(2)			Single Protein		TRY1_BOVIN	50	55	51	48	51	48	910	989	100.0	Doubtful
+9	K1C10_HUMAN				59.48287701205572	66.27	29.01	447.3499974978112	Oxidation of M(M150, M306, M321)	Oxidation of M(3)			Related Proteins	P13645	K1C10_HUMAN, P13645	15	18	0	0	17	14	35	39	100.0	Doubtful
+10	P08779				51.236202521320465	86.68	7.4	380.6175981191589	Oxidation of M(M121)	Oxidation of M(1)			Single Protein		P08779	3	3	1	1	1	1	8	8	100.0	Doubtful
+11	P35030				32.50802898407952	73.68	3.29	451.54286813904827					Related Proteins	TRYP_PIG	P35030, TRYP_PIG	1	2	0	0	0	0	6	6	100.0	Doubtful
+12	P04264				65.99900087210398	69.25	37.27	360.9216131730215	Oxidation of M(M259, M262, M296, M493)	Oxidation of M(4)			Single Protein		P04264	20	24	19	15	20	16	46	49	100.0	Doubtful
+13	Q8NGY0				36.42110332653557	37.42	3.07	414.53115763584765	Oxidation of M(M97)	Oxidation of M(1)			Single Protein		Q8NGY0	1	1	1	1	1	1	1	1	100.0	Doubtful
+14	P08572				167.44862949188118	81.19	0.76	72.76662047708405					Single Protein		P08572	1	1	1	1	1	1	2	2	100.0	Doubtful
+15	REF_HEVBR				14.71268950229706	100.0	15.94	732.9391482836727					Single Protein		REF_HEVBR	2	3	3	2	3	2	3	5	100.0	Doubtful
+16	Q6ZNL6				159.79111898474147	72.5	0.0	0.0					Single Protein		Q6ZNL6	0	3	3	0	3	0	2	6	63.63636363636363	Doubtful
+17	P13647				62.33997694347283	73.56	10.17	308.4392992890953	Oxidation of M(M389)	Oxidation of M(1)			Single Protein		P13647	8	10	4	3	5	3	13	17	100.0	Doubtful
+18	P07478				26.471034287798968	59.92	5.67	227.80541095303337					Related Proteins	Q8NHM4, TRY2_BOVIN, TRYP_PIG	P07478, Q8NHM4, TRY2_BOVIN, TRYP_PIG	1	1	0	0	0	0	2	2	100.0	Doubtful
+19	Q86YZ3				282.2276283698903	55.93	1.47	10.575658977744336					Single Protein		Q86YZ3	1	2	2	1	2	1	1	2	100.0	Doubtful

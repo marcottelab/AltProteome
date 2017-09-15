@@ -1,0 +1,17 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	ALBU_HUMAN				69.32149565531064	95.57	1.64	165.52174366058892					Related Proteins	P02768	ALBU_HUMAN, P02768	1	1	1	1	1	1	1	1	100.0	Doubtful
+2	K1C9_HUMAN				62.09190997979053	48.8	13.96	765.0912334320791	Oxidation of M(M269, M276, M286)	Oxidation of M(3)			Related Proteins	P35527	K1C9_HUMAN, P35527	6	9	9	6	9	6	10	15	100.0	Doubtful
+3	P81605				11.27682755014452	63.64	10.0	2880.0783396942475					Single Protein		P81605	1	1	1	1	1	1	2	2	100.0	Doubtful
+4	O00522				84.29444262479272	76.09	1.09	605.421873209001					Single Protein		O00522	1	1	1	1	1	1	4	8	100.0	Doubtful
+5	K22E_HUMAN				65.82539290353346	71.63	33.64	850.0141743299413	Oxidation of M(M300, M473)	Oxidation of M(2)			Related Proteins	P35908	K22E_HUMAN, P35908	22	24	0	0	14	13	52	54	100.0	Doubtful
+6	TRY1_BOVIN				25.408419297583514	71.6	83.13	54520.33306333944	Oxidation of M(M106, M180)	Oxidation of M(2)			Single Protein		TRY1_BOVIN	33	37	36	32	36	32	303	344	100.0	Doubtful
+7	K1C10_HUMAN				59.48287701205572	57.84	33.73	2310.078881320414	Oxidation of M(M271)	Oxidation of M(1)			Related Proteins	P13645	K1C10_HUMAN, P13645	18	21	20	18	21	18	39	47	100.0	Doubtful
+8	NM_017723_1	Homo sapiens chromosome 9 open reading frame 167 (C9orf167), mRNA|C9orf167|frame-2			26.856057094940923	100.0	5.88	423.5409323079775					Single Protein		NM_017723_1	1	1	1	1	1	1	1	1	100.0	Doubtful
+9	P04264				65.99900087210398	65.22	34.01	1342.115030220096	Oxidation of M(M262, M296)	Oxidation of M(2)			Single Protein		P04264	22	27	20	16	21	17	59	68	100.0	Doubtful
+10	O95678				59.52403085076316	71.69	2.18	127.59840745480845					Related Proteins	P02538, P12035, P19013, Q01546, Q5XKE5, Q8N1N4	O95678, P02538, P12035, P19013, Q01546, Q5XKE5, Q8N1N4	1	1	0	0	1	1	1	1	100.0	Doubtful
+11	REF_HEVBR				14.71268950229706	82.61	15.94	1095.6819770575942					Single Protein		REF_HEVBR	2	3	3	2	3	2	2	3	100.0	Doubtful
+12	Q14CN4				55.842437763397974	87.08	2.35	213.5651311213955					Related Proteins	Q3SY84, Q7RTS7, Q86Y46	Q14CN4, Q3SY84, Q7RTS7, Q86Y46	1	1	1	1	1	1	1	1	100.0	Doubtful
+13	P35030				32.50802898407952	65.46	2.96	450.0122405772261					Single Protein		P35030	1	3	2	0	2	0	2	4	100.0	Doubtful
+14	P13647				62.33997694347283	68.98	10.34	879.5026984447783					Single Protein		P13647	8	9	3	3	3	3	19	20	100.0	Doubtful
+15	SRPP_HEVBR				22.330761677620327	100.0	4.9	988.262175385281					Single Protein		SRPP_HEVBR	1	1	1	1	1	1	2	2	100.0	Doubtful
+16	ALBU_BOVIN				69.24844068501862	100.0	5.6	747.3020403654762					Single Protein		ALBU_BOVIN	2	2	2	2	2	2	5	5	100.0	Doubtful

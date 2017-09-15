@@ -2,7 +2,7 @@
 #It outputs a file that shows the protein by accession and the number of times it was seen confidently.
 
 '''
-Usage: protein_report_parser_confident.py protein_report_file_directory
+Usage: protein_report_parser_confident.py protein_report_file_directory/
 '''
 
 import sys, glob
@@ -15,7 +15,7 @@ confident_proteins = 0
 proteins_set = {}
 
 for report in reports:
-	fraction_name = '_'.join(report.split('_')[2:-4])
+	fraction_name = '_'.join(report.split('_')[4:-4])
 	print(fraction_name)
 	with open(report,'r') as report_file:
 		next(report_file)
@@ -29,7 +29,7 @@ for report in reports:
 					proteins_set[line_split[1]][0] += 1
 					proteins_set[line_split[1]].append(fraction_name)
 
-
+print proteins_set
 
 print('%i Confident Proteins identified' % confident_proteins)
 

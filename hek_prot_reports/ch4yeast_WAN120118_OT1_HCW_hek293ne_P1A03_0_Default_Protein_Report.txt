@@ -1,0 +1,12 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	K1C9_HUMAN				62.09190997979053	68.38	21.19	423.41528320786153	Oxidation of M(M245)	Oxidation of M(1)			Related Proteins	P35527	K1C9_HUMAN, P35527	8	9	9	8	9	8	15	15	100.0	Doubtful
+2	P81605				11.27682755014452	63.64	10.0	1195.5255055280793					Single Protein		P81605	1	1	1	1	1	1	2	2	100.0	Doubtful
+3	Q8IUG5				285.00828978744477	96.26	0.58	16.933789030142766					Single Protein		Q8IUG5	1	2	2	1	2	1	1	3	100.0	Doubtful
+4	O00522				84.29444262479272	90.49	1.09	62.827916957181344					Single Protein		O00522	1	1	1	1	1	1	1	1	100.0	Doubtful
+5	K22E_HUMAN				65.82539290353346	87.6	24.03	428.79519198695766					Related Proteins	P35908	K22E_HUMAN, P35908	14	17	14	12	14	12	27	29	100.0	Doubtful
+6	TRY1_BOVIN				25.408419297583514	82.3	81.07	69806.84374406464	Oxidation of M(M106, M180)	Oxidation of M(2)			Single Protein		TRY1_BOVIN	80	86	77	73	77	73	1639	1695	100.0	Doubtful
+7	P07478				26.471034287798968	59.92	3.24	565.4512526146322					Related Proteins	P35030	P07478, P35030	1	1	0	0	0	0	2	3	100.0	Doubtful
+8	K1C10_HUMAN				59.48287701205572	66.27	32.72	646.5164807948793	Oxidation of M(M150, M306)	Oxidation of M(2)			Related Proteins	P13645	K1C10_HUMAN, P13645	16	20	18	14	20	16	30	35	100.0	Doubtful
+9	P35030				32.50802898407952	73.68	6.58	1245.339068258416	Oxidation of M(M166)	Oxidation of M(1)			Related Proteins	TRYP_PIG	P35030, TRYP_PIG	4	4	0	0	0	0	13	14	100.0	Doubtful
+10	P04264				65.99900087210398	69.25	31.68	595.7935858463546	Oxidation of M(M259, M262, M493)	Oxidation of M(3)			Single Protein		P04264	18	21	18	16	18	16	39	44	100.0	Doubtful
+11	P07478				26.471034287798968	59.92	5.67	565.4512526146322					Related Proteins	Q8NHM4, TRY2_BOVIN, TRYP_PIG	P07478, Q8NHM4, TRY2_BOVIN, TRYP_PIG	1	1	0	0	0	0	2	2	100.0	Doubtful
