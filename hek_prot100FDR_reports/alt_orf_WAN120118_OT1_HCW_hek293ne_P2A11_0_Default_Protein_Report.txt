@@ -1,0 +1,856 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P04114				515.282910917923	90.14	0.0	0.0					Single Protein		P04114	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+2	NM_015904_2	Homo sapiens eukaryotic translation initiation factor 5B (EIF5B), mRNA|EIF5B|frame-3			7.608766443316447	100.0	0.0	0.0					Single Protein		NM_015904_2	0	1	1	0	1	0	0	6	10.901162790697672	Doubtful
+3	NM_006401_2	Homo sapiens acidic (leucine-rich) nuclear phosphoprotein 32 family, member B (ANP32B), mRNA|ANP32B|frame-3			8.795846156769956	100.0	0.0	0.0					Single Protein		NM_006401_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+4	NM_006401_1	Homo sapiens acidic (leucine-rich) nuclear phosphoprotein 32 family, member B (ANP32B), mRNA|ANP32B|frame-3			8.850595638798028	100.0	0.0	0.0					Single Protein		NM_006401_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+5	Q92973				102.28878151877566	73.05	0.0	0.0					Single Protein		Q92973	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+6	NM_005549_2	Homo sapiens potassium voltage-gated channel, shaker-related subfamily, member 10 (KCNA10), mRNA|KCNA10|frame-3			8.624490246723523	100.0	0.0	0.0					Single Protein		NM_005549_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+7	NM_016091_3	Homo sapiens eukaryotic translation initiation factor 3, subunit L (EIF3L), mRNA|EIF3L|frame-2			6.729120478344501	100.0	0.0	0.0					Single Protein		NM_016091_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+8	NM_001012478_2	Homo sapiens U2 small nuclear RNA auxiliary factor 2 (U2AF2), transcript variant 2, mRNA|U2AF2|frame-1			9.67692257279976	100.0	0.0	0.0					Related Proteins	NM_007279_2	NM_001012478_2, NM_007279_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+9	NM_001855_4	Homo sapiens collagen, type XV, alpha 1 (COL15A1), mRNA|COL15A1|frame-1			5.995999617253053	100.0	0.0	0.0					Single Protein		NM_001855_4	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+10	NM_001005158_5	Homo sapiens Scm-like with four mbt domains 1 (SFMBT1), transcript variant 2, mRNA|SFMBT1|frame-1			6.670591926218632	100.0	0.0	0.0					Related Proteins	NM_001005159_5, NM_016329_4	NM_001005158_5, NM_001005159_5, NM_016329_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+11	NM_006354_2	Homo sapiens transcriptional adaptor 3 (NGG1 homolog, yeast)-like (TADA3L), transcript variant 1, mRNA|TADA3|frame-1			9.616726441386122	100.0	0.0	0.0					Related Proteins	NM_133480_2	NM_006354_2, NM_133480_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+12	NM_153271_2	Homo sapiens sorting nexin 33 (SNX33), mRNA|SNX33|frame-2			10.122758695517499	17.39	0.0	0.0					Single Protein		NM_153271_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+13	XM_002343137_2	PREDICTED: Homo sapiens hypothetical LOC100128095, transcript variant 2 (LOC100128095), mRNA|LOC100128095|frame-1			10.996672834426876	100.0	12.9	2524.545315405825					Related Proteins	XM_002344622_2, XM_002347269_2	XM_002343137_2, XM_002344622_2, XM_002347269_2	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+14	Q99590				164.5510382323644	84.14	0.0	0.0					Single Protein		Q99590	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+15	NM_012268_1	Homo sapiens phospholipase D family, member 3 (PLD3), transcript variant 2, mRNA|PLD3|frame-2			7.33974265772816	100.0	0.0	0.0					Single Protein		NM_012268_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+16	O15417				314.3260091866534	77.56	0.0	0.0					Single Protein		O15417	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+17	Q8N443				43.98772337506384	100.0	0.0	0.0					Single Protein		Q8N443	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+18	Q6P1A2				55.99809523608693	56.67	0.0	0.0					Single Protein		Q6P1A2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+19	P26374				74.02417075512068	85.06	0.0	0.0					Single Protein		P26374	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+20	Q9H939				38.8336459895516	100.0	5.39	0.0					Single Protein		Q9H939	1	1	1	1	1	1	0	23	16.959064327485386	Doubtful
+21	Q9NXE8				49.61699015371626	100.0	0.0	0.0					Single Protein		Q9NXE8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+22	Q9NP50				24.836386686034203	82.81	0.0	0.0					Single Protein		Q9NP50	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+23	NM_018688_1	Homo sapiens bridging integrator 3 (BIN3), mRNA|BIN3|frame-3			14.273947550742232	68.94	0.0	0.0					Single Protein		NM_018688_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+24	NM_017868_1	Homo sapiens tetratricopeptide repeat domain 12 (TTC12), mRNA|TTC12|frame-3			6.574120296697873	100.0	0.0	0.0					Single Protein		NM_017868_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+25	NM_016341_1	Homo sapiens phospholipase C, epsilon 1 (PLCE1), mRNA|PLCE1|frame-1			10.769287488177886	100.0	0.0	0.0					Single Protein		NM_016341_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+26	P26367				46.654067199701394	52.61	0.0	0.0					Single Protein		P26367	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+27	Q68DN1				224.18319863087905	93.7	0.0	0.0					Single Protein		Q68DN1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+28	P52630				97.85457536453735	75.32	0.0	0.0					Single Protein		P52630	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+29	Q9Y225				17.19796941366299	75.0	0.0	0.0					Single Protein		Q9Y225	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+30	P08519				500.99528012576553	56.77	0.0	0.0					Single Protein		P08519	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+31	Q7Z4S6				187.06283431498255	84.53	0.0	0.0					Single Protein		Q7Z4S6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+32	NM_000937_2	Homo sapiens polymerase (RNA) II (DNA directed) polypeptide A, 220kDa (POLR2A), mRNA|POLR2A|frame-2			5.628250533679652	100.0	0.0	0.0					Single Protein		NM_000937_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+33	NM_001744_1	Homo sapiens calcium/calmodulin-dependent protein kinase IV (CAMK4), mRNA|CAMK4|frame-3			6.957688120212864	100.0	0.0	0.0					Single Protein		NM_001744_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+34	NM_001033057_2	Homo sapiens membrane associated guanylate kinase, WW and PDZ domain containing 1 (MAGI1), transcript variant 3, mRNA|MAGI1|frame-1			6.41337434128694	100.0	0.0	0.0					Related Proteins	NM_004742_2, NM_015520_2	NM_001033057_2, NM_004742_2, NM_015520_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+35	Q5T7B8				151.80895901179298	78.95	2.05	217.391402159946	Oxidation of M(M386)	Oxidation of M(1)			Single Protein		Q5T7B8	1	1	1	1	1	1	1	4	16.959064327485386	Doubtful
+36	Q9UKQ2				87.09015481208128	81.55	0.0	0.0					Single Protein		Q9UKQ2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+37	Q12873				226.44953716298355	85.15	0.0	0.0					Single Protein		Q12873	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+38	Q9Y238				195.5593732841876	70.6	0.0	0.0					Single Protein		Q9Y238	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+39	Q15906				40.56965589346621	73.9	0.0	0.0					Single Protein		Q15906	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+40	P51797				97.22540200983568	78.6	0.0	0.0					Single Protein		P51797	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+41	P17480				89.35022633920845	88.09	0.0	0.0					Single Protein		P17480	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+42	O14511				91.62162136761552	90.82	0.0	0.0					Single Protein		O14511	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+43	NM_001130082_8	Homo sapiens plexin B1 (PLXNB1), transcript variant 2, mRNA|PLXNB1|frame-3			7.939854578439521	100.0	0.0	0.0					Related Proteins	NM_002673_8	NM_001130082_8, NM_002673_8	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+44	P68104				50.10910826932214	84.2	7.58	905.3318033396209	Oxidation of M(M276)	Oxidation of M(1)			Related Proteins	Q5VTE0	P68104, Q5VTE0	2	2	2	2	2	2	2	2	16.959064327485386	Doubtful
+45	P19634				90.70503392765792	51.9	0.0	0.0					Single Protein		P19634	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+46	A6NI28				98.5069507884441	91.76	0.0	0.0					Single Protein		A6NI28	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+47	O14525				144.81989155886558	76.11	0.0	0.0					Single Protein		O14525	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+48	Q92508				286.6049403865633	75.05	0.0	0.0					Single Protein		Q92508	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+49	P30414				165.57686921432168	91.72	0.0	0.0					Single Protein		P30414	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+50	NM_002613_1	Homo sapiens 3-phosphoinositide dependent protein kinase-1 (PDPK1), transcript variant 1, mRNA|PDPK1|frame-2			6.041226126920303	100.0	0.0	0.0					Single Protein		NM_002613_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+51	NM_020805_7	Homo sapiens kelch-like 14 (Drosophila) (KLHL14), mRNA|KLHL14|frame-1			5.788873905871422	33.33	0.0	0.0					Single Protein		NM_020805_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+52	NM_020805_1	Homo sapiens kelch-like 14 (Drosophila) (KLHL14), mRNA|KLHL14|frame-3			5.616417969645181	100.0	0.0	0.0					Single Protein		NM_020805_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+53	Q8IWK6				146.0580752959391	74.03	0.0	0.0					Single Protein		Q8IWK6	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+54	NM_006876_2	Homo sapiens UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 1 (B3GNT1), mRNA|B3GNT1|frame-3			8.153868467233341	100.0	0.0	0.0					Single Protein		NM_006876_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+55	NM_138376_2	Homo sapiens tetratricopeptide repeat domain 5 (TTC5), mRNA|TTC5|frame-3			12.349481722926399	100.0	0.0	0.0					Single Protein		NM_138376_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+56	A6NHR8				46.72693364441389	100.0	0.0	0.0					Single Protein		A6NHR8	0	1	1	0	1	0	0	6	10.901162790697672	Doubtful
+57	NM_032305_1	Homo sapiens polymerase (RNA) III (DNA directed) polypeptide G (32kD)-like (POLR3GL), mRNA|POLR3GL|frame-1			12.011718543953654	100.0	0.0	0.0					Single Protein		NM_032305_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+58	NM_020862_3	Homo sapiens leucine rich repeat and fibronectin type III domain containing 1 (LRFN1), mRNA|LRFN1|frame-2			13.943003653735557	100.0	0.0	0.0					Single Protein		NM_020862_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+59	NM_002128_4	Homo sapiens high-mobility group box 1 (HMGB1), mRNA|HMGB1|frame-3			7.690392448002624	100.0	0.0	0.0					Single Protein		NM_002128_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+60	O60841				138.74166111845895	88.69	0.0	0.0					Single Protein		O60841	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+61	NM_005622_1	Homo sapiens acyl-CoA synthetase medium-chain family member 3 (ACSM3), transcript variant 1, mRNA|ACSM3|frame-3			7.031545942580804	100.0	0.0	0.0					Related Proteins	NM_202000_1	NM_005622_1, NM_202000_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+62	Q96A28				32.415246826711375	58.13	0.0	0.0					Single Protein		Q96A28	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+63	NM_001080401_5	Homo sapiens protein phosphatase 1B-like (FLJ40125), mRNA|PPM1N|frame-3			5.196854595150381	100.0	0.0	0.0					Single Protein		NM_001080401_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+64	XM_001717762_5	PREDICTED: Homo sapiens similar to hCG1645807 (LOC100127987), mRNA|LOC100127987|frame-2			5.288658301367064	100.0	0.0	0.0					Related Proteins	XM_001721722_5, XM_001727030_5	XM_001717762_5, XM_001721722_5, XM_001727030_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+65	P35251				128.17502542499633	97.21	0.0	0.0					Single Protein		P35251	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+66	Q96DY2				52.326797534342305	100.0	0.0	0.0					Single Protein		Q96DY2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+67	NM_194249_4	Homo sapiens dead end homolog 1 (zebrafish) (DND1), mRNA|DND1|frame-2			6.586069654692586	100.0	0.0	0.0					Single Protein		NM_194249_4	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+68	P02795				6.037196081363391	100.0	0.0	0.0					Single Protein		P02795	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+69	NM_015378_7	Homo sapiens vacuolar protein sorting 13 homolog D (S. cerevisiae) (VPS13D), transcript variant 1, mRNA|VPS13D|frame-2			4.6744944159098	100.0	0.0	0.0					Related Proteins	NM_018156_8	NM_015378_7, NM_018156_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+70	NM_018385_1	Homo sapiens large subunit GTPase 1 homolog (S. cerevisiae) (LSG1), mRNA|LSG1|frame-2			15.470730273612629	100.0	0.0	0.0					Single Protein		NM_018385_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+71	O60828				30.453999916563642	87.55	0.0	0.0					Single Protein		O60828	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+72	Q0VFZ6				66.3614435147229	100.0	1.45	850.6620084519626					Single Protein		Q0VFZ6	1	1	1	1	1	1	2	2	16.959064327485386	Doubtful
+73	NM_018034_4	Homo sapiens WD repeat domain 70 (WDR70), mRNA|WDR70|frame-2			6.813660383435034	100.0	0.0	0.0					Single Protein		NM_018034_4	0	2	2	0	2	0	0	3	16.959064327485386	Doubtful
+74	NM_006636_1	Homo sapiens methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase (MTHFD2), nuclear gene encoding mitochondrial protein, transcript variant 1, mRNA|MTHFD2|frame-1			4.79116481275337	100.0	0.0	0.0					Single Protein		NM_006636_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+75	NM_003401_1	Homo sapiens X-ray repair complementing defective repair in Chinese hamster cells 4 (XRCC4), transcript variant 1, mRNA|XRCC4|frame-1			7.775422789151878	100.0	0.0	0.0					Related Proteins	NM_022550_1	NM_003401_1, NM_022550_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+76	Q6PJI9				109.72364014830723	89.84	0.0	0.0					Single Protein		Q6PJI9	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+77	P48546				53.122657323580476	83.48	0.0	0.0					Single Protein		P48546	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+78	P48544				47.636849264616494	74.22	0.0	0.0					Single Protein		P48544	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+79	P23246				76.10162657329148	68.88	0.0	0.0					Single Protein		P23246	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+80	Q8TAT6				68.07688598361221	80.43	0.0	0.0					Single Protein		Q8TAT6	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+81	Q99973				290.30698835102305	88.05	0.0	0.0					Single Protein		Q99973	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+82	NM_001100169_2	Homo sapiens inner membrane protein, mitochondrial (mitofilin) (IMMT), nuclear gene encoding mitochondrial protein, transcript variant 2, mRNA|IMMT|frame-1			8.429932828760226	100.0	0.0	0.0					Related Proteins	NM_001100170_2, NM_006839_2	NM_001100169_2, NM_001100170_2, NM_006839_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+83	NM_199231_1	Homo sapiens glial cell derived neurotrophic factor (GDNF), transcript variant 2, mRNA|GDNF|frame-2			5.102547382276402	100.0	0.0	0.0					Single Protein		NM_199231_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+84	NM_001113528_6	Homo sapiens methyltransferase 5 domain containing 1 (METT5D1), transcript variant 1, mRNA|METTL15|frame-2			5.21160358498745	100.0	0.0	0.0					Related Proteins	NM_152636_7	NM_001113528_6, NM_152636_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+85	NM_001089_5	Homo sapiens ATP-binding cassette, sub-family A (ABC1), member 3 (ABCA3), mRNA|ABCA3|frame-3			4.7371295748464295	100.0	0.0	0.0					Single Protein		NM_001089_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+86	Q9HAB8				33.983790732637985	67.85	0.0	0.0					Single Protein		Q9HAB8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+87	NM_001134382_2	Homo sapiens IQ motif and Sec7 domain 1 (IQSEC1), transcript variant 1, mRNA|IQSEC1|frame-3			4.589253885457952	100.0	0.0	0.0					Related Proteins	NM_014869_2	NM_001134382_2, NM_014869_2	0	1	1	0	1	0	1	1	16.959064327485386	Doubtful
+88	Q9Y5Q5				116.4085856003921	67.47	0.0	0.0					Single Protein		Q9Y5Q5	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+89	O14901				55.10369660452058	74.61	0.0	0.0					Single Protein		O14901	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+90	NM_152638_2	Homo sapiens chromosome 12 open reading frame 12 (C12orf12), mRNA|C12orf12|frame-1			11.290187743269367	100.0	0.0	0.0					Single Protein		NM_152638_2	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+91	Q8IWF2				77.74258541807997	82.6	0.0	0.0					Single Protein		Q8IWF2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+92	P49458				10.105110978329646	100.0	12.79	2730.031562008624					Single Protein		P49458	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+93	NM_181786_6	Homo sapiens GLI-Kruppel family member HKR1 (HKR1), mRNA|HKR1|frame-1			9.325417899263735	100.0	0.0	0.0					Single Protein		NM_181786_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+94	P06748				32.55484168905772	78.57	21.09	2879.730262378506	Oxidation of M(M65, M81)	Oxidation of M(2)			Single Protein		P06748	3	4	4	3	4	3	5	7	16.959064327485386	Doubtful
+95	NM_022765_1	Homo sapiens microtubule associated monoxygenase, calponin and LIM domain containing 1 (MICAL1), transcript variant 1, mRNA|MICAL1|frame-2			21.70348512698051	75.76	0.0	0.0					Single Protein		NM_022765_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+96	NM_001944_3	Homo sapiens desmoglein 3 (pemphigus vulgaris antigen) (DSG3), mRNA|DSG3|frame-2			9.579085845632546	100.0	0.0	0.0					Single Protein		NM_001944_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+97	P62841				17.02917330075057	100.0	0.0	0.0					Single Protein		P62841	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+98	O14910				25.9805789651589	100.0	0.0	0.0					Single Protein		O14910	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+99	NM_001136478_1	Homo sapiens acidic (leucine-rich) nuclear phosphoprotein 32 family, member E (ANP32E), transcript variant 2, mRNA|ANP32E|frame-3			9.983584043975348	100.0	0.0	0.0					Related Proteins	NM_001136479_1, NM_030920_1	NM_001136478_1, NM_001136479_1, NM_030920_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+100	Q9BTX3				19.629040212501103	72.25	0.0	0.0					Single Protein		Q9BTX3	0	1	1	0	1	0	0	20	16.959064327485386	Doubtful
+101	NM_001077697_1	Homo sapiens testis specific protein, Y-linked 3 (TSPY3), mRNA|TSPY3|frame-2			5.34371260295273	100.0	0.0	0.0					Related and Unrelated Proteins	NM_003308_1, NM_022573_1, XM_001126990_1, XM_001127004_1, XM_001720772_1, XM_002344198_1	NM_001077697_1, NM_003308_1, NM_022573_1, XM_001126990_1, XM_001127004_1, XM_001720772_1, XM_002344198_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+102	O14924				156.26053060034903	78.09	0.0	0.0					Single Protein		O14924	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+103	NM_002096_1	Homo sapiens general transcription factor IIF, polypeptide 1, 74kDa (GTF2F1), mRNA|GTF2F1|frame-2			4.720534943309101	100.0	0.0	0.0					Single Protein		NM_002096_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+104	NM_017677_1	Homo sapiens myotubularin related protein 8 (MTMR8), mRNA|MTMR8|frame-1			6.439209024691399	100.0	0.0	0.0					Single Protein		NM_017677_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+105	Q8NE18				80.98837451288746	85.93	0.0	0.0					Single Protein		Q8NE18	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+106	Q09666				628.6993855112892	98.08	0.0	0.0					Single Protein		Q09666	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+107	NM_001145647_3	Homo sapiens zinc finger protein 709 (ZNF709), transcript variant 2, mRNA|ZNF709|frame-2			25.13230142856498	100.0	0.0	0.0					Related Proteins	NM_152601_3	NM_001145647_3, NM_152601_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+108	NM_001037872_1	Homo sapiens REV1 homolog (S. cerevisiae) (REV1), transcript variant 2, mRNA|REV1|frame-1			6.5053491789657425	100.0	0.0	0.0					Related Proteins	NM_016316_1	NM_001037872_1, NM_016316_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+109	NM_000785_1	Homo sapiens cytochrome P450, family 27, subfamily B, polypeptide 1 (CYP27B1), nuclear gene encoding mitochondrial protein, mRNA|CYP27B1|frame-2			36.02479556973244	90.78	0.0	0.0					Single Protein		NM_000785_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+110	P04553				6.818507419550994	100.0	0.0	0.0					Single Protein		P04553	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+111	Q9BYX4				116.61471308798878	81.17	0.0	0.0					Single Protein		Q9BYX4	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+112	A6NGY5				35.82492409702667	61.44	0.0	0.0					Single Protein		A6NGY5	0	1	1	0	1	0	0	4	10.901162790697672	Doubtful
+113	P19174				148.4378755133374	88.14	0.0	0.0					Single Protein		P19174	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+114	Q9UPN4				122.07513784271897	96.86	0.0	0.0					Single Protein		Q9UPN4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+115	P68400				45.11479898146644	84.91	0.0	0.0					Related Proteins	Q8NEV1	P68400, Q8NEV1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+116	XM_001133559_7	PREDICTED: Homo sapiens similar to UPF0627 protein ENSP00000358171, transcript variant 1 (LOC644634), mRNA|LOC644634|frame-3			4.89962420129273	100.0	0.0	0.0					Single Protein		XM_001133559_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+117	Q8NEH6				60.533376141760634	100.0	0.0	0.0					Single Protein		Q8NEH6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+118	NM_003309_4	Homo sapiens TSPY-like 1 (TSPYL1), mRNA|TSPYL1|frame-3			16.479015662503507	63.64	0.0	0.0					Single Protein		NM_003309_4	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+119	NM_173080_1	Homo sapiens small proline-rich protein 4 (SPRR4), mRNA|SPRR4|frame-3			4.667997834594501	100.0	0.0	0.0					Single Protein		NM_173080_1	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+120	Q96F44				52.740535676319354	80.56	0.0	0.0					Single Protein		Q96F44	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+121	NM_152501_1	Homo sapiens pyrin and HIN domain family, member 1 (PYHIN1), transcript variant a1, mRNA|PYHIN1|frame-1			6.701716106588905	100.0	0.0	0.0					Related Proteins	NM_198928_1, NM_198929_1, NM_198930_1	NM_152501_1, NM_198928_1, NM_198929_1, NM_198930_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+122	Q96AK3				46.56768187611175	89.38	0.0	0.0					Single Protein		Q96AK3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+123	NM_000852_1	Homo sapiens glutathione S-transferase pi 1 (GSTP1), mRNA|GSTP1|frame-2			4.803553035901391	100.0	0.0	0.0					Single Protein		NM_000852_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+124	Q8NEG4				55.451067848200765	100.0	0.0	0.0					Single Protein		Q8NEG4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+125	Q96RL7				360.04744556889955	81.19	0.0	0.0					Single Protein		Q96RL7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+126	NM_004119_4	Homo sapiens fms-related tyrosine kinase 3 (FLT3), mRNA|FLT3|frame-1			7.576643776212452	100.0	0.0	0.0					Single Protein		NM_004119_4	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+127	P07437				49.63897134453148	72.07	17.12	1160.9126401093972	Oxidation of M(M257, M330, M388)	Oxidation of M(3)			Related Proteins	P68371, Q13885, Q9BVA1	P07437, P68371, Q13885, Q9BVA1	6	6	0	0	0	0	7	7	16.959064327485386	Doubtful
+128	Q9Y2I1				166.52405154065326	72.01	0.0	0.0					Single Protein		Q9Y2I1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+129	NM_005456_5	Homo sapiens mitogen-activated protein kinase 8 interacting protein 1 (MAPK8IP1), mRNA|MAPK8IP1|frame-2			11.025704743691847	100.0	0.0	0.0					Related Proteins	XM_001719157_1	NM_005456_5, XM_001719157_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+130	NM_014901_4	Homo sapiens ring finger protein 44 (RNF44), mRNA|RNF44|frame-3			6.69028544978491	100.0	0.0	0.0					Single Protein		NM_014901_4	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+131	NM_203422_1	Homo sapiens LRRN4 C-terminal like (LRRN4CL), mRNA|LRRN4CL|frame-3			10.732516265896193	100.0	0.0	0.0					Single Protein		NM_203422_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+132	NM_001127397_3	Homo sapiens chromosome 2 open reading frame 30 (C2orf30), transcript variant 2, mRNA|ERLEC1|frame-2			5.517009473237702	100.0	0.0	0.0					Related Proteins	NM_001127398_3, NM_015701_3	NM_001127397_3, NM_001127398_3, NM_015701_3	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+133	NM_015143_4	Homo sapiens methionyl aminopeptidase 1 (METAP1), mRNA|METAP1|frame-1			5.358272219339552	100.0	0.0	0.0					Single Protein		NM_015143_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+134	NM_183404_2	Homo sapiens retinoblastoma-like 1 (p107) (RBL1), transcript variant 2, mRNA|RBL1|frame-1			5.984211723543223	100.0	0.0	0.0					Single Protein		NM_183404_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+135	NM_015241_6	Homo sapiens microtubule associated monoxygenase, calponin and LIM domain containing 3 (MICAL3), transcript variant 1, mRNA|MICAL3|frame-1			10.159725824591543	100.0	0.0	0.0					Single Protein		NM_015241_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+136	O75110				118.50617593500729	76.31	0.0	0.0					Single Protein		O75110	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+137	O75592				509.7591102917366	79.83	0.0	0.0					Single Protein		O75592	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+138	NM_001076786_6	Homo sapiens glutamine and serine rich 1 (QSER1), mRNA|QSER1|frame-1			10.956358726145716	100.0	0.0	0.0					Single Protein		NM_001076786_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+139	NM_018124_8	Homo sapiens ring finger and WD repeat domain 3 (RFWD3), mRNA|RFWD3|frame-2			5.038159627665942	100.0	0.0	0.0					Single Protein		NM_018124_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+140	NM_005937_9	Homo sapiens myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 6 (MLLT6), mRNA|MLLT6|frame-3			8.76561053927098	100.0	0.0	0.0					Single Protein		NM_005937_9	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+141	NM_001135170_2	Homo sapiens C1q and tumor necrosis factor related protein 7 (C1QTNF7), transcript variant 1, mRNA|C1QTNF7|frame-1			5.51749873038331	100.0	0.0	0.0					Related Proteins	NM_001135171_2, NM_031911_3	NM_001135170_2, NM_001135171_2, NM_031911_3	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+142	NM_032594_1	Homo sapiens insulinoma-associated 2 (INSM2), mRNA|INSM2|frame-1			16.10242563464687	100.0	0.0	0.0					Single Protein		NM_032594_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+143	Q93070				35.854489361534114	100.0	0.0	0.0					Single Protein		Q93070	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+144	P23229				126.5261823855553	89.47	0.0	0.0					Single Protein		P23229	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+145	NM_024490_7	Homo sapiens ATPase, class V, type 10A (ATP10A), mRNA|ATP10A|frame-1			4.292934563437991	100.0	0.0	0.0					Single Protein		NM_024490_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+146	NM_006058_2	Homo sapiens TNFAIP3 interacting protein 1 (TNIP1), mRNA|TNIP1|frame-3			11.408705333406951	62.38	0.0	0.0					Single Protein		NM_006058_2	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+147	P78337				34.10643401335718	75.16	0.0	0.0					Single Protein		P78337	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+148	Q5T848				135.40366279631468	94.32	0.0	0.0					Single Protein		Q5T848	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+149	NM_006802_2	Homo sapiens splicing factor 3a, subunit 3, 60kDa (SF3A3), mRNA|SF3A3|frame-3			6.8355929910413975	100.0	0.0	0.0					Single Protein		NM_006802_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+150	Q93052				65.7038329576853	65.36	0.0	0.0					Single Protein		Q93052	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+151	NM_001018091_1	Homo sapiens GRINL1A complex locus (GCOM1), transcript variant 2, mRNA|GCOM1|frame-2			5.419558604409132	100.0	0.0	0.0					Related Proteins	P0CAP2, Q9BZD3	NM_001018091_1, P0CAP2, Q9BZD3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+152	O95361				63.91456235106054	86.52	0.0	0.0					Related Proteins	Q309B1	O95361, Q309B1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+153	O15047				185.92013916233606	68.13	0.0	0.0					Single Protein		O15047	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+154	NM_001128827_6	Homo sapiens discs, large homolog 4 (Drosophila) (DLG4), transcript variant 2, mRNA|DLG4|frame-3			10.189238791904867	100.0	0.0	0.0					Single Protein		NM_001128827_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+155	NM_020805_10	Homo sapiens kelch-like 14 (Drosophila) (KLHL14), mRNA|KLHL14|frame-3			6.375102885663403	100.0	0.0	0.0					Single Protein		NM_020805_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+156	O15063				115.94625792811179	75.79	0.0	0.0					Single Protein		O15063	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+157	P78369				24.47211077956992	72.37	0.0	0.0					Single Protein		P78369	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+158	NM_015156_2	Homo sapiens REST corepressor 1 (RCOR1), mRNA|RCOR1|frame-2			10.79614453024275	100.0	0.0	0.0					Single Protein		NM_015156_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+159	NM_021076_1	Homo sapiens neurofilament, heavy polypeptide (NEFH), mRNA|NEFH|frame-1			14.65628963366505	100.0	0.0	0.0					Single Protein		NM_021076_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+160	NM_014375_1	Homo sapiens fetuin B (FETUB), mRNA|FETUB|frame-3			5.244422209204501	100.0	0.0	0.0					Single Protein		NM_014375_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+161	NM_001007531_2	Homo sapiens NFKB activating protein-like (NKAPL), mRNA|NKAPL|frame-3			7.536360512735241	100.0	0.0	0.0					Single Protein		NM_001007531_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+162	P24534				24.74826223641773	85.78	6.67	1216.4907478380399					Single Protein		P24534	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+163	Q9NTI7				32.73831226749541	100.0	0.0	0.0					Single Protein		Q9NTI7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+164	NM_003055_2	Homo sapiens solute carrier family 18 (vesicular acetylcholine), member 3 (SLC18A3), mRNA|SLC18A3|frame-2			6.8886860267722545	100.0	0.0	0.0					Single Protein		NM_003055_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+165	NM_001099921_1	Homo sapiens melanoma antigen family B, 16 (MAGEB16), mRNA|MAGEB16|frame-1			4.794649385539841	100.0	0.0	0.0					Single Protein		NM_001099921_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+166	Q96RN1				108.9354120468599	68.56	0.0	0.0					Single Protein		Q96RN1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+167	NM_004960_2	Homo sapiens fusion (involved in t(12;16) in malignant liposarcoma) (FUS), mRNA|FUS|frame-1			13.409303622114823	52.76	0.0	0.0					Single Protein		NM_004960_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+168	NM_004809_5	Homo sapiens stomatin (EPB72)-like 1 (STOML1), mRNA|STOML1|frame-3			6.400374783200384	100.0	0.0	0.0					Single Protein		NM_004809_5	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+169	NM_001771_3	Homo sapiens CD22 molecule (CD22), mRNA|CD22|frame-1			12.806659538058884	100.0	0.0	0.0					Single Protein		NM_001771_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+170	O15069				161.00201128670736	29.96	0.0	0.0					Single Protein		O15069	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+171	O95947				47.015542228091725	66.74	0.0	0.0					Single Protein		O95947	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+172	Q13753				130.89167837482447	74.43	0.0	0.0					Single Protein		Q13753	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+173	NM_175709_5	Homo sapiens chromobox homolog 7 (CBX7), mRNA|CBX7|frame-1			6.357185671642142	100.0	0.0	0.0					Single Protein		NM_175709_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+174	NM_001134437_4	Homo sapiens pleckstrin homology-like domain, family B, member 2 (PHLDB2), transcript variant 3, mRNA|PHLDB2|frame-1			5.312801330790902	100.0	0.0	0.0					Related Proteins	NM_001134438_4, NM_001134439_4, NM_145753_4	NM_001134437_4, NM_001134438_4, NM_001134439_4, NM_145753_4	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+175	P42345				288.7066491624437	95.02	0.0	0.0					Single Protein		P42345	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+176	Q96AC1				77.81060980195136	88.09	0.0	0.0					Single Protein		Q96AC1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+177	Q9UGU5				65.67115037722708	75.21	0.0	0.0					Single Protein		Q9UGU5	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+178	NM_001039670_1	Homo sapiens intermediate filament family orphan 1 (IFFO1), transcript variant 4, mRNA|IFFO1|frame-3			16.887498614907496	100.0	0.0	0.0					Related Proteins	NM_080730_1	NM_001039670_1, NM_080730_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+179	NM_001005739_3	Homo sapiens vacuolar protein sorting 54 homolog (S. cerevisiae) (VPS54), transcript variant 2, mRNA|VPS54|frame-3			6.467151897012641	100.0	0.0	0.0					Related Proteins	NM_016516_3	NM_001005739_3, NM_016516_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+180	NM_001005408_7	Homo sapiens neuralized homolog 4 (Drosophila) (NEURL4), transcript variant 2, mRNA|NEURL4|frame-3			9.067654777822398	100.0	0.0	0.0					Related Proteins	NM_032442_7	NM_001005408_7, NM_032442_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+181	Q6ZU35				136.6778405868341	82.81	0.0	0.0					Single Protein		Q6ZU35	0	1	1	0	1	0	0	4	16.959064327485386	Doubtful
+182	NM_001127717_7	Homo sapiens laminin, alpha 3 (LAMA3), transcript variant 3, mRNA|LAMA3|frame-1			8.283908526250443	100.0	0.0	0.0					Related Proteins	NM_198129_7	NM_001127717_7, NM_198129_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+183	Q30KQ1				7.207585312020443	100.0	0.0	0.0					Single Protein		Q30KQ1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+184	O43933				142.7776231532109	70.69	0.0	0.0					Single Protein		O43933	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+185	Q8NA66				50.1921386775105	85.55	0.0	0.0					Single Protein		Q8NA66	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+186	NM_006363_4	Homo sapiens Sec23 homolog B (S. cerevisiae) (SEC23B), transcript variant 1, mRNA|SEC23B|frame-1			5.228493072371101	100.0	0.0	0.0					Related Proteins	NM_032985_4, NM_032986_4	NM_006363_4, NM_032985_4, NM_032986_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+187	NM_025163_1	Homo sapiens phosphatidylinositol glycan anchor biosynthesis, class Z (PIGZ), mRNA|PIGZ|frame-2			8.320874053124413	100.0	0.0	0.0					Single Protein		NM_025163_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+188	NM_001459_2	Homo sapiens fms-related tyrosine kinase 3 ligand (FLT3LG), mRNA|FLT3LG|frame-2			4.5964888279804805	100.0	0.0	0.0					Single Protein		NM_001459_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+189	O95980				106.38558615721071	81.36	0.0	0.0					Single Protein		O95980	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+190	NM_207406_16	Homo sapiens BEN domain containing 4 (BEND4), mRNA|BEND4|frame-2			4.76675289660528	100.0	0.0	0.0					Single Protein		NM_207406_16	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+191	Q9Y2B1				51.113167487937154	76.98	0.0	0.0					Single Protein		Q9Y2B1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+192	P04070				52.03746598245209	68.11	0.0	0.0					Single Protein		P04070	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+193	Q07954				504.2758511194592	85.59	0.0	0.0					Single Protein		Q07954	0	2	2	0	2	0	0	3	16.959064327485386	Doubtful
+194	P52597				45.6428553239703	69.64	5.06	812.3969354074108	Oxidation of M(M345)	Oxidation of M(1)			Single Protein		P52597	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+195	Q96RI9				38.990603748510864	51.44	0.0	0.0					Single Protein		Q96RI9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+196	NM_001144026_10	Homo sapiens NADPH dependent diflavin oxidoreductase 1 (NDOR1), transcript variant 1, mRNA|NDOR1|frame-1			8.574380084944243	100.0	0.0	0.0					Related Proteins	NM_001144027_10, NM_001144028_10, NM_014434_10	NM_001144026_10, NM_001144027_10, NM_001144028_10, NM_014434_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+197	Q14643				313.7294297690033	83.68	0.0	0.0					Single Protein		Q14643	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+198	Q5MCW4				79.53076442707467	100.0	0.0	0.0					Single Protein		Q5MCW4	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+199	NM_022900_3	Homo sapiens CAS1 domain containing 1 (CASD1), mRNA|CASD1|frame-2			8.398723845851986	100.0	0.0	0.0					Single Protein		NM_022900_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+200	A5PLK6				125.60677826647765	91.45	0.0	0.0					Single Protein		A5PLK6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+201	Q8N8J6				83.68422311786233	100.0	0.0	0.0					Single Protein		Q8N8J6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+202	NM_173681_8	Homo sapiens ATG9 autophagy related 9 homolog B (S. cerevisiae) (ATG9B), mRNA|ATG9B|frame-3			8.634228195175062	100.0	0.0	0.0					Single Protein		NM_173681_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+203	NM_000945_5	Homo sapiens protein phosphatase 3 (formerly 2B), regulatory subunit B, alpha isoform (PPP3R1), mRNA|PPP3R1|frame-2			5.615870759093742	100.0	0.0	0.0					Single Protein		NM_000945_5	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+204	P68363				50.119604615111854	73.84	7.76	1057.5797942916292					Related Proteins	Q71U36, Q9BQE3	P68363, Q71U36, Q9BQE3	2	4	4	2	4	2	2	4	16.959064327485386	Doubtful
+205	NM_004004_1	Homo sapiens gap junction protein, beta 2, 26kDa (GJB2), mRNA|GJB2|frame-3			6.323155406701804	100.0	0.0	0.0					Single Protein		NM_004004_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+206	NM_001079870_2	Homo sapiens huntingtin-associated protein 1 (HAP1), transcript variant 3, mRNA|HAP1|frame-2			6.041484916565982	100.0	0.0	0.0					Related Proteins	NM_001079871_2, NM_177977_2	NM_001079870_2, NM_001079871_2, NM_177977_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+207	NM_001085395_1	Homo sapiens Ssu72 RNA polymerase II CTD phosphatase-like (LOC136157), mRNA|LOC136157|frame-2			7.989770143604302	100.0	0.0	0.0					Single Protein		NM_001085395_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+208	Q14667				253.53943051391792	76.06	0.0	0.0					Single Protein		Q14667	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+209	NM_007131_8	Homo sapiens zinc finger protein 75D (ZNF75D), mRNA|ZNF75D|frame-2			11.146189190395894	100.0	0.0	0.0					Single Protein		NM_007131_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+210	Q9BYR0				22.516205352216268	13.81	0.0	0.0					Single Protein		Q9BYR0	0	2	2	0	2	0	0	3	10.901162790697672	Doubtful
+211	NM_012232_3	Homo sapiens polymerase I and transcript release factor (PTRF), mRNA|PTRF|frame-1			6.834243086655911	100.0	0.0	0.0					Single Protein		NM_012232_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+212	Q86Y01				67.32549440563145	80.65	0.0	0.0					Single Protein		Q86Y01	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+213	Q8N4A0				66.62350966504357	81.31	0.0	0.0					Single Protein		Q8N4A0	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+214	NM_015659_1	Homo sapiens ribosomal L1 domain containing 1 (RSL1D1), mRNA|RSL1D1|frame-3			7.129084791394614	100.0	0.0	0.0					Single Protein		NM_015659_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+215	NM_019596_2	Homo sapiens chromosome 21 open reading frame 62 (C21orf62), mRNA|C21orf62|frame-2			5.7770227507012235	100.0	0.0	0.0					Single Protein		NM_019596_2	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+216	P07437				49.63897134453148	72.07	15.77	724.4056760205636	Oxidation of M(M73, M257, M388)	Oxidation of M(3)			Related Proteins	Q13509, Q13885, Q9BVA1	P07437, Q13509, Q13885, Q9BVA1	5	5	0	0	0	0	5	5	16.959064327485386	Doubtful
+217	Q6P656				34.272148618051546	100.0	0.0	0.0					Single Protein		Q6P656	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+218	NM_015602_2	Homo sapiens torsin A interacting protein 1 (TOR1AIP1), mRNA|TOR1AIP1|frame-1			6.083539705366724	40.74	0.0	0.0					Single Protein		NM_015602_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+219	NM_001081676_3	Homo sapiens sodium channel, voltage-gated, type III, alpha subunit (SCN3A), transcript variant 2, mRNA|SCN3A|frame-2			5.926297609581473	100.0	0.0	0.0					Related Proteins	NM_001081677_3, NM_006922_3	NM_001081676_3, NM_001081677_3, NM_006922_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+220	NM_019112_2	Homo sapiens ATP-binding cassette, sub-family A (ABC1), member 7 (ABCA7), mRNA|ABCA7|frame-2			6.730998197061359	100.0	0.0	0.0					Single Protein		NM_019112_2	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+221	Q02224				316.21934593738314	96.22	0.0	0.0					Single Protein		Q02224	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+222	NM_001042383_7	Homo sapiens centrosomal protein 63kDa (CEP63), transcript variant 3, mRNA|CEP63|frame-3			6.122857319042881	100.0	0.0	0.0					Related Proteins	NM_001042400_6, NM_025180_7	NM_001042383_7, NM_001042400_6, NM_025180_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+223	NM_001077263_4	Homo sapiens transmembrane protease, serine 13 (TMPRSS13), mRNA|TMPRSS13|frame-3			18.440376463731724	70.41	0.0	0.0					Single Protein		NM_001077263_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+224	Q8ND61				101.20202801602375	75.33	0.0	0.0					Single Protein		Q8ND61	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+225	NM_001123066_5	Homo sapiens microtubule-associated protein tau (MAPT), transcript variant 6, mRNA|MAPT|frame-2			11.229644221675446	100.0	0.0	0.0					Related Proteins	NM_001123067_2, NM_005910_3, NM_016834_2, NM_016835_5, NM_016841_2	NM_001123066_5, NM_001123067_2, NM_005910_3, NM_016834_2, NM_016835_5, NM_016841_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+226	Q8IZQ8				101.93382357425959	66.63	0.0	0.0					Single Protein		Q8IZQ8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+227	NM_005554_3	Homo sapiens keratin 6A (KRT6A), mRNA|KRT6A|frame-1			9.65071484823995	100.0	0.0	0.0					Related Proteins	NM_005555_3, NM_173086_3	NM_005554_3, NM_005555_3, NM_173086_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+228	NM_001079521_1	Homo sapiens kinectin 1 (kinesin receptor) (KTN1), transcript variant 2, mRNA|KTN1|frame-3			7.340070171986562	100.0	0.0	0.0					Related Proteins	NM_001079522_1, NM_004986_1, NM_182926_1	NM_001079521_1, NM_001079522_1, NM_004986_1, NM_182926_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+229	NM_024718_2	Homo sapiens chromosome 9 open reading frame 86 (C9orf86), mRNA|C9orf86|frame-3			16.380251728019957	100.0	0.0	0.0					Single Protein		NM_024718_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+230	O15528				56.4684828601341	79.72	0.0	0.0					Single Protein		O15528	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+231	NM_144666_16	Homo sapiens dynein heavy chain domain 1 (DNHD1), transcript variant 1, mRNA|DNHD1|frame-2			10.657972505246608	100.0	0.0	0.0					Single Protein		NM_144666_16	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+232	NM_145239_4	Homo sapiens proline-rich transmembrane protein 2 (PRRT2), mRNA|PRRT2|frame-2			6.902968315603634	100.0	0.0	0.0					Single Protein		NM_145239_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+233	NM_001142276_1	Homo sapiens amyloid beta (A4) precursor-like protein 2 (APLP2), transcript variant 2, mRNA|APLP2|frame-3			14.665106934075698	100.0	0.0	0.0					Related Proteins	NM_001142277_1, NM_001642_1	NM_001142276_1, NM_001142277_1, NM_001642_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+234	Q96Q89				210.49959717422954	96.32	0.0	0.0					Single Protein		Q96Q89	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+235	Q5SYB0				173.3278348561364	80.35	0.0	0.0					Single Protein		Q5SYB0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+236	Q8IVF4				514.5120625954278	89.49	0.0	0.0					Single Protein		Q8IVF4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+237	Q3YEC7				79.49956740912693	69.82	0.0	0.0					Single Protein		Q3YEC7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+238	Q96M02				77.86188017346389	95.42	0.0	0.0					Single Protein		Q96M02	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+239	Q92833				138.6477416434995	94.78	0.0	0.0					Single Protein		Q92833	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+240	NM_001122823_1	Homo sapiens general transcription factor IIIC, polypeptide 5, 63kDa (GTF3C5), transcript variant 1, mRNA|GTF3C5|frame-3			18.496066126834073	100.0	0.0	0.0					Related Proteins	NM_012087_1	NM_001122823_1, NM_012087_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+241	Q68CL5				33.29658248762886	86.33	0.0	0.0					Single Protein		Q68CL5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+242	NM_052917_5	Homo sapiens UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 13 (GalNAc-T13) (GALNT13), mRNA|GALNT13|frame-2			4.78927967650351	100.0	0.0	0.0					Single Protein		NM_052917_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+243	NM_183420_2	Homo sapiens F-box protein 25 (FBXO25), transcript variant 2, mRNA|FBXO25|frame-1			6.831746303795322	100.0	0.0	0.0					Related Proteins	NM_183421_2	NM_183420_2, NM_183421_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+244	NM_020717_4	Homo sapiens shroom family member 4 (SHROOM4), transcript variant 1, mRNA|SHROOM4|frame-1			15.87999564752167	100.0	0.0	0.0					Single Protein		NM_020717_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+245	NM_030877_2	Homo sapiens catenin, beta like 1 (CTNNBL1), mRNA|CTNNBL1|frame-3			4.867342819601651	100.0	0.0	0.0					Single Protein		NM_030877_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+246	Q6PIV2				33.288850340570974	89.04	0.0	0.0					Single Protein		Q6PIV2	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+247	P61221				67.27101753796342	87.48	0.0	0.0					Single Protein		P61221	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+248	NM_001014972_6	Homo sapiens zinc finger protein 638 (ZNF638), transcript variant 2, mRNA|ZNF638|frame-2			5.530169176656311	100.0	0.0	0.0					Related Proteins	NM_014497_6	NM_001014972_6, NM_014497_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+249	NM_152704_1	Homo sapiens family with sequence similarity 123A (FAM123A), transcript variant 1, mRNA|FAM123A|frame-3			20.955213460208896	100.0	0.0	0.0					Related Proteins	NM_199138_1	NM_152704_1, NM_199138_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+250	NM_130444_4	Homo sapiens collagen, type XVIII, alpha 1 (COL18A1), transcript variant 3, mRNA|COL18A1|frame-2			12.882192240239606	100.0	0.0	0.0					Single Protein		NM_130444_4	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+251	Q8IZT6				409.5401206158564	96.66	0.0	0.0					Single Protein		Q8IZT6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+252	Q9H875				20.983937906630608	100.0	0.0	0.0					Single Protein		Q9H875	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+253	NM_018165_2	Homo sapiens polybromo 1 (PBRM1), transcript variant 1, mRNA|PBRM1|frame-2			5.901052964990981	39.22	0.0	0.0					Related Proteins	NM_018313_2, NM_181042_2	NM_018165_2, NM_018313_2, NM_181042_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+254	NM_013308_1	Homo sapiens G protein-coupled receptor 171 (GPR171), mRNA|GPR171|frame-2			5.203889766917571	100.0	0.0	0.0					Single Protein		NM_013308_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+255	NM_015568_1	Homo sapiens protein phosphatase 1, regulatory (inhibitor) subunit 16B (PPP1R16B), mRNA|PPP1R16B|frame-2			5.901855042516833	100.0	0.0	0.0					Single Protein		NM_015568_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+256	NM_001114978_2	Homo sapiens tumor protein p63 (TP63), transcript variant 2, mRNA|TP63|frame-1			6.3483317483543305	100.0	0.0	0.0					Related Proteins	NM_001114979_2, NM_001114980_2, NM_001114981_2, NM_001114982_2, NM_003722_2	NM_001114978_2, NM_001114979_2, NM_001114980_2, NM_001114981_2, NM_001114982_2, NM_003722_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+257	NM_016442_3	Homo sapiens endoplasmic reticulum aminopeptidase 1 (ERAP1), transcript variant 1, mRNA|ERAP1|frame-2			6.181902226755991	100.0	0.0	0.0					Single Protein		NM_016442_3	0	1	1	0	1	0	0	5	10.901162790697672	Doubtful
+258	O60507				42.16098015351985	100.0	0.0	0.0					Single Protein		O60507	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+259	O43184				99.4774424694786	81.41	0.0	0.0					Single Protein		O43184	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+260	NM_001013618_2	Homo sapiens immunoglobulin lambda-like polypeptide 3 (IGLL3), mRNA|IGLL3P|frame-3			6.109158441283302	100.0	0.0	0.0					Single Protein		NM_001013618_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+261	Q5TC82				125.65764275371633	87.03	0.0	0.0					Single Protein		Q5TC82	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+262	NM_030820_3	Homo sapiens collagen, type XXI, alpha 1 (COL21A1), mRNA|COL21A1|frame-3			13.806157671112036	100.0	0.0	0.0					Single Protein		NM_030820_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+263	NM_004461_1	Homo sapiens phenylalanyl-tRNA synthetase, alpha subunit (FARSA), mRNA|FARSA|frame-2			9.330442770617502	100.0	0.0	0.0					Single Protein		NM_004461_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+264	Q9H7T0				126.84255221289192	70.61	0.0	0.0					Single Protein		Q9H7T0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+265	NM_001100161_2	Homo sapiens exportin 7 (XPO7), transcript variant 1, mRNA|XPO7|frame-2			5.25952498542385	100.0	0.0	0.0					Related Proteins	NM_001100162_2, NM_015024_2	NM_001100161_2, NM_001100162_2, NM_015024_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+266	NM_152381_3	Homo sapiens xin actin-binding repeat containing 2 (XIRP2), transcript variant 1, mRNA|XIRP2|frame-2			4.92782909832065	100.0	0.0	0.0					Single Protein		NM_152381_3	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+267	O43193				45.31502482996991	73.79	0.0	0.0					Single Protein		O43193	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+268	P08631				59.56167445924366	87.26	0.0	0.0					Single Protein		P08631	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+269	NM_005840_3	Homo sapiens sprouty homolog 3 (Drosophila) (SPRY3), mRNA|SPRY3|frame-3			7.133624386500184	100.0	0.0	0.0					Single Protein		NM_005840_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+270	NM_001135110_3	Homo sapiens DnaJ (Hsp40) homolog, subfamily A, member 3 (DNAJA3), transcript variant 2, mRNA|DNAJA3|frame-1			13.648291514934051	100.0	0.0	0.0					Related Proteins	NM_005147_3	NM_001135110_3, NM_005147_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+271	NM_017919_7	Homo sapiens syntaxin 17 (STX17), mRNA|STX17|frame-2			7.198933861754554	100.0	0.0	0.0					Single Protein		NM_017919_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+272	NM_000313_1	Homo sapiens protein S (alpha) (PROS1), mRNA|PROS1|frame-1			5.708299204694332	100.0	0.0	0.0					Single Protein		NM_000313_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+273	NM_001043351_5	Homo sapiens tropomyosin 3 (TPM3), transcript variant 4, mRNA|TPM3|frame-2			6.3020337009881136	100.0	0.0	0.0					Related Proteins	NM_001043352_5, NM_001043353_6, NM_153649_4	NM_001043351_5, NM_001043352_5, NM_001043353_6, NM_153649_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+274	NM_004515_1	Homo sapiens interleukin enhancer binding factor 2, 45kDa (ILF2), mRNA|ILF2|frame-2			7.778369933604942	100.0	0.0	0.0					Single Protein		NM_004515_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+275	Q6UXX5				143.09778944201054	69.69	0.0	0.0					Single Protein		Q6UXX5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+276	NM_004768_1	Homo sapiens splicing factor, arginine/serine-rich 11 (SFRS11), mRNA|SRSF11|frame-1			9.301566356585454	100.0	0.0	0.0					Single Protein		NM_004768_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+277	NM_001098502_2	Homo sapiens coiled-coil-helix-coiled-coil-helix domain containing 4 (CHCHD4), nuclear gene encoding mitochondrial protein, transcript variant 1, mRNA|CHCHD4|frame-2			9.037897391046256	100.0	0.0	0.0					Related Proteins	NM_144636_3	NM_001098502_2, NM_144636_3	0	1	1	0	1	0	0	2	16.959064327485386	Doubtful
+278	NM_001135057_10	Homo sapiens leucine rich repeat containing 15 (LRRC15), transcript variant 1, mRNA|LRRC15|frame-2			5.925950714529871	100.0	0.0	0.0					Related Proteins	NM_130830_10	NM_001135057_10, NM_130830_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+279	NM_001123329_2	Homo sapiens zinc finger and BTB domain containing 1 (ZBTB1), transcript variant 1, mRNA|ZBTB1|frame-3			6.265507553291302	100.0	0.0	0.0					Related Proteins	NM_014950_2	NM_001123329_2, NM_014950_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+280	NM_005049_4	Homo sapiens PWP2 periodic tryptophan protein homolog (yeast) (PWP2), mRNA|PWP2|frame-2			6.1480914265462525	100.0	0.0	0.0					Single Protein		NM_005049_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+281	NM_058190_1	Homo sapiens chromosome 21 open reading frame 70 (C21orf70), mRNA|C21orf70|frame-2			10.014793905900898	100.0	0.0	0.0					Single Protein		NM_058190_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+282	Q15391				38.9458671553724	84.32	0.0	0.0					Single Protein		Q15391	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+283	XM_001130634_2	PREDICTED: Homo sapiens ankyrin repeat domain 33B (ANKRD33B), mRNA|ANKRD33B|frame-2			14.849744057928472	100.0	0.0	0.0					Related Proteins	XM_001723774_2, XM_940961_4	XM_001130634_2, XM_001723774_2, XM_940961_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+284	NM_018685_1	Homo sapiens anillin, actin binding protein (ANLN), mRNA|ANLN|frame-2			4.71055041013244	100.0	53.66	5726.407666652237					Single Protein		NM_018685_1	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+285	XM_002343448_1	PREDICTED: Homo sapiens hypothetical protein LOC100287628 (LOC100287628), mRNA|LOC100287628|frame-1			10.472634519752116	100.0	13.79	0.0					Related Proteins	XM_002344958_1, XM_002347599_1	XM_002343448_1, XM_002344958_1, XM_002347599_1	1	1	1	1	1	1	0	2	16.959064327485386	Doubtful
+286	NM_006641_5	Homo sapiens chemokine (C-C motif) receptor 9 (CCR9), transcript variant B, mRNA|CCR9|frame-1			7.281998996237343	100.0	0.0	0.0					Related Proteins	NM_031200_5	NM_006641_5, NM_031200_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+287	NM_005115_3	Homo sapiens major vault protein (MVP), transcript variant 2, mRNA|MVP|frame-2			4.950180465011121	100.0	0.0	0.0					Related Proteins	NM_017458_3	NM_005115_3, NM_017458_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+288	Q8IZF0				200.20067708443665	64.61	0.0	0.0					Single Protein		Q8IZF0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+289	NM_001410_22	Homo sapiens multiple EGF-like-domains 8 (MEGF8), mRNA|MEGF8|frame-2			13.085397155945039	100.0	0.0	0.0					Single Protein		NM_001410_22	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+290	NM_001042481_6	Homo sapiens FERM domain containing 6 (FRMD6), transcript variant 1, mRNA|FRMD6|frame-2			4.35003409060604	100.0	0.0	0.0					Related Proteins	NM_152330_5	NM_001042481_6, NM_152330_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+291	NM_001113490_5	Homo sapiens angiomotin (AMOT), transcript variant 1, mRNA|AMOT|frame-3			4.8017167368236695	100.0	0.0	0.0					Related Proteins	NM_133265_4	NM_001113490_5, NM_133265_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+292	NM_001006115_2	Homo sapiens inositol hexakisphosphate kinase 1 (IP6K1), transcript variant 2, mRNA|IP6K1|frame-2			8.430969580450553	100.0	0.0	0.0					Related Proteins	NM_153273_3	NM_001006115_2, NM_153273_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+293	NM_024736_4	Homo sapiens gasdermin D (GSDMD), mRNA|GSDMD|frame-3			5.081242356486301	100.0	0.0	0.0					Single Protein		NM_024736_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+294	P52746				187.75835235058506	78.13	0.0	0.0					Single Protein		P52746	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+295	Q9UFE4				109.83287887600942	100.0	0.0	0.0					Single Protein		Q9UFE4	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+296	A6NNA2				65.2103003872136	89.28	0.0	0.0					Single Protein		A6NNA2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+297	Q9P2M4				78.08792518135016	72.15	0.0	0.0					Single Protein		Q9P2M4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+298	O14617				130.07577953676952	82.57	0.0	0.0					Single Protein		O14617	0	1	1	0	1	0	0	8	10.901162790697672	Doubtful
+299	Q5M9N0				127.06189905036153	97.21	0.0	0.0					Single Protein		Q5M9N0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+300	P10070				167.67838726754155	52.14	0.0	0.0					Single Protein		P10070	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+301	Q00765				21.479042067436154	59.79	0.0	0.0					Single Protein		Q00765	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+302	NM_004198_4	Homo sapiens cholinergic receptor, nicotinic, alpha 6 (CHRNA6), mRNA|CHRNA6|frame-3			8.404512760521763	100.0	0.0	0.0					Single Protein		NM_004198_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+303	NM_014831_3	Homo sapiens lupus brain antigen 1 (LBA1), mRNA|TRANK1|frame-1			4.613107406658671	100.0	0.0	0.0					Single Protein		NM_014831_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+304	NM_001142555_1	Homo sapiens aarF domain containing kinase 4 (ADCK4), transcript variant 2, mRNA|ADCK4|frame-2			27.78494701761857	85.66	0.0	0.0					Related Proteins	NM_024876_3	NM_001142555_1, NM_024876_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+305	NM_002009_5	Homo sapiens fibroblast growth factor 7 (keratinocyte growth factor) (FGF7), mRNA|FGF7|frame-2			5.973753724598991	100.0	0.0	0.0					Single Protein		NM_002009_5	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+306	NM_173689_1	Homo sapiens crumbs homolog 2 (Drosophila) (CRB2), mRNA|CRB2|frame-1			25.361770871829957	70.97	0.0	0.0					Single Protein		NM_173689_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+307	NM_001008801_8	Homo sapiens zinc finger protein 468 (ZNF468), transcript variant 2, mRNA|ZNF468|frame-3			12.517739355307166	100.0	0.0	0.0					Related Proteins	NM_199132_9	NM_001008801_8, NM_199132_9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+308	Q99435				91.28446326054858	80.88	0.0	0.0					Single Protein		Q99435	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+309	NM_022742_4	Homo sapiens coiled-coil domain containing 136 (CCDC136), mRNA|CCDC136|frame-3			6.449823915189145	100.0	0.0	0.0					Single Protein		NM_022742_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+310	NM_014417_1	Homo sapiens BCL2 binding component 3 (BBC3), transcript variant 4, mRNA|BBC3|frame-3			4.765364423921351	100.0	0.0	0.0					Single Protein		NM_014417_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+311	XM_001717914_3	PREDICTED: Homo sapiens similar to hCG1645909 (LOC388553), mRNA|LOC388553|frame-2			5.1846598011494205	100.0	0.0	0.0					Related Proteins	XM_373809_3, XM_944980_3	XM_001717914_3, XM_373809_3, XM_944980_3	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+312	Q8TA86				26.090522336241204	100.0	0.0	0.0					Single Protein		Q8TA86	0	3	3	0	3	0	0	4	16.959064327485386	Doubtful
+313	Q9GZU5				51.96730415669277	86.69	0.0	0.0					Single Protein		Q9GZU5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+314	NM_015444_1	Homo sapiens transmembrane protein 158 (TMEM158), mRNA|TMEM158|frame-3			5.693042372555341	100.0	0.0	0.0					Single Protein		NM_015444_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+315	NM_015444_2	Homo sapiens transmembrane protein 158 (TMEM158), mRNA|TMEM158|frame-3			6.2961031284738525	100.0	0.0	0.0					Single Protein		NM_015444_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+316	NM_012401_1	Homo sapiens plexin B2 (PLXNB2), mRNA|PLXNB2|frame-3			4.788397195646702	100.0	0.0	0.0					Single Protein		NM_012401_1	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+317	Q9NVU7				79.820479076151	89.08	0.0	0.0					Single Protein		Q9NVU7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+318	Q96HC4				63.90449003178593	67.45	0.0	0.0					Single Protein		Q96HC4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+319	NM_013441_1	Homo sapiens RCAN family member 3 (RCAN3), mRNA|RCAN3|frame-3			7.718168397347426	100.0	0.0	0.0					Single Protein		NM_013441_1	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+320	O75151				120.69972702997921	83.03	0.0	0.0					Single Protein		O75151	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+321	Q96Q35				52.40561586383701	90.56	0.0	0.0					Single Protein		Q96Q35	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+322	NM_033063_2	Homo sapiens microtubule-associated protein 6 (MAP6), transcript variant 1, mRNA|MAP6|frame-1			12.051662387205976	100.0	0.0	0.0					Related Proteins	NM_207577_2	NM_033063_2, NM_207577_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+323	NM_003913_1	Homo sapiens PRP4 pre-mRNA processing factor 4 homolog B (yeast) (PRPF4B), mRNA|PRPF4B|frame-3			9.30239407880474	100.0	0.0	0.0					Single Protein		NM_003913_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+324	NM_017919_2	Homo sapiens syntaxin 17 (STX17), mRNA|STX17|frame-1			8.983510437132914	100.0	0.0	0.0					Single Protein		NM_017919_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+325	NM_003298_5	Homo sapiens nuclear receptor subfamily 2, group C, member 2 (NR2C2), mRNA|NR2C2|frame-3			7.275338999141164	100.0	0.0	0.0					Single Protein		NM_003298_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+326	NM_020820_5	Homo sapiens phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1 (PREX1), mRNA|PREX1|frame-1			9.086505336707384	100.0	0.0	0.0					Single Protein		NM_020820_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+327	NM_173551_8	Homo sapiens ankyrin repeat and sterile alpha motif domain containing 6 (ANKS6), mRNA|ANKS6|frame-3			9.516477663069322	63.33	0.0	0.0					Single Protein		NM_173551_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+328	Q9NSI6				262.77228946576054	85.56	0.0	0.0					Single Protein		Q9NSI6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+329	P25963				35.58650160518624	47.32	0.0	0.0					Single Protein		P25963	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+330	A6NJ64				45.546633260641194	100.0	0.0	0.0					Related Proteins	E9PKD4, F8WFD2, Q9UND3	A6NJ64, E9PKD4, F8WFD2, Q9UND3	0	1	0	0	0	0	0	2	10.901162790697672	Doubtful
+331	NM_014631_15	Homo sapiens SH3 and PX domains 2A (SH3PXD2A), mRNA|SH3PXD2A|frame-1			7.744913547674013	100.0	0.0	0.0					Single Protein		NM_014631_15	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+332	NM_014389_3	Homo sapiens proline, glutamate and leucine rich protein 1 (PELP1), mRNA|PELP1|frame-3			7.3318769692283565	100.0	0.0	0.0					Single Protein		NM_014389_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+333	NM_001020658_1	Homo sapiens pumilio homolog 1 (Drosophila) (PUM1), transcript variant 1, mRNA|PUM1|frame-1			8.383057356035152	100.0	14.29	3354.038776182024			Oxidation of M (M32-{M27 M32})	Oxidation of M (1)	Related Proteins	NM_014676_1	NM_001020658_1, NM_014676_1	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+334	NM_001040445_1	Homo sapiens ankyrin repeat and SOCS box-containing 1 (ASB1), mRNA|ASB1|frame-1			7.121481736698141	100.0	0.0	0.0					Single Protein		NM_001040445_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+335	NM_030761_6	Homo sapiens wingless-type MMTV integration site family, member 4 (WNT4), mRNA|WNT4|frame-2			10.499315766420784	100.0	0.0	0.0					Single Protein		NM_030761_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+336	Q6PEX3				22.539389253836973	9.05	0.0	0.0					Single Protein		Q6PEX3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+337	NM_001001998_4	Homo sapiens exosome component 10 (EXOSC10), transcript variant 1, mRNA|EXOSC10|frame-1			18.031922524996116	100.0	0.0	0.0					Related Proteins	NM_002685_3	NM_001001998_4, NM_002685_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+338	NM_001042506_1	Homo sapiens poly(A) binding protein, cytoplasmic 1-like 2B (PABPC1L2B), mRNA|PABPC1L2B|frame-3			7.22180182569262	100.0	0.0	0.0					Single Protein		NM_001042506_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+339	NM_147202_6	Homo sapiens chromosome 9 open reading frame 25 (C9orf25), mRNA|C9orf25|frame-1			5.260254407439141	100.0	0.0	0.0					Single Protein		NM_147202_6	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+340	NM_001127895_3	Homo sapiens carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 8 (CHST8), transcript variant 1, mRNA|CHST8|frame-1			5.429898311254262	100.0	0.0	0.0					Related Proteins	NM_001127896_3	NM_001127895_3, NM_001127896_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+341	Q14114				105.5650274353423	82.66	0.0	0.0					Single Protein		Q14114	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+342	NM_001143839_10	Homo sapiens phosphodiesterase 2A, cGMP-stimulated (PDE2A), transcript variant 2, mRNA|PDE2A|frame-2			5.371910563970049	100.0	0.0	0.0					Related Proteins	NM_002599_11	NM_001143839_10, NM_002599_11	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+343	NM_001128608_6	Homo sapiens mitogen-activated protein kinase binding protein 1 (MAPKBP1), transcript variant 2, mRNA|MAPKBP1|frame-3			19.110499445984974	100.0	0.0	0.0					Related Proteins	NM_014994_6	NM_001128608_6, NM_014994_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+344	Q14118				97.38066082534147	77.65	0.0	0.0					Single Protein		Q14118	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+345	Q86WP2				53.30692976409621	100.0	0.0	0.0					Single Protein		Q86WP2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+346	XM_002344949_1	PREDICTED: Homo sapiens transmembrane protein 114 (TMEM114), mRNA|TMEM114|frame-3			5.173733476958192	100.0	0.0	0.0					Related Proteins	XM_002343415_1	XM_002343415_1, XM_002344949_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+347	NM_030819_2	Homo sapiens glucose-fructose oxidoreductase domain containing 2 (GFOD2), mRNA|GFOD2|frame-3			5.0143664348006105	100.0	0.0	0.0					Single Protein		NM_030819_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+348	Q32M88				80.60408215839347	79.51	0.0	0.0					Single Protein		Q32M88	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+349	NM_000063_3	Homo sapiens complement component 2 (C2), mRNA|C2|frame-2			7.712735996511814	100.0	0.0	0.0					Single Protein		NM_000063_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+350	NM_017563_8	Homo sapiens interleukin 17 receptor D (IL17RD), mRNA|IL17RD|frame-1			8.568119170639681	100.0	0.0	0.0					Single Protein		NM_017563_8	0	1	1	0	1	0	0	7	10.901162790697672	Doubtful
+351	NM_181356_6	Homo sapiens suppressor of Ty 3 homolog (S. cerevisiae) (SUPT3H), transcript variant 2, mRNA|SUPT3H|frame-2			5.417844167506422	100.0	0.0	0.0					Single Protein		NM_181356_6	0	5	5	0	5	0	0	5	16.959064327485386	Doubtful
+352	NM_002590_8	Homo sapiens protocadherin 8 (PCDH8), transcript variant 1, mRNA|PCDH8|frame-2			6.736129980616705	100.0	0.0	0.0					Related Proteins	NM_032949_8	NM_002590_8, NM_032949_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+353	NM_018943_2	Homo sapiens tubulin, alpha 8 (TUBA8), mRNA|TUBA8|frame-3			8.590438964829623	56.79	0.0	0.0					Single Protein		NM_018943_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+354	Q6PJG2				114.91802635480414	77.32	0.0	0.0					Single Protein		Q6PJG2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+355	NM_014203_4	Homo sapiens adaptor-related protein complex 2, alpha 1 subunit (AP2A1), transcript variant 1, mRNA|AP2A1|frame-3			5.159358863588611	100.0	0.0	0.0					Related Proteins	NM_130787_4	NM_014203_4, NM_130787_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+356	NM_002836_6	Homo sapiens protein tyrosine phosphatase, receptor type, A (PTPRA), transcript variant 1, mRNA|PTPRA|frame-2			6.612062011059453	100.0	0.0	0.0					Related Proteins	NM_080840_4, NM_080841_3	NM_002836_6, NM_080840_4, NM_080841_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+357	Q13285				51.602282897321814	67.46	0.0	0.0					Single Protein		Q13285	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+358	NM_003615_3	Homo sapiens solute carrier family 4, sodium bicarbonate cotransporter, member 7 (SLC4A7), mRNA|SLC4A7|frame-1			6.10035909655829	100.0	0.0	0.0					Single Protein		NM_003615_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+359	NM_173662_1	Homo sapiens ring finger protein 175 (RNF175), mRNA|RNF175|frame-1			15.469669095079631	42.86	0.0	0.0					Single Protein		NM_173662_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+360	NM_004687_2	Homo sapiens myotubularin related protein 4 (MTMR4), mRNA|MTMR4|frame-1			8.217968515627781	100.0	0.0	0.0					Single Protein		NM_004687_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+361	O75694				155.1002691392602	72.47	0.0	0.0					Single Protein		O75694	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+362	NM_152550_5	Homo sapiens SH3 domain containing ring finger 2 (SH3RF2), mRNA|SH3RF2|frame-1			4.307125982678251	100.0	0.0	0.0					Single Protein		NM_152550_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+363	Q96DT5				520.0375031812777	88.11	0.0	0.0					Single Protein		Q96DT5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+364	NM_183373_2	Homo sapiens chromosome 6 open reading frame 145 (C6orf145), mRNA|C6orf145|frame-2			4.294154833552922	100.0	0.0	0.0					Single Protein		NM_183373_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+365	NM_002737_15	Homo sapiens protein kinase C, alpha (PRKCA), mRNA|PRKCA|frame-2			5.053390466096992	100.0	0.0	0.0					Single Protein		NM_002737_15	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+366	Q00341				141.36814095528095	92.9	0.0	0.0					Single Protein		Q00341	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+367	XM_001715175_2	PREDICTED: Homo sapiens hypothetical LOC100127891 (LOC100127891), mRNA|LOC100127891|frame-2			24.250672771723657	100.0	0.0	0.0					Related Proteins	XM_001715763_2, XM_001718717_2, XM_002344422_2	XM_001715175_2, XM_001715763_2, XM_001718717_2, XM_002344422_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+368	Q01668				244.98394813181466	75.43	0.0	0.0					Single Protein		Q01668	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+369	NM_001114133_4	Homo sapiens synaptopodin 2-like (SYNPO2L), transcript variant 1, mRNA|SYNPO2L|frame-1			11.711435287978976	100.0	0.0	0.0					Related Proteins	NM_024875_1	NM_001114133_4, NM_024875_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+370	NM_004543_12	Homo sapiens nebulin (NEB), mRNA|NEB|frame-1			8.356041955351566	100.0	0.0	0.0					Single Protein		NM_004543_12	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+371	Q96MD7				20.152373242267736	79.33	0.0	0.0					Single Protein		Q96MD7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+372	NM_138448_1	Homo sapiens acylphosphatase 2, muscle type (ACYP2), mRNA|ACYP2|frame-1			5.16765601448313	100.0	0.0	0.0					Single Protein		NM_138448_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+373	NM_130786_2	Homo sapiens alpha-1-B glycoprotein (A1BG), mRNA|A1BG|frame-1			4.756485508102222	100.0	0.0	0.0					Single Protein		NM_130786_2	0	1	1	0	1	0	0	2	16.959064327485386	Doubtful
+374	NM_130786_3	Homo sapiens alpha-1-B glycoprotein (A1BG), mRNA|A1BG|frame-1			8.169988948692259	100.0	0.0	0.0					Single Protein		NM_130786_3	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+375	NM_004798_2	Homo sapiens kinesin family member 3B (KIF3B), mRNA|KIF3B|frame-1			10.844038195122467	100.0	0.0	0.0					Single Protein		NM_004798_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+376	NM_003753_1	Homo sapiens eukaryotic translation initiation factor 3, subunit D (EIF3D), mRNA|EIF3D|frame-2			5.428083841406252	100.0	0.0	0.0					Single Protein		NM_003753_1	0	1	1	0	1	0	0	8	10.901162790697672	Doubtful
+377	NM_198274_3	Homo sapiens SET and MYND domain containing 1 (SMYD1), mRNA|SMYD1|frame-3			7.005138715479061	53.13	0.0	0.0					Single Protein		NM_198274_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+378	Q9NWH9				117.0785174001559	90.14	0.0	0.0					Single Protein		Q9NWH9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+379	P52272				77.46431371933258	84.66	2.19	379.90730474553675					Single Protein		P52272	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+380	NM_018071_4	Homo sapiens hypothetical protein FLJ10357 (FLJ10357), mRNA|ARHGEF40|frame-1			11.142429650764855	100.0	19.8	2324.5813300271457	Oxidation of M(M40)	Oxidation of M(1)			Single Protein		NM_018071_4	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+381	NM_024665_4	Homo sapiens transducin (beta)-like 1 X-linked receptor 1 (TBL1XR1), mRNA|TBL1XR1|frame-1			6.326041607929791	100.0	0.0	0.0					Single Protein		NM_024665_4	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+382	NM_207401_2	Homo sapiens chromosome 1 open reading frame 229 (C1orf229), mRNA|C1orf229|frame-1			8.043993799737242	38.36	0.0	0.0					Single Protein		NM_207401_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+383	Q9Y5E8				86.2761266699923	68.74	0.0	0.0					Single Protein		Q9Y5E8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+384	Q07866				65.26887188097051	93.19	0.0	0.0					Single Protein		Q07866	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+385	NM_004225_8	Homo sapiens malignant fibrous histiocytoma amplified sequence 1 (MFHAS1), mRNA|MFHAS1|frame-1			6.059608532406452	100.0	0.0	0.0					Single Protein		NM_004225_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+386	Q8WWI1				192.5764112243218	95.96	0.0	0.0					Single Protein		Q8WWI1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+387	Q96AQ1				41.57972772429327	100.0	0.0	0.0					Related Proteins	Q96LY2	Q96AQ1, Q96LY2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+388	P82914				29.82343672543203	100.0	0.0	0.0					Single Protein		P82914	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+389	XM_002344231_19	PREDICTED: Homo sapiens hypothetical protein LOC100288561 (LOC100288561), mRNA|DYZ1L25|frame-3			5.225383381167632	100.0	0.0	0.0					Single Protein		XM_002344231_19	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+390	NM_000402_3	Homo sapiens glucose-6-phosphate dehydrogenase (G6PD), transcript variant 1, mRNA|G6PD|frame-1			5.975016551730322	100.0	0.0	0.0					Related Proteins	NM_001042351_2	NM_000402_3, NM_001042351_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+391	O60741				98.73277497389367	65.62	0.0	0.0					Related Proteins	Q9P1Z3, Q9UL51, Q9Y3Q4	O60741, Q9P1Z3, Q9UL51, Q9Y3Q4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+392	O95602				194.6870595765325	96.05	0.0	0.0					Single Protein		O95602	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+393	NM_001031685_4	Homo sapiens tumor protein p53 binding protein, 2 (TP53BP2), transcript variant 1, mRNA|TP53BP2|frame-3			5.17334737249839	100.0	0.0	0.0					Related Proteins	NM_005426_5	NM_001031685_4, NM_005426_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+394	NM_001079536_1	Homo sapiens ADP-ribosyltransferase 5 (ART5), transcript variant 2, mRNA|ART5|frame-3			5.063568445348693	100.0	0.0	0.0					Related Proteins	NM_053017_1	NM_001079536_1, NM_053017_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+395	NM_205847_2	Homo sapiens GDP-mannose pyrophosphorylase A (GMPPA), transcript variant 2, mRNA|GMPPA|frame-2			5.692428319332673	100.0	0.0	0.0					Single Protein		NM_205847_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+396	NM_006224_2	Homo sapiens phosphatidylinositol transfer protein, alpha (PITPNA), mRNA|PITPNA|frame-3			4.45039090484436	100.0	0.0	0.0					Single Protein		NM_006224_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+397	Q5VZF2				40.49117601379163	54.69	0.0	0.0					Single Protein		Q5VZF2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+398	Q15833				66.41049536532728	100.0	0.0	0.0					Single Protein		Q15833	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+399	Q9NSB8				40.60259992230832	100.0	0.0	0.0					Single Protein		Q9NSB8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+400	NM_017420_10	Homo sapiens SIX homeobox 4 (SIX4), mRNA|SIX4|frame-2			8.605554633653375	100.0	0.0	0.0					Single Protein		NM_017420_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+401	NM_015284_1	Homo sapiens KIAA0467 (KIAA0467), mRNA|KIAA0467|frame-2			9.110419343264224	100.0	0.0	0.0					Single Protein		NM_015284_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+402	NM_001018088_3	Homo sapiens vacuolar protein sorting 13 homolog C (S. cerevisiae) (VPS13C), transcript variant 2B, mRNA|VPS13C|frame-2			5.319300181689132	100.0	0.0	0.0					Related Proteins	NM_017684_2, NM_018080_2, NM_020821_3	NM_001018088_3, NM_017684_2, NM_018080_2, NM_020821_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+403	Q8TAD2				21.87913289263608	100.0	0.0	0.0					Single Protein		Q8TAD2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+404	Q6IEE8				67.05290756313967	88.27	0.0	0.0					Single Protein		Q6IEE8	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+405	XM_001722352_3	PREDICTED: Homo sapiens hypothetical LOC100130589 (LOC100130589), mRNA|LOC100130589|frame-1			8.495934557757485	49.33	0.0	0.0					Related Proteins	XM_001722384_3, XM_001722807_3	XM_001722352_3, XM_001722384_3, XM_001722807_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+406	NM_001142391_1	Homo sapiens solute carrier family 10 (sodium/bile acid cotransporter family), member 3 (SLC10A3), transcript variant 2, mRNA|SLC10A3|frame-3			6.820767899351316	100.0	0.0	0.0					Related Proteins	NM_001142392_1, NM_019848_1	NM_001142391_1, NM_001142392_1, NM_019848_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+407	A6NN14				144.9264573005643	100.0	0.0	0.0					Single Protein		A6NN14	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+408	NM_007047_4	Homo sapiens butyrophilin, subfamily 3, member A2 (BTN3A2), mRNA|BTN3A2|frame-2			5.460656943083261	100.0	0.0	0.0					Single Protein		NM_007047_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+409	Q9NSD4				48.41177902824723	90.44	0.0	0.0					Single Protein		Q9NSD4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+410	NM_001851_2	Homo sapiens collagen, type IX, alpha 1 (COL9A1), transcript variant 1, mRNA|COL9A1|frame-2			16.321591388272974	100.0	0.0	0.0					Related Proteins	NM_078485_2	NM_001851_2, NM_078485_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+411	NM_017857_3	Homo sapiens slingshot homolog 3 (Drosophila) (SSH3), mRNA|SSH3|frame-2			5.944821785325941	100.0	0.0	0.0					Single Protein		NM_017857_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+412	Q04323				33.30494031776687	86.53	0.0	0.0					Single Protein		Q04323	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+413	NM_001768_2	Homo sapiens CD8a molecule (CD8A), transcript variant 1, mRNA|CD8A|frame-3			6.0582312131178435	100.0	0.0	0.0					Related Proteins	NM_171827_2	NM_001768_2, NM_171827_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+414	P30043				22.105426425215388	100.0	0.0	0.0					Single Protein		P30043	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+415	P41180				120.59656883504516	62.62	0.0	0.0					Single Protein		P41180	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+416	NM_001039360_10	Homo sapiens zinc finger and BTB domain containing 7C (ZBTB7C), mRNA|ZBTB7C|frame-2			19.744313614829398	62.79	0.0	0.0					Single Protein		NM_001039360_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+417	Q9UJW0				52.303571007673916	77.39	0.0	0.0					Single Protein		Q9UJW0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+418	XM_002344224_8	PREDICTED: Homo sapiens hypothetical protein LOC100288329 (LOC100288329), mRNA|DYZ1L14|frame-2			9.154075395483263	100.0	0.0	0.0					Related Proteins	XM_002344229_10	XM_002344224_8, XM_002344229_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+419	Q8WWL7				157.81583682538752	100.0	0.0	0.0					Single Protein		Q8WWL7	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+420	NM_176823_8	Homo sapiens S100 calcium binding protein A7A (S100A7A), mRNA|S100A7A|frame-1			6.454121565777192	100.0	0.0	0.0					Single Protein		NM_176823_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+421	NM_014706_1	Homo sapiens squamous cell carcinoma antigen recognized by T cells 3 (SART3), mRNA|SART3|frame-3			13.381324400479066	100.0	0.0	0.0					Single Protein		NM_014706_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+422	NM_022039_2	Homo sapiens F-box and WD repeat domain containing 4 (FBXW4), mRNA|FBXW4|frame-3			11.628845664640725	100.0	0.0	0.0					Related and Unrelated Proteins	NM_001025087_5, NM_001025088_5, NM_001025089_5, NM_020180_5	NM_001025087_5, NM_001025088_5, NM_001025089_5, NM_020180_5, NM_022039_2	0	1	1	0	1	0	0	2	16.959064327485386	Doubtful
+423	Q9Y5B9				119.83841950983168	89.97	1.81	498.4771004941437					Single Protein		Q9Y5B9	1	1	1	1	1	1	2	2	16.959064327485386	Doubtful
+424	Q75N90				300.1491354686696	69.24	0.0	0.0					Single Protein		Q75N90	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+425	NM_001034850_2	Homo sapiens family with sequence similarity 134, member B (FAM134B), transcript variant 1, mRNA|FAM134B|frame-1			9.504401363902877	100.0	0.0	0.0					Related Proteins	NM_019000_1	NM_001034850_2, NM_019000_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+426	P17050				46.53390905828386	71.78	0.0	0.0					Single Protein		P17050	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+427	A8MWS1				36.03188824053558	72.56	0.0	0.0					Single Protein		A8MWS1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+428	Q86SE9				29.694496664873586	100.0	0.0	0.0					Single Protein		Q86SE9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+429	Q3KR16				88.90500969356424	90.13	0.0	0.0					Single Protein		Q3KR16	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+430	NM_015297_9	Homo sapiens KIAA1045 (KIAA1045), mRNA|KIAA1045|frame-3			9.158641780968422	100.0	0.0	0.0					Single Protein		NM_015297_9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+431	NM_020374_2	Homo sapiens chromosome 12 open reading frame 4 (C12orf4), mRNA|C12orf4|frame-3			15.068920512016858	74.22	0.0	0.0					Single Protein		NM_020374_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+432	NM_052938_3	Homo sapiens Fc receptor-like 1 (FCRL1), mRNA|FCRL1|frame-2			6.7333447660794254	100.0	0.0	0.0					Single Protein		NM_052938_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+433	NM_004103_5	Homo sapiens PTK2B protein tyrosine kinase 2 beta (PTK2B), transcript variant 2, mRNA|PTK2B|frame-2			4.608190299225222	100.0	0.0	0.0					Related Proteins	NM_173174_5, NM_173175_3, NM_173176_3	NM_004103_5, NM_173174_5, NM_173175_3, NM_173176_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+434	Q9P218				135.74594202446917	85.36	0.0	0.0					Single Protein		Q9P218	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+435	NM_001271_16	Homo sapiens chromodomain helicase DNA binding protein 2 (CHD2), transcript variant 1, mRNA|CHD2|frame-1			7.830957582424232	100.0	0.0	0.0					Single Protein		NM_001271_16	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+436	NM_033256_1	Homo sapiens protein phosphatase 1, regulatory (inhibitor) subunit 14A (PPP1R14A), mRNA|PPP1R14A|frame-3			4.600958493495511	100.0	0.0	0.0					Single Protein		NM_033256_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+437	Q70EL1				187.2712272965642	75.3	0.0	0.0					Single Protein		Q70EL1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+438	Q5TEZ5				38.52877237636501	100.0	0.0	0.0					Single Protein		Q5TEZ5	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+439	Q8N1P7				68.60306603014678	65.75	0.0	0.0					Single Protein		Q8N1P7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+440	NM_198074_3	Homo sapiens olfactory receptor, family 2, subfamily C, member 3 (OR2C3), mRNA|OR2C3|frame-2			23.300887489752483	65.18	0.0	0.0					Single Protein		NM_198074_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+441	Q92729				162.32004261482652	81.74	0.0	0.0					Single Protein		Q92729	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+442	NM_001145336_7	Homo sapiens Mdm2 p53 binding protein homolog (mouse) (MDM2), transcript variant MDM2f, mRNA|MDM2|frame-2			5.8631861834100825	100.0	0.0	0.0					Related Proteins	NM_001145337_7, NM_001145339_7, NM_001145340_7, NM_002392_7, NM_006878_6, NM_006879_6, NM_006881_6, NM_006882_6	NM_001145336_7, NM_001145337_7, NM_001145339_7, NM_001145340_7, NM_002392_7, NM_006878_6, NM_006879_6, NM_006881_6, NM_006882_6	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+443	NM_020335_1	Homo sapiens vang-like 2 (van gogh, Drosophila) (VANGL2), mRNA|VANGL2|frame-2			25.962839748236796	83.82	0.0	0.0					Single Protein		NM_020335_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+444	NM_024959_5	Homo sapiens solute carrier family 24 (sodium/potassium/calcium exchanger), member 6 (SLC24A6), mRNA|SLC24A6|frame-1			7.4877223608863215	39.19	0.0	0.0					Single Protein		NM_024959_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+445	NM_001110_1	Homo sapiens ADAM metallopeptidase domain 10 (ADAM10), mRNA|ADAM10|frame-2			9.846393244096298	100.0	0.0	0.0					Single Protein		NM_001110_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+446	NM_201280_5	Homo sapiens muted homolog (mouse) (MUTED), mRNA|MUTED|frame-1			7.063678343374798	100.0	0.0	0.0					Single Protein		NM_201280_5	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+447	Q8IUD6				47.85785467134318	76.16	0.0	0.0					Single Protein		Q8IUD6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+448	NM_005876_2	Homo sapiens SPEG complex locus (SPEG), mRNA|SPEG|frame-2			8.474991911007994	54.43	0.0	0.0					Single Protein		NM_005876_2	0	1	1	0	1	0	0	4	16.959064327485386	Doubtful
+449	Q2Y0W8				122.85808360916516	73.01	0.0	0.0					Single Protein		Q2Y0W8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+450	Q9NZI6				54.59259858266145	84.13	0.0	0.0					Single Protein		Q9NZI6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+451	O60673				352.55424507586815	85.4	0.0	0.0					Single Protein		O60673	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+452	P41743				68.21834650523475	86.41	0.0	0.0					Single Protein		P41743	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+453	Q8WVC0				75.35929358700905	82.88	0.0	0.0					Single Protein		Q8WVC0	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+454	P29692				31.10278320777167	100.0	4.27	835.5256737819989					Single Protein		P29692	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+455	Q14807				73.21665108950523	100.0	0.0	0.0					Single Protein		Q14807	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+456	Q9C075				48.10119848638929	100.0	0.0	0.0					Single Protein		Q9C075	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+457	Q9NZB8				70.06054704640998	94.18	0.0	0.0					Single Protein		Q9NZB8	0	1	1	0	1	0	0	4	16.959064327485386	Doubtful
+458	NM_001032363_5	Homo sapiens chromosome 1 open reading frame 151 (C1orf151), mRNA|C1orf151|frame-3			5.6956398557440915	100.0	0.0	0.0					Single Protein		NM_001032363_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+459	Q9HCN4				41.7136925858977	70.59	0.0	0.0					Single Protein		Q9HCN4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+460	NM_006393_2	Homo sapiens nebulette (NEBL), transcript variant 1, mRNA|NEBL|frame-3			6.175622076551524	100.0	0.0	0.0					Single Protein		NM_006393_2	0	2	2	0	2	0	0	5	16.959064327485386	Doubtful
+461	NM_022140_1	Homo sapiens erythrocyte membrane protein band 4.1 like 4A (EPB41L4A), mRNA|EPB41L4A|frame-3			6.416433602699014	100.0	0.0	0.0					Single Protein		NM_022140_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+462	P07437				49.63897134453148	72.07	20.5	1254.2707506764027	Oxidation of M(M73, M257, M330, M388)	Oxidation of M(4)			Single Protein		P07437	7	8	0	0	0	0	8	9	10.901162790697672	Doubtful
+463	Q9HCM9				59.65266785387138	86.49	0.0	0.0					Single Protein		Q9HCM9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+464	NM_016134_2	Homo sapiens plasma glutamate carboxypeptidase (PGCP), mRNA|PGCP|frame-3			6.418348827529232	100.0	0.0	0.0					Single Protein		NM_016134_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+465	Q6ZNB6				101.26994926804143	96.05	0.0	0.0					Single Protein		Q6ZNB6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+466	NM_007027_4	Homo sapiens topoisomerase (DNA) II binding protein 1 (TOPBP1), mRNA|TOPBP1|frame-2			8.696707873986167	100.0	0.0	0.0					Single Protein		NM_007027_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+467	P82279				154.08077436637558	49.93	0.0	0.0					Single Protein		P82279	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+468	Q92766				181.30626887721746	75.64	0.0	0.0					Single Protein		Q92766	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+469	Q96KR1				116.9389189316729	69.09	0.0	0.0					Single Protein		Q96KR1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+470	Q9NR48				332.5819506984238	83.6	0.0	0.0					Single Protein		Q9NR48	0	1	1	0	1	0	0	5	10.901162790697672	Doubtful
+471	NM_152449_5	Homo sapiens LysM, putative peptidoglycan-binding, domain containing 4 (LYSMD4), mRNA|LYSMD4|frame-2			9.83046101076278	100.0	0.0	0.0					Single Protein		NM_152449_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+472	Q92750				91.03381232777825	67.52	0.0	0.0					Single Protein		Q92750	0	1	1	0	1	0	0	4	10.901162790697672	Doubtful
+473	Q9Y3X0				59.66705859160679	77.4	0.0	0.0					Single Protein		Q9Y3X0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+474	NM_001007101_2	Homo sapiens zinc finger protein 484 (ZNF484), transcript variant 2, mRNA|ZNF484|frame-2			16.277584703991906	100.0	0.0	0.0					Related Proteins	NM_031486_2	NM_001007101_2, NM_031486_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+475	NM_005364_2	Homo sapiens melanoma antigen family A, 8 (MAGEA8), mRNA|MAGEA8|frame-1			8.718268351860907	31.17	0.0	0.0					Single Protein		NM_005364_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+476	Q5VTT5				162.08836627265964	87.47	0.0	0.0					Single Protein		Q5VTT5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+477	NM_020949_6	Homo sapiens solute carrier family 7 (cationic amino acid transporter, y+ system), member 14 (SLC7A14), mRNA|SLC7A14|frame-3			9.884242165071393	100.0	0.0	0.0					Single Protein		NM_020949_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+478	Q4G0J3				66.85741350521738	100.0	0.0	0.0					Single Protein		Q4G0J3	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+479	O43278				58.36021510260427	72.97	0.0	0.0					Single Protein		O43278	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+480	NM_001007225_4	Homo sapiens insulin-like growth factor 2 mRNA binding protein 2 (IGF2BP2), transcript variant 2, mRNA|IGF2BP2|frame-2			6.400385195954613	100.0	0.0	0.0					Related Proteins	NM_006548_4	NM_001007225_4, NM_006548_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+481	P35499				207.92490346641182	53.21	0.0	0.0					Single Protein		P35499	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+482	Q16594				28.955608599875223	100.0	0.0	0.0					Single Protein		Q16594	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+483	O43280				66.52553636496833	80.27	0.0	0.0					Single Protein		O43280	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+484	NM_001010927_1	Homo sapiens T-cell lymphoma invasion and metastasis 2 (TIAM2), transcript variant 2, mRNA|TIAM2|frame-1			6.982741169203109	100.0	0.0	0.0					Single Protein		NM_001010927_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+485	Q9UII5				90.61406216054587	100.0	0.0	0.0					Single Protein		Q9UII5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+486	NM_005342_3	Homo sapiens high-mobility group box 3 (HMGB3), mRNA|HMGB3|frame-1			7.8545476789652655	100.0	0.0	0.0					Single Protein		NM_005342_3	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+487	Q15276				99.22938409492073	91.65	0.0	0.0					Single Protein		Q15276	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+488	NM_015286_1	Homo sapiens synemin, intermediate filament protein (SYNM), transcript variant B, mRNA|SYNM|frame-2			5.3334705734625905	100.0	0.0	0.0					Related Proteins	NM_145728_1	NM_015286_1, NM_145728_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+489	Q96BT7				75.16094340139985	93.22	0.0	0.0					Single Protein		Q96BT7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+490	Q9Y3S1				242.5248402111358	58.38	0.0	0.0					Single Protein		Q9Y3S1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+491	NM_018660_11	Homo sapiens zinc finger protein 395 (ZNF395), mRNA|ZNF395|frame-3			4.487062741156569	100.0	0.0	0.0					Single Protein		NM_018660_11	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+492	NM_003174_1	Homo sapiens supervillin (SVIL), transcript variant 1, mRNA|SVIL|frame-2			6.253134888664701	100.0	0.0	0.0					Related Proteins	NM_021738_2	NM_003174_1, NM_021738_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+493	P48307				26.915976903763525	80.85	0.0	0.0					Single Protein		P48307	0	1	1	0	1	0	0	5	10.901162790697672	Doubtful
+494	Q8N9W4				79.29294057946687	93.85	0.0	0.0					Single Protein		Q8N9W4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+495	NM_001376_2	Homo sapiens dynein, cytoplasmic 1, heavy chain 1 (DYNC1H1), mRNA|DYNC1H1|frame-1			9.990424075687017	100.0	0.0	0.0					Single Protein		NM_001376_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+496	Q07283				253.77691297569737	100.0	0.0	0.0					Single Protein		Q07283	0	3	3	0	3	0	0	6	16.959064327485386	Doubtful
+497	NM_002192_2	Homo sapiens inhibin, beta A (INHBA), mRNA|INHBA|frame-3			14.970945647340924	100.0	0.0	0.0					Single Protein		NM_002192_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+498	Q8TCX5				76.24407361772771	87.91	0.0	0.0					Single Protein		Q8TCX5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+499	XM_002342497_2	PREDICTED: Homo sapiens hypothetical protein LOC100288152 (LOC100288152), mRNA|LOC100288152|frame-1			7.581504339700863	100.0	0.0	0.0					Related Proteins	XM_002346666_2	XM_002342497_2, XM_002346666_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+500	O14737				14.276340835461896	100.0	0.0	0.0					Single Protein		O14737	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+501	Q96ST3				145.08458909267398	80.2	0.0	0.0					Single Protein		Q96ST3	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+502	Q5VTH9				94.51322615285382	82.31	0.0	0.0					Single Protein		Q5VTH9	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+503	O00505				57.77484253988036	58.35	0.0	0.0					Single Protein		O00505	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+504	Q9BZF9				162.40444874038613	100.0	0.0	0.0					Related Proteins	Q01484, Q8TF21	Q01484, Q8TF21, Q9BZF9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+505	NM_000192_4	Homo sapiens T-box 5 (TBX5), transcript variant 1, mRNA|TBX5|frame-3			15.338589573485995	66.18	0.0	0.0					Related Proteins	NM_080717_4, NM_181486_2	NM_000192_4, NM_080717_4, NM_181486_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+506	Q02818				53.846329683862905	100.0	0.0	0.0					Single Protein		Q02818	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+507	O43242				60.9394879450714	100.0	0.0	0.0					Single Protein		O43242	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+508	P58107				555.2789744304341	92.1	0.0	0.0					Single Protein		P58107	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+509	Q4LDE5				389.912475396736	72.19	0.0	0.0					Single Protein		Q4LDE5	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+510	Q9HCE0				292.2929118819049	79.72	0.0	0.0					Single Protein		Q9HCE0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+511	NM_172241_1	Homo sapiens cutaneous T-cell lymphoma-associated antigen 1 (CTAGE1), transcript variant 1, mRNA|CTAGE1|frame-1			6.4357132105682835	100.0	0.0	0.0					Single Protein		NM_172241_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+512	Q8NBM8				54.611869644972955	62.96	0.0	0.0					Single Protein		Q8NBM8	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+513	XM_001716390_1	PREDICTED: Homo sapiens hypothetical protein LOC100130539 (LOC100130539), mRNA|LOC100130539|frame-2			12.134314676123445	100.0	0.0	0.0					Related Proteins	XM_001724322_1	XM_001716390_1, XM_001724322_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+514	NM_194247_7	Homo sapiens heterogeneous nuclear ribonucleoprotein A3 (HNRNPA3), mRNA|HNRNPA3|frame-3			8.755663953843396	51.28	0.0	0.0					Single Protein		NM_194247_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+515	Q9H6K5				132.66651551788777	37.0	0.0	0.0					Single Protein		Q9H6K5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+516	NM_001031700_4	Homo sapiens chromosome 4 open reading frame 18 (C4orf18), transcript variant 1, mRNA|FAM198B|frame-2			16.97083866098139	100.0	0.0	0.0					Related Proteins	NM_001128424_4, NM_016613_5	NM_001031700_4, NM_001128424_4, NM_016613_5	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+517	Q7Z6M3				38.71038514766817	90.67	0.0	0.0					Single Protein		Q7Z6M3	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+518	NM_144682_3	Homo sapiens schlafen family member 13 (SLFN13), mRNA|SLFN13|frame-2			6.1642999115104935	100.0	0.0	0.0					Single Protein		NM_144682_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+519	NM_004467_1	Homo sapiens fibrinogen-like 1 (FGL1), transcript variant 1, mRNA|FGL1|frame-3			7.240675168038813	100.0	0.0	0.0					Related Proteins	NM_147203_1, NM_201552_1, NM_201553_1	NM_004467_1, NM_147203_1, NM_201552_1, NM_201553_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+520	NM_000210_5	Homo sapiens integrin, alpha 6 (ITGA6), transcript variant 2, mRNA|ITGA6|frame-2			5.9259004208057515	100.0	0.0	0.0					Related Proteins	NM_001079818_5	NM_000210_5, NM_001079818_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+521	NM_031486_7	Homo sapiens zinc finger protein 484 (ZNF484), transcript variant 1, mRNA|ZNF484|frame-2			5.1054670178723605	100.0	0.0	0.0					Single Protein		NM_031486_7	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+522	Q5VY43				110.59056466732993	51.4	0.0	0.0					Single Protein		Q5VY43	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+523	NM_004865_1	Homo sapiens TBP-like 1 (TBPL1), mRNA|TBPL1|frame-1			5.196012784640971	100.0	0.0	0.0					Single Protein		NM_004865_1	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+524	Q7Z6M2				62.59043511400568	74.05	0.0	0.0					Single Protein		Q7Z6M2	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+525	NM_015114_6	Homo sapiens ankyrin repeat and LEM domain containing 2 (ANKLE2), mRNA|ANKLE2|frame-2			5.554718416609161	100.0	0.0	0.0					Single Protein		NM_015114_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+526	Q9UIG0				170.79564570178906	94.0	0.0	0.0					Single Protein		Q9UIG0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+527	Q9BRS2				65.54166039355316	85.56	0.0	0.0					Single Protein		Q9BRS2	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+528	Q49A92				50.458149859827536	90.49	0.0	0.0					Single Protein		Q49A92	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+529	NM_015136_11	Homo sapiens stabilin 1 (STAB1), mRNA|STAB1|frame-1			24.928290728724424	100.0	0.0	0.0					Single Protein		NM_015136_11	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+530	P35410				42.3821717881293	49.74	0.0	0.0					Single Protein		P35410	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+531	NM_053044_7	Homo sapiens HtrA serine peptidase 3 (HTRA3), mRNA|HTRA3|frame-2			5.257819521806732	100.0	0.0	0.0					Single Protein		NM_053044_7	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+532	Q04637				175.3822657542093	64.54	0.0	0.0					Single Protein		Q04637	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+533	Q6UY11				40.51968171609891	61.1	0.0	0.0					Single Protein		Q6UY11	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+534	Q9H7B4				49.0645674156597	89.02	0.0	0.0					Single Protein		Q9H7B4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+535	Q9NW08				127.70232940852766	88.0	0.0	0.0					Single Protein		Q9NW08	0	1	1	0	1	0	0	13	10.901162790697672	Doubtful
+536	NM_020131_4	Homo sapiens ubiquilin 4 (UBQLN4), mRNA|UBQLN4|frame-3			5.07159734543513	100.0	0.0	0.0					Single Protein		NM_020131_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+537	NM_002739_5	Homo sapiens protein kinase C, gamma (PRKCG), mRNA|PRKCG|frame-2			6.4851046511655825	100.0	0.0	0.0					Single Protein		NM_002739_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+538	NM_020745_2	Homo sapiens alanyl-tRNA synthetase 2, mitochondrial (putative) (AARS2), nuclear gene encoding mitochondrial protein, mRNA|AARS2|frame-2			6.344820733210022	100.0	0.0	0.0					Single Protein		NM_020745_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+539	Q76KX8				77.11718628401395	94.96	0.0	0.0					Single Protein		Q76KX8	0	1	1	0	1	0	0	2	16.959064327485386	Doubtful
+540	Q8IV76				87.37350037426536	52.01	0.0	0.0					Single Protein		Q8IV76	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+541	P13639				95.2769490776566	90.21	0.0	0.0					Single Protein		P13639	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+542	NM_006158_3	Homo sapiens neurofilament, light polypeptide (NEFL), mRNA|NEFL|frame-2			13.09728364159966	100.0	0.0	0.0					Single Protein		NM_006158_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+543	Q8TE58				103.22035640126644	80.0	0.0	0.0					Single Protein		Q8TE58	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+544	NM_133494_5	Homo sapiens NIMA (never in mitosis gene a)-related kinase 7 (NEK7), mRNA|NEK7|frame-2			8.089884432529063	100.0	0.0	0.0					Single Protein		NM_133494_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+545	P58550				10.583514308544869	100.0	0.0	0.0					Single Protein		P58550	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+546	P22105				464.0337549378261	68.87	0.0	0.0					Single Protein		P22105	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+547	NM_033184_2	Homo sapiens keratin associated protein 2-4 (KRTAP2-4), mRNA|KRTAP2-4|frame-2			5.140172788401431	100.0	0.0	0.0					Single Protein		NM_033184_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+548	O75369				277.9900580055979	83.36	0.0	0.0					Single Protein		O75369	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+549	NM_017675_1	Homo sapiens protocadherin 24 (PCDH24), mRNA|CDHR2|frame-2			5.970793153452923	100.0	0.0	0.0					Single Protein		NM_017675_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+550	Q9P2D1				335.71719763450363	76.58	0.0	0.0					Single Protein		Q9P2D1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+551	Q9NRI5				93.55199877722717	81.85	0.0	0.0					Single Protein		Q9NRI5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+552	NM_004788_1	Homo sapiens ubiquitination factor E4A (UFD2 homolog, yeast) (UBE4A), mRNA|UBE4A|frame-2			5.289653254685151	100.0	0.0	0.0					Single Protein		NM_004788_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+553	Q15326				70.91712284181641	92.86	0.0	0.0					Single Protein		Q15326	0	2	2	0	2	0	0	3	16.959064327485386	Doubtful
+554	NM_001034853_3	Homo sapiens retinitis pigmentosa GTPase regulator (RPGR), transcript variant C, mRNA|RPGR|frame-2			13.855123920642354	100.0	0.0	0.0					Single Protein		NM_001034853_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+555	Q6S545				60.92560434596775	86.06	0.0	0.0					Single Protein		Q6S545	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+556	Q8IZD2				204.83801266651327	56.67	0.0	0.0					Single Protein		Q8IZD2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+557	NM_001015053_6	Homo sapiens histone deacetylase 5 (HDAC5), transcript variant 3, mRNA|HDAC5|frame-1			8.630672180837221	100.0	0.0	0.0					Related Proteins	NM_005474_6	NM_001015053_6, NM_005474_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+558	Q9NRC1				67.12314702482556	75.56	0.0	0.0					Single Protein		Q9NRC1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+559	NM_207366_1	Homo sapiens septin 14 (SEPT14), mRNA|SEPT14|frame-2			5.449981512109272	100.0	0.0	0.0					Single Protein		NM_207366_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+560	O94829				108.12566077626497	71.44	0.0	0.0					Single Protein		O94829	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+561	NM_144967_6	Homo sapiens hypothetical protein FLJ30058 (FLJ30058), mRNA|ARHGAP36|frame-2			6.216215061881332	40.74	0.0	0.0					Single Protein		NM_144967_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+562	Q9C0G0				247.21063338821816	77.14	0.0	0.0					Single Protein		Q9C0G0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+563	NM_017782_9	Homo sapiens chromosome 10 open reading frame 18 (C10orf18), mRNA|C10orf18|frame-3			6.552134245361331	23.21	0.0	0.0					Single Protein		NM_017782_9	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+564	Q8TDX9				315.2332852813502	72.87	0.0	0.0					Single Protein		Q8TDX9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+565	O60814				13.881562581550394	100.0	8.73	3726.7097513133604					Related Proteins	P06899, P23527, P33778, P57053, P58876, P62807, Q16778, Q5QNW6, Q8N257, Q93079, Q96A08, Q99877, Q99879, Q99880	O60814, P06899, P23527, P33778, P57053, P58876, P62807, Q16778, Q5QNW6, Q8N257, Q93079, Q96A08, Q99877, Q99879, Q99880	1	2	2	1	2	1	2	3	16.959064327485386	Doubtful
+566	Q0VAK6				64.87370872145083	93.57	0.0	0.0					Single Protein		Q0VAK6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+567	NM_015025_2	Homo sapiens myelin transcription factor 1-like (MYT1L), mRNA|MYT1L|frame-1			10.989214961076716	100.0	0.0	0.0					Single Protein		NM_015025_2	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+568	NM_016427_5	Homo sapiens transcription elongation factor B polypeptide 3B (elongin A2) (TCEB3B), mRNA|TCEB3B|frame-2			7.784706101685495	49.25	0.0	0.0					Single Protein		NM_016427_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+569	NM_002223_6	Homo sapiens inositol 1,4,5-triphosphate receptor, type 2 (ITPR2), mRNA|ITPR2|frame-2			7.139397179091202	100.0	0.0	0.0					Single Protein		NM_002223_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+570	NM_001012659_2	Homo sapiens arginine-fifty homeobox (ARGFX), mRNA|ARGFX|frame-2			7.173877336642384	100.0	0.0	0.0					Related and Unrelated Proteins	NM_030643_1, NM_145660_1	NM_001012659_2, NM_030643_1, NM_145660_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+571	NM_004579_2	Homo sapiens mitogen-activated protein kinase kinase kinase kinase 2 (MAP4K2), mRNA|MAP4K2|frame-1			8.625834652311141	100.0	0.0	0.0					Single Protein		NM_004579_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+572	NM_001145731_1	Homo sapiens similar to hCG1996578 (LOC100130522), transcript variant 1, mRNA|LOC100130522|frame-2			11.477779820870166	100.0	0.0	0.0					Related Proteins	NM_001145732_1	NM_001145731_1, NM_001145732_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+573	Q6P3X8				67.96830721544802	94.43	0.0	0.0					Single Protein		Q6P3X8	0	2	2	0	2	0	0	4	16.959064327485386	Doubtful
+574	P48745				39.135471940296036	86.55	0.0	0.0					Single Protein		P48745	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+575	Q96D21				30.34632663571161	100.0	0.0	0.0					Single Protein		Q96D21	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+576	NM_145012_4	Homo sapiens cyclin Y (CCNY), transcript variant 1, mRNA|CCNY|frame-1			8.792608751998245	100.0	0.0	0.0					Related Proteins	NM_181698_4	NM_145012_4, NM_181698_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+577	NM_198538_1	Homo sapiens suprabasin (SBSN), mRNA|SBSN|frame-3			18.296696484310527	100.0	0.0	0.0					Single Protein		NM_198538_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+578	NM_003471_2	Homo sapiens potassium voltage-gated channel, shaker-related subfamily, beta member 1 (KCNAB1), transcript variant 2, mRNA|KCNAB1|frame-3			5.3535953288028715	100.0	0.0	0.0					Single Protein		NM_003471_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+579	Q86VR8				48.47653273757389	91.99	0.0	0.0					Single Protein		Q86VR8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+580	NM_001102559_4	Homo sapiens phosphatidic acid phosphatase type 2 domain containing 1B (PPAPDC1B), transcript variant 1, mRNA|PPAPDC1B|frame-3			5.159223801420169	20.93	0.0	0.0					Single Protein		NM_001102559_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+581	NM_021198_5	Homo sapiens CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase 1 (CTDSP1), transcript variant 1, mRNA|CTDSP1|frame-2			14.806460203641082	100.0	0.0	0.0					Single Protein		NM_021198_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+582	NM_001142503_10	Homo sapiens StAR-related lipid transfer (START) domain containing 8 (STARD8), transcript variant 1, mRNA|STARD8|frame-3			12.394593689683456	62.39	0.0	0.0					Related Proteins	NM_001142504_10, NM_014725_11	NM_001142503_10, NM_001142504_10, NM_014725_11	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+583	NM_052957_1	Homo sapiens acidic repeat containing (ACRC), mRNA|ACRC|frame-3			5.583964616175171	100.0	0.0	0.0					Single Protein		NM_052957_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+584	Q15375				112.02444515860843	79.36	0.0	0.0					Single Protein		Q15375	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+585	Q4VX67				148.66133414681013	70.08	0.0	0.0					Related Proteins	Q5RGS2, Q5TZJ5, Q5VU36, Q5VVP1, Q5VYP0, Q8IWB4	Q4VX67, Q5RGS2, Q5TZJ5, Q5VU36, Q5VVP1, Q5VYP0, Q8IWB4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+586	P98164				521.6155969041115	75.64	0.0	0.0					Single Protein		P98164	0	4	4	0	4	0	0	8	16.959064327485386	Doubtful
+587	NM_198827_2	Homo sapiens G protein-coupled receptor 133 (GPR133), mRNA|GPR133|frame-3			9.32439721303093	60.87	0.0	0.0					Single Protein		NM_198827_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+588	Q76KP1				116.44083273643463	80.17	0.0	0.0					Single Protein		Q76KP1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+589	NM_012398_4	Homo sapiens phosphatidylinositol-4-phosphate 5-kinase, type I, gamma (PIP5K1C), mRNA|PIP5K1C|frame-3			7.261840425220063	100.0	0.0	0.0					Single Protein		NM_012398_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+590	Q63HN8				591.0302454108999	88.71	0.0	0.0					Single Protein		Q63HN8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+591	P19338				76.568358644663	83.24	12.54	1079.7053759198475					Single Protein		P19338	8	9	9	8	9	8	8	9	16.959064327485386	Doubtful
+592	Q86VH5				65.85416944239391	82.79	0.0	0.0					Single Protein		Q86VH5	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+593	NM_001033081_1	Homo sapiens v-myc myelocytomatosis viral oncogene homolog 1, lung carcinoma derived (avian) (MYCL1), transcript variant 1, mRNA|MYCL1|frame-2			16.89303402192144	81.1	0.0	0.0					Single Protein		NM_001033081_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+594	NM_144976_2	Homo sapiens zinc finger protein 564 (ZNF564), mRNA|ZNF564|frame-2			6.536334158909412	100.0	0.0	0.0					Single Protein		NM_144976_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+595	O60293				226.2143988649498	90.95	0.0	0.0					Single Protein		O60293	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+596	Q49AG3				78.86056747963214	85.28	0.0	0.0					Single Protein		Q49AG3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+597	O94887				119.81274923645998	93.07	0.0	0.0					Single Protein		O94887	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+598	Q9C098				73.76809113717106	95.06	0.0	0.0					Single Protein		Q9C098	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+599	Q9H6W3				71.04141890808475	78.16	0.0	0.0					Single Protein		Q9H6W3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+600	NM_032890_1	Homo sapiens dispatched homolog 1 (Drosophila) (DISP1), mRNA|DISP1|frame-2			7.873956368682704	100.0	0.0	0.0					Single Protein		NM_032890_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+601	NM_032508_1	Homo sapiens transmembrane protein 185A (TMEM185A), mRNA|TMEM185A|frame-2			6.316374556500817	100.0	0.0	0.0					Single Protein		NM_032508_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+602	P07332				93.43821121757094	88.56	0.0	0.0					Single Protein		P07332	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+603	Q9NRA1				39.00451957529692	83.19	0.0	0.0					Single Protein		Q9NRA1	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+604	P05156				65.70660785685723	85.08	0.0	0.0					Single Protein		P05156	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+605	NM_001130514_1	Homo sapiens chromosome 19 open reading frame 69 (C19orf69), mRNA|C19orf69|frame-2			7.883102509185678	100.0	0.0	0.0					Single Protein		NM_001130514_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+606	NM_001130688_2	Homo sapiens high-mobility group box 2 (HMGB2), transcript variant 2, mRNA|HMGB2|frame-3			9.559356829241471	100.0	0.0	0.0					Related Proteins	NM_001130689_2, NM_002129_2	NM_001130688_2, NM_001130689_2, NM_002129_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+607	NM_006598_1	Homo sapiens solute carrier family 12 (potassium/chloride transporters), member 7 (SLC12A7), mRNA|SLC12A7|frame-2			6.2460686573860675	100.0	0.0	0.0					Single Protein		NM_006598_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+608	Q8TDI8				87.71049955736243	74.87	0.0	0.0					Single Protein		Q8TDI8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+609	Q92784				43.0566441858674	100.0	0.0	0.0					Single Protein		Q92784	0	1	1	0	1	0	0	4	10.901162790697672	Doubtful
+610	P05164				83.81483871714372	94.36	0.0	0.0					Single Protein		P05164	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+611	NM_152742_6	Homo sapiens glypican 2 (GPC2), mRNA|GPC2|frame-2			7.135910995143296	100.0	0.0	0.0					Single Protein		NM_152742_6	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+612	NM_152742_7	Homo sapiens glypican 2 (GPC2), mRNA|GPC2|frame-3			6.492575925535084	100.0	0.0	0.0					Single Protein		NM_152742_7	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+613	NM_178122_4	Homo sapiens chromosome 1 open reading frame 201 (C1orf201), mRNA|C1orf201|frame-1			13.469613914177197	72.95	0.0	0.0					Single Protein		NM_178122_4	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+614	NM_178493_3	Homo sapiens notum pectinacetylesterase homolog (Drosophila) (NOTUM), mRNA|NOTUM|frame-1			5.169320413208321	100.0	0.0	0.0					Unrelated Proteins	NM_003562_2	NM_003562_2, NM_178493_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+615	Q2QGD7				89.93194355346581	53.61	0.0	0.0					Single Protein		Q2QGD7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+616	Q6L8G9				11.77382513831475	17.05	0.0	0.0					Single Protein		Q6L8G9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+617	NM_004505_7	Homo sapiens ubiquitin specific peptidase 6 (Tre-2 oncogene) (USP6), mRNA|USP6|frame-3			6.356240156623972	100.0	0.0	0.0					Related Proteins	NM_032582_8	NM_004505_7, NM_032582_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+618	NM_014048_4	Homo sapiens MKL/myocardin-like 2 (MKL2), mRNA|MKL2|frame-2			4.361183079822751	100.0	0.0	0.0					Single Protein		NM_014048_4	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+619	NM_006985_1	Homo sapiens nuclear pore complex interacting protein (NPIP), mRNA|NPIP|frame-2			5.727930264382052	100.0	0.0	0.0					Related and Unrelated Proteins	NM_178541_2, XM_002343418_3, XM_002343419_3, XM_002343424_4	NM_006985_1, NM_178541_2, XM_002343418_3, XM_002343419_3, XM_002343424_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+620	NM_006532_4	Homo sapiens elongation factor RNA polymerase II (ELL), mRNA|ELL|frame-1			7.537989338383222	100.0	0.0	0.0					Single Protein		NM_006532_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+621	P18054				75.64527879370917	87.48	0.0	0.0					Single Protein		P18054	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+622	NM_002838_4	Homo sapiens protein tyrosine phosphatase, receptor type, C (PTPRC), transcript variant 1, mRNA|PTPRC|frame-2			4.88842013096434	100.0	0.0	0.0					Related Proteins	NM_080921_3, NM_080922_4	NM_002838_4, NM_080921_3, NM_080922_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+623	NM_000543_3	Homo sapiens sphingomyelin phosphodiesterase 1, acid lysosomal (SMPD1), transcript variant ASM-1, mRNA|SMPD1|frame-2			7.067550834362561	50.75	0.0	0.0					Related Proteins	NM_001007593_3	NM_000543_3, NM_001007593_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+624	NM_015492_3	Homo sapiens chromosome 15 open reading frame 39 (C15orf39), mRNA|C15orf39|frame-1			7.1044805229566155	35.38	0.0	0.0					Single Protein		NM_015492_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+625	NM_000395_7	Homo sapiens colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage) (CSF2RB), mRNA|CSF2RB|frame-1			6.400301843170132	100.0	0.0	0.0					Single Protein		NM_000395_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+626	F2Z333				24.20152902384236	52.65	0.0	0.0					Single Protein		F2Z333	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+627	NM_001135032_2	Homo sapiens family with sequence similarity 176, member A (FAM176A), transcript variant 1, mRNA|FAM176A|frame-1			4.920321933044701	100.0	0.0	0.0					Related Proteins	NM_032181_3	NM_001135032_2, NM_032181_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+628	NM_012256_7	Homo sapiens zinc finger protein 212 (ZNF212), mRNA|ZNF212|frame-3			6.494607759523575	100.0	0.0	0.0					Single Protein		NM_012256_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+629	NM_015198_5	Homo sapiens cordon-bleu homolog (mouse) (COBL), mRNA|COBL|frame-1			6.512280198402371	100.0	0.0	0.0					Single Protein		NM_015198_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+630	P78527				468.78791077657064	84.88	0.0	0.0					Single Protein		P78527	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+631	Q58DX5				88.62595923945757	61.76	0.0	0.0					Single Protein		Q58DX5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+632	Q8N6D5				32.42211069948248	100.0	0.0	0.0					Single Protein		Q8N6D5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+633	NM_017409_2	Homo sapiens homeobox C10 (HOXC10), mRNA|HOXC10|frame-1			4.875923650173133	100.0	0.0	0.0					Single Protein		NM_017409_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+634	Q9NZM3				193.33990615993537	87.74	0.0	0.0					Single Protein		Q9NZM3	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+635	Q9BSE2				43.491989196805946	79.7	0.0	0.0					Single Protein		Q9BSE2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+636	Q13586				77.37528952093044	89.64	0.0	0.0					Single Protein		Q13586	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+637	NM_007022_3	Homo sapiens cytochrome b-561 domain containing 2 (CYB561D2), mRNA|CYB561D2|frame-3			6.1304661040173345	100.0	0.0	0.0					Single Protein		NM_007022_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+638	Q9P289				46.49961083517009	92.55	0.0	0.0					Single Protein		Q9P289	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+639	Q9UNA0				101.65269534417928	92.47	0.0	0.0					Single Protein		Q9UNA0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+640	NM_022728_1	Homo sapiens neurogenic differentiation 6 (NEUROD6), mRNA|NEUROD6|frame-2			6.650157791853912	100.0	0.0	0.0					Single Protein		NM_022728_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+641	Q6Q759				251.5840205224192	79.17	0.0	0.0					Single Protein		Q6Q759	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+642	Q9HCS7				99.94644011692306	96.02	0.0	0.0					Single Protein		Q9HCS7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+643	NM_001042603_5	Homo sapiens lysine (K)-specific demethylase 5A (KDM5A), transcript variant 1, mRNA|KDM5A|frame-2			5.802129179402473	100.0	0.0	0.0					Related Proteins	NM_005056_5	NM_001042603_5, NM_005056_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+644	Q92618				124.21135062393253	91.75	0.0	0.0					Single Protein		Q92618	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+645	NM_001134476_9	Homo sapiens leucine rich repeat containing 8 family, member B (LRRC8B), transcript variant 2, mRNA|LRRC8B|frame-1			6.773422235279942	100.0	0.0	0.0					Related Proteins	NM_015350_9	NM_001134476_9, NM_015350_9	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+646	NM_014920_6	Homo sapiens intestinal cell (MAK-like) kinase (ICK), transcript variant 1, mRNA|ICK|frame-2			5.999864829868131	100.0	0.0	0.0					Related Proteins	NM_016513_6	NM_014920_6, NM_016513_6	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+647	NM_017987_4	Homo sapiens RUN and FYVE domain containing 2 (RUFY2), transcript variant 1, mRNA|RUFY2|frame-1			6.924494407518571	100.0	0.0	0.0					Single Protein		NM_017987_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+648	NM_004979_2	Homo sapiens potassium voltage-gated channel, Shal-related subfamily, member 1 (KCND1), mRNA|KCND1|frame-1			7.619371008867923	42.47	0.0	0.0					Single Protein		NM_004979_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+649	NM_001105541_2	Homo sapiens neurofilament, medium polypeptide (NEFM), transcript variant 2, mRNA|NEFM|frame-1			22.51292920923435	100.0	0.0	0.0					Related Proteins	NM_005382_2	NM_001105541_2, NM_005382_2	0	2	2	0	2	0	0	3	16.959064327485386	Doubtful
+650	Q5H9F3				182.41230538406086	62.54	0.0	0.0					Single Protein		Q5H9F3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+651	NM_001012420_8	Homo sapiens golgi autoantigen, golgin subfamily a, 8G (GOLGA8G), mRNA|GOLGA8G|frame-1			8.382280888496945	100.0	0.0	0.0					Related Proteins	NM_001012423_9	NM_001012420_8, NM_001012423_9	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+652	Q8NB12				56.57987360671529	84.29	0.0	0.0					Single Protein		Q8NB12	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+653	P21817				564.8149935660622	84.1	0.0	0.0					Single Protein		P21817	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+654	Q008S8				104.81309099151645	88.94	0.0	0.0					Single Protein		Q008S8	0	1	1	0	1	0	0	7	16.959064327485386	Doubtful
+655	TRY1_BOVIN				25.408419297583514	82.3	63.79	32813.18420307445	Oxidation of M(M106, M180)	Oxidation of M(2)			Single Protein		TRY1_BOVIN	15	15	15	15	15	15	50	54	16.959064327485386	Doubtful
+656	E9PJI5				42.202498233943416	100.0	0.0	0.0					Related Proteins	E9PKD4, P0DM63, Q9UND3	E9PJI5, E9PKD4, P0DM63, Q9UND3	0	1	0	0	0	0	0	1	10.901162790697672	Doubtful
+657	P32926				107.46536519822799	68.67	0.0	0.0					Single Protein		P32926	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+658	NM_152285_1	Homo sapiens arrestin domain containing 1 (ARRDC1), mRNA|ARRDC1|frame-1			10.166968711937189	100.0	0.0	0.0					Single Protein		NM_152285_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+659	Q96JK4				86.67577302810678	78.13	0.0	0.0					Single Protein		Q96JK4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+660	NM_052906_7	Homo sapiens extracellular leucine-rich repeat and fibronectin type III domain containing 2 (ELFN2), mRNA|ELFN2|frame-3			7.111678628516202	100.0	0.0	0.0					Single Protein		NM_052906_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+661	Q6F5E8				154.59308439943703	79.44	0.0	0.0					Single Protein		Q6F5E8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+662	NM_175607_2	Homo sapiens contactin 4 (CNTN4), transcript variant 1, mRNA|CNTN4|frame-2			8.224653683302494	100.0	0.0	0.0					Related Proteins	NM_175612_2	NM_175607_2, NM_175612_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+663	NM_003443_4	Homo sapiens zinc finger and BTB domain containing 17 (ZBTB17), mRNA|ZBTB17|frame-1			12.169196969951678	100.0	0.0	0.0					Single Protein		NM_003443_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+664	NM_006809_1	Homo sapiens translocase of outer mitochondrial membrane 34 (TOMM34), nuclear gene encoding mitochondrial protein, mRNA|TOMM34|frame-1			4.99861133030352	100.0	0.0	0.0					Single Protein		NM_006809_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+665	NM_000053_3	Homo sapiens ATPase, Cu++ transporting, beta polypeptide (ATP7B), transcript variant 1, mRNA|ATP7B|frame-3			5.578805095842003	100.0	0.0	0.0					Related Proteins	NM_001005918_3	NM_000053_3, NM_001005918_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+666	NM_005751_1	Homo sapiens A kinase (PRKA) anchor protein (yotiao) 9 (AKAP9), transcript variant 2, mRNA|AKAP9|frame-2			5.10102343882914	100.0	0.0	0.0					Related Proteins	NM_147185_1	NM_005751_1, NM_147185_1	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+667	NM_013345_11	Homo sapiens G protein-coupled receptor 132 (GPR132), mRNA|GPR132|frame-2			9.645206184298727	42.86	0.0	0.0					Single Protein		NM_013345_11	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+668	NM_001810_3	Homo sapiens centromere protein B, 80kDa (CENPB), mRNA|CENPB|frame-2			11.304819146136264	100.0	0.0	0.0					Single Protein		NM_001810_3	0	5	5	0	5	0	0	11	16.959064327485386	Doubtful
+669	NM_001297_2	Homo sapiens cyclic nucleotide gated channel beta 1 (CNGB1), transcript variant 1, mRNA|CNGB1|frame-1			7.494331527676189	100.0	0.0	0.0					Single Protein		NM_001297_2	0	1	1	0	1	0	0	38	16.959064327485386	Doubtful
+670	Q9BZF2				95.37166683206657	89.07	0.0	0.0					Single Protein		Q9BZF2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+671	NM_007113_5	Homo sapiens trichohyalin (TCHH), mRNA|TCHH|frame-3			6.8984063057450715	100.0	0.0	0.0					Single Protein		NM_007113_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+672	Q2M5E4				17.659873664252878	100.0	0.0	0.0					Single Protein		Q2M5E4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+673	O95471				22.40320776601322	42.18	0.0	0.0					Single Protein		O95471	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+674	Q8IY26				32.172838300957835	75.59	0.0	0.0					Single Protein		Q8IY26	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+675	NM_004472_2	Homo sapiens forkhead box D1 (FOXD1), mRNA|FOXD1|frame-2			33.91169556048112	100.0	0.0	0.0					Single Protein		NM_004472_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+676	NM_001143885_3	Homo sapiens protein phosphatase 1, regulatory (inhibitor) subunit 12A (PPP1R12A), transcript variant 2, mRNA|PPP1R12A|frame-2			7.207214374415157	100.0	0.0	0.0					Related Proteins	NM_001143886_2, NM_002480_3	NM_001143885_3, NM_001143886_2, NM_002480_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+677	NM_001080437_14	Homo sapiens sushi, nidogen and EGF-like domains 1 (SNED1), mRNA|SNED1|frame-1			5.537964724956591	100.0	0.0	0.0					Single Protein		NM_001080437_14	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+678	Q8TCF1				30.76716380601341	100.0	0.0	0.0					Single Protein		Q8TCF1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+679	P31645				70.2788189620564	50.48	0.0	0.0					Single Protein		P31645	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+680	Q8NB50				102.44515691104752	100.0	0.0	0.0					Single Protein		Q8NB50	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+681	Q9H1J1				54.663026068050684	93.28	0.0	0.0					Single Protein		Q9H1J1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+682	NM_017662_10	Homo sapiens transient receptor potential cation channel, subfamily M, member 6 (TRPM6), mRNA|TRPM6|frame-3			8.915368323602353	100.0	0.0	0.0					Single Protein		NM_017662_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+683	NM_005909_1	Homo sapiens microtubule-associated protein 1B (MAP1B), mRNA|MAP1B|frame-3			8.92302225341843	100.0	0.0	0.0					Single Protein		NM_005909_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+684	NM_000266_6	Homo sapiens Norrie disease (pseudoglioma) (NDP), mRNA|NDP|frame-1			7.022105341560146	100.0	0.0	0.0					Single Protein		NM_000266_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+685	Q8NAT2				109.66716259113484	85.32	0.0	0.0					Single Protein		Q8NAT2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+686	NM_002883_2	Homo sapiens Ran GTPase activating protein 1 (RANGAP1), mRNA|RANGAP1|frame-3			14.870137573506554	74.17	0.0	0.0					Single Protein		NM_002883_2	0	4	4	0	4	0	0	13	16.959064327485386	Doubtful
+687	NM_000168_5	Homo sapiens GLI family zinc finger 3 (GLI3), mRNA|GLI3|frame-3			6.486442555031153	100.0	0.0	0.0					Single Protein		NM_000168_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+688	NM_000684_3	Homo sapiens adrenergic, beta-1-, receptor (ADRB1), mRNA|ADRB1|frame-2			8.266346289443621	100.0	0.0	0.0					Single Protein		NM_000684_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+689	NM_018318_2	Homo sapiens coiled-coil domain containing 91 (CCDC91), mRNA|CCDC91|frame-3			6.785644204601944	100.0	0.0	0.0					Single Protein		NM_018318_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+690	NM_015655_2	Homo sapiens zinc finger protein 337 (ZNF337), mRNA|ZNF337|frame-3			5.925197410074661	100.0	0.0	0.0					Single Protein		NM_015655_2	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+691	NM_022748_5	Homo sapiens tensin 3 (TNS3), mRNA|TNS3|frame-1			5.081428463801911	100.0	0.0	0.0					Single Protein		NM_022748_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+692	Q5VT25				197.18245840520655	85.16	0.0	0.0					Single Protein		Q5VT25	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+693	NM_001145_1	Homo sapiens angiogenin, ribonuclease, RNase A family, 5 (ANG), transcript variant 1, mRNA|ANG|frame-2			21.108656270239347	100.0	0.0	0.0					Related Proteins	NM_002937_1	NM_001145_1, NM_002937_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+694	NM_004846_1	Homo sapiens eukaryotic translation initiation factor 4E family member 2 (EIF4E2), mRNA|EIF4E2|frame-2			10.983902640763024	100.0	0.0	0.0					Single Protein		NM_004846_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+695	Q9H9Y2				40.08612005319854	100.0	0.0	0.0					Single Protein		Q9H9Y2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+696	Q96NW7				172.47280959021683	90.18	0.0	0.0					Single Protein		Q96NW7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+697	NM_015458_11	Homo sapiens myotubularin related protein 9 (MTMR9), mRNA|MTMR9|frame-3			4.75137024605277	100.0	0.0	0.0					Single Protein		NM_015458_11	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+698	NM_001382_2	Homo sapiens dolichyl-phosphate (UDP-N-acetylglucosamine) N-acetylglucosaminephosphotransferase 1 (GlcNAc-1-P transferase) (DPAGT1), mRNA|DPAGT1|frame-2			5.089085863946872	26.09	0.0	0.0					Single Protein		NM_001382_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+699	Q9ULU4				131.6097046605073	86.93	2.28	227.72329227230037	Oxidation of M(M1059)	Oxidation of M(1)			Single Protein		Q9ULU4	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+700	NM_000264_4	Homo sapiens patched homolog 1 (Drosophila) (PTCH1), transcript variant 1b, mRNA|PTCH1|frame-1			7.747603947309681	100.0	0.0	0.0					Related Proteins	NM_001083602_5, NM_001083603_4, NM_001083604_4, NM_001083605_4, NM_001083606_5, NM_001083607_5	NM_000264_4, NM_001083602_5, NM_001083603_4, NM_001083604_4, NM_001083605_4, NM_001083606_5, NM_001083607_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+701	NM_001042544_5	Homo sapiens latent transforming growth factor beta binding protein 4 (LTBP4), transcript variant 1, mRNA|LTBP4|frame-3			5.2748362023716	100.0	0.0	0.0					Related Proteins	NM_001042545_6, NM_003573_5	NM_001042544_5, NM_001042545_6, NM_003573_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+702	P61011				55.6682891244791	92.46	0.0	0.0					Single Protein		P61011	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+703	Q9Y2W2				69.95392019947289	73.48	0.0	0.0					Single Protein		Q9Y2W2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+704	NM_001042549_10	Homo sapiens NSL1, MIND kinetochore complex component, homolog (S. cerevisiae) (NSL1), transcript variant 2, mRNA|NSL1|frame-2			5.270762619855081	100.0	0.0	0.0					Related Proteins	NM_015471_9	NM_001042549_10, NM_015471_9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+705	NM_182493_5	Homo sapiens myosin light chain kinase 3 (MYLK3), mRNA|MYLK3|frame-2			4.7081627575779414	100.0	0.0	0.0					Single Protein		NM_182493_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+706	O14829				75.74401025013483	88.06	0.0	0.0					Single Protein		O14829	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+707	Q8NEP9				73.03655201257753	100.0	0.0	0.0					Single Protein		Q8NEP9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+708	Q66GS9				133.40818044797803	96.93	0.0	0.0					Single Protein		Q66GS9	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+709	P17707				38.31485219150205	89.52	0.0	0.0					Single Protein		P17707	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+710	NM_005244_1	Homo sapiens eyes absent homolog 2 (Drosophila) (EYA2), transcript variant 1, mRNA|EYA2|frame-1			17.168695842528287	78.75	0.0	0.0					Related Proteins	NM_172110_1, NM_172111_1, NM_172112_1, NM_172113_2	NM_005244_1, NM_172110_1, NM_172111_1, NM_172112_1, NM_172113_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+711	Q5JPF3				199.62551397150943	100.0	0.0	0.0					Single Protein		Q5JPF3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+712	Q96NL3				67.44766714576134	94.9	0.0	0.0					Single Protein		Q96NL3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+713	Q5T890				177.01660394660905	94.68	0.0	0.0					Single Protein		Q5T890	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+714	O14830				86.463427776864	100.0	0.0	0.0					Single Protein		O14830	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+715	Q8TC92				73.30170292183645	77.45	0.0	0.0					Single Protein		Q8TC92	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+716	NM_144604_1	Homo sapiens zinc finger CCCH-type containing 18 (ZC3H18), mRNA|ZC3H18|frame-2			8.741005907051367	100.0	0.0	0.0					Single Protein		NM_144604_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+717	NM_032152_1	Homo sapiens PML-RARA regulated adaptor molecule 1 (PRAM1), mRNA|PRAM1|frame-1			6.855229033898242	100.0	0.0	0.0					Single Protein		NM_032152_1	0	1	1	0	1	0	0	9	16.959064327485386	Doubtful
+718	Q96RS0				96.55965435022347	90.39	0.0	0.0					Single Protein		Q96RS0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+719	NM_144639_4	Homo sapiens urocanase domain containing 1 (UROC1), mRNA|UROC1|frame-2			4.644356284837823	100.0	0.0	0.0					Single Protein		NM_144639_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+720	Q9UPY3				218.54229893777332	88.81	0.0	0.0					Single Protein		Q9UPY3	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+721	XM_001126286_2	PREDICTED: Homo sapiens hypothetical LOC727978 (LOC727978), mRNA|LOC727978|frame-1			27.289641150321557	71.43	0.0	0.0					Related Proteins	XM_002345726_2	XM_001126286_2, XM_002345726_2	0	1	1	0	1	0	0	2	16.959064327485386	Doubtful
+722	Q86XZ4				59.50756195419861	87.71	0.0	0.0					Single Protein		Q86XZ4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+723	NM_017970_1	Homo sapiens chromosome 14 open reading frame 102 (C14orf102), transcript variant 1, mRNA|C14orf102|frame-3			10.616280288714108	100.0	0.0	0.0					Single Protein		NM_017970_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+724	Q5VWN6				268.6753415260275	78.56	0.0	0.0					Single Protein		Q5VWN6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+725	P51654				65.51976809911396	70.34	0.0	0.0					Single Protein		P51654	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+726	O00213				77.19590614801022	66.06	0.0	0.0					Single Protein		O00213	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+727	NM_001009998_1	Homo sapiens single stranded DNA binding protein 4 (SSBP4), transcript variant 2, mRNA|SSBP4|frame-1			16.110969174411913	100.0	0.0	0.0					Related Proteins	NM_032627_1	NM_001009998_1, NM_032627_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+728	NM_024736_3	Homo sapiens gasdermin D (GSDMD), mRNA|GSDMD|frame-2			5.842686874487533	100.0	0.0	0.0					Related Proteins	NM_172193_3	NM_024736_3, NM_172193_3	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+729	Q96RR1				77.1059468924022	94.74	0.0	0.0					Single Protein		Q96RR1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+730	NM_001136574_3	Homo sapiens LanC lantibiotic synthetase component C-like 1 (bacterial) (LANCL1), transcript variant 2, mRNA|LANCL1|frame-1			4.79363149327169	100.0	0.0	0.0					Related Proteins	NM_001136575_3, NM_006055_3	NM_001136574_3, NM_001136575_3, NM_006055_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+731	Q8NEM8				115.93783261097362	100.0	0.0	0.0					Single Protein		Q8NEM8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+732	Q9UPZ6				185.24102062199438	79.24	0.0	0.0					Single Protein		Q9UPZ6	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+733	Q502W6				145.65648218765458	94.82	0.0	0.0					Single Protein		Q502W6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+734	NM_000087_2	Homo sapiens cyclic nucleotide gated channel alpha 1 (CNGA1), transcript variant 2, mRNA|CNGA1|frame-1			9.946840634898056	55.0	0.0	0.0					Related Proteins	NM_001142564_2	NM_000087_2, NM_001142564_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+735	NM_001007157_2	Homo sapiens PHD finger protein 14 (PHF14), transcript variant 1, mRNA|PHF14|frame-2			11.726731683000931	100.0	0.0	0.0					Related Proteins	NM_014660_2	NM_001007157_2, NM_014660_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+736	Q9UQ35				299.4380101693397	91.72	0.0	0.0					Single Protein		Q9UQ35	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+737	NM_001012993_1	Homo sapiens chromosome 9 open reading frame 152 (C9orf152), mRNA|C9orf152|frame-1			10.43372472122561	100.0	0.0	0.0					Single Protein		NM_001012993_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+738	Q9Y2K7				132.7075368450698	93.55	0.0	0.0					Single Protein		Q9Y2K7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+739	Q9H1B7				82.60697858154948	65.83	0.0	0.0					Single Protein		Q9H1B7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+740	NM_020808_7	Homo sapiens signal-induced proliferation-associated 1 like 2 (SIPA1L2), mRNA|SIPA1L2|frame-2			20.69179411294155	100.0	0.0	0.0					Single Protein		NM_020808_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+741	Q09327				61.27384951100813	87.24	0.0	0.0					Single Protein		Q09327	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+742	Q9NY97				45.99255130674399	100.0	0.0	0.0					Single Protein		Q9NY97	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+743	NM_207581_1	Homo sapiens dual oxidase maturation factor 2 (DUOXA2), mRNA|DUOXA2|frame-1			4.670724841740522	100.0	0.0	0.0					Single Protein		NM_207581_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+744	NM_001145017_3	Homo sapiens solute carrier family 36 (proton/amino acid symporter), member 3 (SLC36A3), transcript variant 1, mRNA|SLC36A3|frame-1			4.503265387061411	100.0	0.0	0.0					Single Protein		NM_001145017_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+745	NM_173545_1	Homo sapiens aprataxin and PNKP like factor (APLF), mRNA|APLF|frame-1			11.094181914434484	100.0	0.0	0.0					Single Protein		NM_173545_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+746	NM_014646_8	Homo sapiens lipin 2 (LPIN2), mRNA|LPIN2|frame-1			6.040747676895823	100.0	0.0	0.0					Single Protein		NM_014646_8	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+747	Q96AV8				99.8264911696366	76.95	0.0	0.0					Single Protein		Q96AV8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+748	Q9UPT8				140.16947091234613	69.76	0.0	0.0					Single Protein		Q9UPT8	0	2	2	0	2	0	0	2	16.959064327485386	Doubtful
+749	Q8WTV1				27.041958340357713	100.0	0.0	0.0					Single Protein		Q8WTV1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+750	Q9NU22				632.4201560754761	85.6	0.0	0.0					Single Protein		Q9NU22	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+751	Q9NPI1				74.09219523450763	92.93	0.0	0.0					Single Protein		Q9NPI1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+752	NM_145206_1	Homo sapiens vesicle transport through interaction with t-SNAREs homolog 1A (yeast) (VTI1A), mRNA|VTI1A|frame-3			5.359759331949889	100.0	0.0	0.0					Single Protein		NM_145206_1	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+753	NM_015028_1	Homo sapiens TRAF2 and NCK interacting kinase (TNIK), mRNA|TNIK|frame-2			4.705521576341111	100.0	0.0	0.0					Single Protein		NM_015028_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+754	NM_003888_1	Homo sapiens aldehyde dehydrogenase 1 family, member A2 (ALDH1A2), transcript variant 1, mRNA|ALDH1A2|frame-2			8.985689204230255	100.0	0.0	0.0					Related Proteins	NM_170696_1, NM_170697_1	NM_003888_1, NM_170696_1, NM_170697_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+755	NM_024636_2	Homo sapiens STEAP family member 4 (STEAP4), mRNA|STEAP4|frame-3			9.058478755633303	100.0	0.0	0.0					Single Protein		NM_024636_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+756	Q96BN8				40.23707857567695	100.0	0.0	0.0					Single Protein		Q96BN8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+757	NM_138281_1	Homo sapiens distal-less homeobox 4 (DLX4), transcript variant 1, mRNA|DLX4|frame-3			8.501166299385698	100.0	0.0	0.0					Single Protein		NM_138281_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+758	O43439				67.09071098782549	79.8	0.0	0.0					Single Protein		O43439	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+759	Q9NYU2				177.0780112255724	86.11	0.0	0.0					Single Protein		Q9NYU2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+760	NM_014900_1	Homo sapiens COBL-like 1 (COBLL1), mRNA|COBLL1|frame-2			5.113837456561189	100.0	0.0	0.0					Single Protein		NM_014900_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+761	XM_002343763_4	PREDICTED: Homo sapiens similar to hCG1657444 (LOC100287153), mRNA|LOC100287153|frame-2			5.92050535795009	100.0	0.0	0.0					Related Proteins	XM_002348092_4	XM_002343763_4, XM_002348092_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+762	NM_013359_3	Homo sapiens zinc finger protein 221 (ZNF221), mRNA|ZNF221|frame-1			7.944152757796525	100.0	0.0	0.0					Single Protein		NM_013359_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+763	NM_002486_1	Homo sapiens nuclear cap binding protein subunit 1, 80kDa (NCBP1), mRNA|NCBP1|frame-2			8.211166811153639	100.0	0.0	0.0					Single Protein		NM_002486_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+764	NM_001142685_11	Homo sapiens Rho GTPase-activating protein (RICS), transcript variant 1, mRNA|ARHGAP32|frame-2			8.440406608642286	100.0	0.0	0.0					Related Proteins	NM_014715_9	NM_001142685_11, NM_014715_9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+765	NM_015046_1	Homo sapiens senataxin (SETX), mRNA|SETX|frame-2			4.989400911641391	100.0	0.0	0.0					Single Protein		NM_015046_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+766	NM_024658_2	Homo sapiens importin 4 (IPO4), mRNA|IPO4|frame-1			6.999592237362442	100.0	0.0	0.0					Single Protein		NM_024658_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+767	Q8NFI4				41.35129237568066	71.0	0.0	0.0					Single Protein		Q8NFI4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+768	NM_000875_3	Homo sapiens insulin-like growth factor 1 receptor (IGF1R), mRNA|IGF1R|frame-1			18.129476071402852	100.0	0.0	0.0					Single Protein		NM_000875_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+769	NM_144684_2	Homo sapiens zinc finger protein 480 (ZNF480), mRNA|ZNF480|frame-3			7.845300016277174	100.0	0.0	0.0					Single Protein		NM_144684_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+770	P13727				25.189257145500004	100.0	0.0	0.0					Single Protein		P13727	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+771	NM_001447_21	Homo sapiens FAT tumor suppressor homolog 2 (Drosophila) (FAT2), mRNA|FAT2|frame-2			9.404915975984906	100.0	0.0	0.0					Single Protein		NM_001447_21	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+772	XM_002344215_8	PREDICTED: Homo sapiens hypothetical protein LOC100288025 (LOC100288025), mRNA|DYZ1L2|frame-2			9.189177886405854	100.0	0.0	0.0					Related Proteins	XM_002344216_7, XM_002344218_7, XM_002344219_10, XM_002344220_8, XM_002344221_6, XM_002344226_8	XM_002344215_8, XM_002344216_7, XM_002344218_7, XM_002344219_10, XM_002344220_8, XM_002344221_6, XM_002344226_8	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+773	Q6UWL6				75.0452579122236	73.45	0.0	0.0					Single Protein		Q6UWL6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+774	NM_016208_3	Homo sapiens vacuolar protein sorting 28 homolog (S. cerevisiae) (VPS28), transcript variant 1, mRNA|VPS28|frame-2			5.811040284030332	100.0	0.0	0.0					Single Protein		NM_016208_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+775	NM_001447_20	Homo sapiens FAT tumor suppressor homolog 2 (Drosophila) (FAT2), mRNA|FAT2|frame-3			10.264951541374925	59.78	0.0	0.0					Single Protein		NM_001447_20	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+776	Q3KP22				24.792954272864744	100.0	0.0	0.0					Single Protein		Q3KP22	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+777	NM_004970_4	Homo sapiens insulin-like growth factor binding protein, acid labile subunit (IGFALS), mRNA|IGFALS|frame-1			5.35242165826095	100.0	0.0	0.0					Single Protein		NM_004970_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+778	Q8WZ42				3634.273545458802	91.02	0.0	0.0					Single Protein		Q8WZ42	0	5	5	0	5	0	0	12	16.959064327485386	Doubtful
+779	NM_006277_10	Homo sapiens intersectin 2 (ITSN2), transcript variant 1, mRNA|ITSN2|frame-2			8.152048480200643	100.0	0.0	0.0					Related Proteins	NM_019595_10	NM_006277_10, NM_019595_10	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+780	Q8N5F7				47.110095081445536	92.29	0.0	0.0					Single Protein		Q8N5F7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+781	P12883				222.95871712148534	93.64	0.0	0.0					Single Protein		P12883	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+782	NM_015356_2	Homo sapiens scribbled homolog (Drosophila) (SCRIB), transcript variant 2, mRNA|SCRIB|frame-3			15.614652372978897	100.0	0.0	0.0					Related Proteins	NM_182706_2	NM_015356_2, NM_182706_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+783	Q8N5M9				21.11111593758769	61.75	0.0	0.0					Single Protein		Q8N5M9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+784	NM_001002762_7	Homo sapiens DnaJ (Hsp40) homolog, subfamily B, member 12 (DNAJB12), transcript variant 1, mRNA|DNAJB12|frame-1			6.171053083974922	100.0	0.0	0.0					Single Protein		NM_001002762_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+785	NM_004227_2	Homo sapiens cytohesin 3 (CYTH3), mRNA|CYTH3|frame-2			10.927700520771785	100.0	0.0	0.0					Single Protein		NM_004227_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+786	NM_001201_3	Homo sapiens bone morphogenetic protein 3 (BMP3), mRNA|BMP3|frame-1			13.020921566397979	100.0	0.0	0.0					Single Protein		NM_001201_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+787	NM_002540_4	Homo sapiens outer dense fiber of sperm tails 2 (ODF2), transcript variant 1, mRNA|ODF2|frame-1			6.928076533171787	100.0	0.0	0.0					Single Protein		NM_002540_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+788	NM_018367_2	Homo sapiens alkaline ceramidase 3 (ACER3), mRNA|ACER3|frame-1			5.563071404632561	100.0	0.0	0.0					Single Protein		NM_018367_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+789	NM_005509_7	Homo sapiens Dmx-like 1 (DMXL1), mRNA|DMXL1|frame-3			4.686673668628041	100.0	0.0	0.0					Single Protein		NM_005509_7	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+790	P36894				60.15811353066951	92.11	0.0	0.0					Single Protein		P36894	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+791	P57775				46.30715956558715	64.56	0.0	0.0					Single Protein		P57775	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+792	Q16566				51.89283007325334	85.84	0.0	0.0					Single Protein		Q16566	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+793	Q6ZN18				54.4329658641742	72.15	0.0	0.0					Single Protein		Q6ZN18	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+794	Q8TCU6				186.0848451462626	87.88	0.0	0.0					Single Protein		Q8TCU6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+795	NM_020398_1	Homo sapiens serine peptidase inhibitor-like, with Kunitz and WAP domains 1 (eppin) (SPINLW1), transcript variant 1, mRNA|SPINLW1|frame-2			4.945611453974672	100.0	0.0	0.0					Related Proteins	NM_181502_3	NM_020398_1, NM_181502_3	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+796	NM_001098812_5	Homo sapiens septin 8 (SEPT8), transcript variant 3, mRNA|SEPT8|frame-2			15.088440005067426	100.0	0.0	0.0					Related Proteins	NM_001098813_6, NM_015146_6	NM_001098812_5, NM_001098813_6, NM_015146_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+797	P36402				41.615690935436284	58.59	0.0	0.0					Single Protein		P36402	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+798	P35555				312.02248148867255	78.44	0.0	0.0					Single Protein		P35555	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+799	NM_001077196_4	Homo sapiens phosphodiesterase 11A (PDE11A), transcript variant 1, mRNA|PDE11A|frame-1			5.211098271003403	100.0	0.0	0.0					Related Proteins	NM_001077197_4, NM_016953_5	NM_001077196_4, NM_001077197_4, NM_016953_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+800	Q13064				55.60869982809597	83.63	0.0	0.0					Single Protein		Q13064	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+801	P60709				41.709730139029176	100.0	10.13	1773.9138416251594	Oxidation of M(M325)	Oxidation of M(1)			Related Proteins	P63261	P60709, P63261	3	3	3	3	3	3	4	4	16.959064327485386	Doubtful
+802	NM_001127698_6	Homo sapiens serine peptidase inhibitor, Kazal type 5 (SPINK5), transcript variant 1, mRNA|SPINK5|frame-3			7.887351892418035	100.0	0.0	0.0					Related Proteins	NM_001127699_6, NM_006846_6	NM_001127698_6, NM_001127699_6, NM_006846_6	0	1	1	0	1	0	0	3	10.901162790697672	Doubtful
+803	NM_020831_1	Homo sapiens megakaryoblastic leukemia (translocation) 1 (MKL1), mRNA|MKL1|frame-3			4.848220387805581	100.0	0.0	0.0					Single Protein		NM_020831_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+804	Q9H6A9				221.8981644431844	73.75	0.0	0.0					Single Protein		Q9H6A9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+805	NM_024036_3	Homo sapiens leucine rich repeat and fibronectin type III domain containing 4 (LRFN4), mRNA|LRFN4|frame-3			7.682579204003549	44.16	0.0	0.0					Single Protein		NM_024036_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+806	Q8N9I5				40.42096706096289	100.0	0.0	0.0					Single Protein		Q8N9I5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+807	NM_017922_4	Homo sapiens PRP39 pre-mRNA processing factor 39 homolog (S. cerevisiae) (PRPF39), mRNA|PRPF39|frame-3			7.5662014118832275	100.0	0.0	0.0					Single Protein		NM_017922_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+808	NM_013261_1	Homo sapiens peroxisome proliferator-activated receptor gamma, coactivator 1 alpha (PPARGC1A), mRNA|PPARGC1A|frame-2			6.199421532251561	100.0	0.0	0.0					Single Protein		NM_013261_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+809	NM_006827_1	Homo sapiens transmembrane emp24-like trafficking protein 10 (yeast) (TMED10), mRNA|TMED10|frame-2			4.50222704449008	100.0	0.0	0.0					Single Protein		NM_006827_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+810	Q13882				51.801183233775795	100.0	0.0	0.0					Single Protein		Q13882	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+811	Q9BZQ6				104.59784997307604	73.93	0.0	0.0					Single Protein		Q9BZQ6	0	1	1	0	1	0	0	4	10.901162790697672	Doubtful
+812	O75419				65.5265804189222	71.73	0.0	0.0					Single Protein		O75419	0	1	1	0	1	0	0	4	10.901162790697672	Doubtful
+813	P84098				23.451246588348074	100.0	0.0	0.0					Single Protein		P84098	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+814	A8MTY7				17.778426302244622	20.12	0.0	0.0					Related Proteins	A8MXZ3, Q9BYP9, Q9BYQ0, Q9BYQ2, Q9BYQ3, Q9BYQ4	A8MTY7, A8MXZ3, Q9BYP9, Q9BYQ0, Q9BYQ2, Q9BYQ3, Q9BYQ4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+815	Q96K58				67.84623693026015	87.56	0.0	0.0					Single Protein		Q96K58	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+816	Q08945				81.02442027045807	93.09	2.12	355.73138535263894					Single Protein		Q08945	1	1	1	1	1	1	1	1	16.959064327485386	Doubtful
+817	NM_152787_2	Homo sapiens mitogen-activated protein kinase kinase kinase 7 interacting protein 3 (MAP3K7IP3), mRNA|TAB3|frame-3			8.085635834959456	100.0	0.0	0.0					Single Protein		NM_152787_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+818	P10589				46.1257960045604	73.76	0.0	0.0					Related Proteins	P24468	P10589, P24468	0	1	1	0	1	0	0	4	16.959064327485386	Doubtful
+819	Q92688				28.77030858058959	65.74	0.0	0.0					Single Protein		Q92688	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+820	NM_001001438_2	Homo sapiens lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase) (LSS), transcript variant 2, mRNA|LSS|frame-3			12.074613094285452	100.0	0.0	0.0					Related Proteins	NM_001145436_2, NM_001145437_3, NM_002340_2	NM_001001438_2, NM_001145436_2, NM_001145437_3, NM_002340_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+821	NM_000489_4	Homo sapiens alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae) (ATRX), transcript variant 1, mRNA|ATRX|frame-3			11.327767923967382	100.0	0.0	0.0					Related Proteins	NM_138270_4	NM_000489_4, NM_138270_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+822	P35916				152.6604046688371	77.92	0.0	0.0					Single Protein		P35916	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+823	P11940				70.62586938277288	87.42	0.0	0.0					Single Protein		P11940	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+824	P18583				263.6635601568226	53.46	0.0	0.0					Single Protein		P18583	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+825	A0AUZ9				112.18272552574514	81.36	0.0	0.0					Single Protein		A0AUZ9	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+826	Q03252				67.64749405619466	92.33	0.0	0.0					Single Protein		Q03252	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+827	NM_017694_6	Homo sapiens major facilitator superfamily domain containing 6 (MFSD6), mRNA|MFSD6|frame-1			8.943970854134758	48.65	0.0	0.0					Single Protein		NM_017694_6	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+828	O43819				29.791384429148305	100.0	0.0	0.0					Single Protein		O43819	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+829	NM_001102653_5	Homo sapiens OTU domain containing 4 (OTUD4), transcript variant 3, mRNA|OTUD4|frame-1			7.303037521894112	100.0	0.0	0.0					Related Proteins	NM_199324_5	NM_001102653_5, NM_199324_5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+830	NM_001005733_2	Homo sapiens chromosome 21 open reading frame 34 (C21orf34), transcript variant 2, mRNA|C21orf34|frame-1			5.134438921897802	100.0	0.0	0.0					Related Proteins	NM_001005734_1	NM_001005733_2, NM_001005734_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+831	Q9BQ66				21.38976552347905	14.43	0.0	0.0					Related Proteins	Q9BYR3, Q9BYR5	Q9BQ66, Q9BYR3, Q9BYR5	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+832	XM_002344217_3	PREDICTED: Homo sapiens hypothetical protein LOC100288085 (LOC100288085), mRNA|DYZ1L5|frame-2			7.70826778513749	100.0	0.0	0.0					Related Proteins	XM_002344222_14, XM_002344223_4, XM_002344225_2, XM_002344231_16, XM_002344232_4	XM_002344217_3, XM_002344222_14, XM_002344223_4, XM_002344225_2, XM_002344231_16, XM_002344232_4	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+833	NM_001137602_1	Homo sapiens mediator of cell motility 1 (MEMO1), transcript variant 2, mRNA|MEMO1|frame-3			9.391750827429712	100.0	0.0	0.0					Related Proteins	NM_015955_1	NM_001137602_1, NM_015955_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+834	Q92667				97.2809445496689	70.87	0.0	0.0					Single Protein		Q92667	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+835	NM_000141_2	Homo sapiens fibroblast growth factor receptor 2 (FGFR2), transcript variant 1, mRNA|FGFR2|frame-1			7.651719149789481	100.0	0.0	0.0					Related Proteins	NM_001144913_2, NM_001144914_2, NM_001144917_2, NM_022970_2	NM_000141_2, NM_001144913_2, NM_001144914_2, NM_001144917_2, NM_022970_2	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+836	NM_002718_4	Homo sapiens protein phosphatase 2 (formerly 2A), regulatory subunit B'', alpha (PPP2R3A), transcript variant 1, mRNA|PPP2R3A|frame-3			5.061182999237351	100.0	0.0	0.0					Related Proteins	NM_181897_1	NM_002718_4, NM_181897_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+837	Q9NQ84				48.16172238060321	54.2	0.0	0.0					Single Protein		Q9NQ84	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+838	P11532				426.4842785440319	90.37	0.0	0.0					Single Protein		P11532	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+839	NM_017570_2	Homo sapiens 5-oxoprolinase (ATP-hydrolysing) (OPLAH), mRNA|OPLAH|frame-3			13.29034452453104	100.0	0.0	0.0					Single Protein		NM_017570_2	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+840	NM_014014_1	Homo sapiens small nuclear ribonucleoprotein 200kDa (U5) (SNRNP200), mRNA|SNRNP200|frame-1			5.8868392516982	100.0	0.0	0.0					Single Protein		NM_014014_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+841	P47944				6.503426432734732	100.0	0.0	0.0					Single Protein		P47944	0	1	1	0	1	0	0	7	10.901162790697672	Doubtful
+842	P21333				280.56387321173065	80.7	10.12	509.6224960291707	Oxidation of M(M2207, M2589)	Oxidation of M(2)			Single Protein		P21333	20	23	23	20	23	20	28	32	16.959064327485386	Doubtful
+843	O15327				104.67146557414473	91.23	0.0	0.0					Single Protein		O15327	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+844	P29279				38.06484834699139	100.0	0.0	0.0					Single Protein		P29279	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+845	NM_018553_1	Homo sapiens chromosome 17 open reading frame 85 (C17orf85), transcript variant 2, mRNA|C17orf85|frame-3			30.728375763262445	86.13	0.0	0.0					Related Proteins	Q53F19	NM_018553_1, Q53F19	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+846	Q6UWH6				22.522788091398127	25.51	0.0	0.0					Single Protein		Q6UWH6	0	1	1	0	1	0	0	2	10.901162790697672	Doubtful
+847	Q5RL73				41.781954919243795	100.0	0.0	0.0					Single Protein		Q5RL73	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+848	NM_015175_1	Homo sapiens neurobeachin-like 2 (NBEAL2), mRNA|NBEAL2|frame-2			9.085905104233895	100.0	0.0	0.0					Single Protein		NM_015175_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+849	NM_001040710_3	Homo sapiens chromosome 2 open reading frame 84 (C2orf84), mRNA|C2orf84|frame-2			5.6520122783773425	100.0	0.0	0.0					Single Protein		NM_001040710_3	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+850	NM_133638_1	Homo sapiens ADAM metallopeptidase with thrombospondin type 1 motif, 19 (ADAMTS19), mRNA|ADAMTS19|frame-2			24.062169400283533	100.0	0.0	0.0					Single Protein		NM_133638_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+851	Q9H210				34.149364551611455	55.52	0.0	0.0					Single Protein		Q9H210	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+852	NM_198935_1	Homo sapiens synovial sarcoma translocation gene on chromosome 18-like 1 (SS18L1), mRNA|SS18L1|frame-3			16.40421045604913	100.0	0.0	0.0					Single Protein		NM_198935_1	0	1	1	0	1	0	0	1	16.959064327485386	Doubtful
+853	A8MYV0				40.399323227210566	100.0	0.0	0.0					Single Protein		A8MYV0	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+854	O14497				241.89222654183763	51.33	0.0	0.0					Single Protein		O14497	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
+855	NM_015989_1	Homo sapiens cysteine sulfinic acid decarboxylase (CSAD), mRNA|CSAD|frame-1			11.173185885562726	100.0	0.0	0.0					Single Protein		NM_015989_1	0	1	1	0	1	0	0	1	10.901162790697672	Doubtful
