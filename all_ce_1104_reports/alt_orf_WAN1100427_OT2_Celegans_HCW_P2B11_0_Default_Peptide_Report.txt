@@ -1,0 +1,2 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	Q09624	Q09624 (Doubtful)	1	1	CDGSLWWLQVGGNEMALLGYREK	NH2-C<cmm>DGSLWWLQVGGNEMALLGYREK-COOH	129	DR	CE		Carbamidomethylation of C (1)		1	4	100.0	Doubtful

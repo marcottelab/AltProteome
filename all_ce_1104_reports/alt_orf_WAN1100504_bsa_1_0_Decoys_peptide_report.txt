@@ -1,0 +1,10 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	P34460; Q9U2H9	1	1	KLQIITVIEDLK	NH2-KLQIITVIEDLK-COOH	IK; IK	VS; VS				2	2	9.202453987730063	0	Doubtful
+2	K07F5.14.1_2	1	1	WMTRFQLK	NH2-WM<ox>TRFQLK-COOH	SK		Oxidation of M (2)		Oxidation of M (2: Very Confident)	1	2	9.202453987730063	0	Doubtful
+3	P13528	1	1	QLETFAEHFK	NH2-QLETFAEHFK-COOH	PR	QR				2	12	9.202453987730063	0	Doubtful
+4	Q23312	1	1	IGVFASVYR	NH2-IGVFASVYR-COOH	HK	KL				2	2	9.202453987730063	0	Doubtful
+5	G5EFP6	1	1	YILCQFILVVIMK	NH2-YILC<cmm>QFILVVIMK-COOH	NK	IT		Carbamidomethylation of C (4)		0	15	9.202453987730063	0	Doubtful
+6	Q23312	1	1	SAIIIYVPVPQLK	NH2-SAIIIYVPVPQLK-COOH	NK	AF				1	1	9.202453987730063	0	Doubtful
+7	N1NTC6_REVERSED; Q21803_REVERSED	1	1	IARPNMGVEECK	NH2-IARPNM<ox>GVEEC<cmm>K-COOH	AR; AR	SF; SF	Oxidation of M (6)	Carbamidomethylation of C (11)	Oxidation of M (6: Very Confident)	0	54	9.202453987730063	1	Doubtful
+8	Q9BIG5	1	1	QLWMDEGVKK	NH2-QLWM<ox>DEGVKK-COOH	MK	CV	Oxidation of M (4)		Oxidation of M (4: Very Confident)	2	16	9.202453987730063	0	Doubtful
+9	P34460; Q9U2H9	1	1	LQIITVIEDLK	NH2-LQIITVIEDLK-COOH	KK; KK	VS; VS				1	1	9.202453987730063	0	Doubtful

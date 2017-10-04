@@ -1,0 +1,6 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	G5ECU5; O45246; P09446	1	1	TTPSYVAFTDTER	NH2-TTPSYVAFTDTER-COOH	NK; NK; NR	LV; LV; LI				1	1	100.0	0	Doubtful
+2	O01600	1	1	DCKSGTVCVYVNINK	NH2-DC<cmm>KSGTVC<cmm>VYVNINK-COOH	NK	HV		Carbamidomethylation of C (2, 8)		1	2	100.0	0	Doubtful
+3	F30F8.1_3	1	1	FSTCSDNPTVIVSK	NH2-FSTC<cmm>SDNPTVIVSK-COOH	VR	FF		Carbamidomethylation of C (4)		1	2	100.0	0	Doubtful
+4	Q23621	1	1	IIAEAANGPTTPAADR	NH2-IIAEAANGPTTPAADR-COOH	AK	IL				2	2	100.0	0	Doubtful
+5	Q23621	1	1	DIVHSGLEYTMQR	NH2-DIVHSGLEYTM<ox>QR-COOH	EK	SG	Oxidation of M (11)		Oxidation of M (11: Very Confident)	1	1	100.0	0	Doubtful

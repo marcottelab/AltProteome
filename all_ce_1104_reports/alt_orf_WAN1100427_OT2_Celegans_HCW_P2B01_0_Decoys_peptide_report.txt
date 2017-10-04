@@ -1,0 +1,7 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	G5ECU5; O45246; P09446	1	1	TTPSYVAFTDTER	NH2-TTPSYVAFTDTER-COOH	NK; NK; NR	LV; LV; LI				2	2	100.0	0	Doubtful
+2	Q9TZD6	1	1	SDAGSYNTSDKRSSR	NH2-SDAGSYNTSDKRSSR-COOH	FR	GG				1	4	87.5	0	Doubtful
+3	Q23621	1	1	SIHKENASR	NH2-SIHKENASR-COOH	EK	IQ				2	2	87.5	0	Doubtful
+4	P09446	1	1	IFTPEEISSMVLLK	NH2-IFTPEEISSM<ox>VLLK-COOH	NK	MK	Oxidation of M (10)		Oxidation of M (10: Very Confident)	2	2	100.0	0	Doubtful
+5	Q23621	1	1	DIVHSGLEYTMQR	NH2-DIVHSGLEYTM<ox>QR-COOH	EK	SG	Oxidation of M (11)		Oxidation of M (11: Very Confident)	2	2	100.0	0	Doubtful
+6	C23G10.7a.2_4; C23G10.7c.1_4	1	1	MSHSSSGPFQLLNDLDLMLK	ace-MSHSSSGPFQLLNDLDLMLK-COOH		LT; LT	Acetylation of protein N-term (1)			1	1	100.0	0	Doubtful

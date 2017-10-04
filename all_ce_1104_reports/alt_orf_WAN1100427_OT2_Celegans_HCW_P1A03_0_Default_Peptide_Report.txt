@@ -1,0 +1,8 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P52717	P52717 (Doubtful)	1	1	FAYGHGLIDEK	NH2-FAYGHGLIDEK-COOH	208	VR	IW				1	1	100.0	Doubtful
+2	Q9TZD6	Q9TZD6 (Doubtful)	1	1	SDAGSYNTSDKRSSR	NH2-SDAGSYNTSDKRSSR-COOH	182	FR	GG				1	3	100.0	Doubtful
+3	F53C3.12_1	F53C3.12_1 (Doubtful)	1	1	APLINCSMR	NH2-APLINC<cmm>SM<ox>R-COOH	49	TR	TA	Oxidation of M (8)	Carbamidomethylation of C (6)	Oxidation of M (8: Very Confident)	2	5	100.0	Doubtful
+4	Q09624	Q09624 (Doubtful)	1	1	CDGSLWWLQVGGNEMALLGYREK	NH2-C<cmm>DGSLWWLQVGGNEMALLGYREK-COOH	129	DR	CE		Carbamidomethylation of C (1)		1	1	100.0	Doubtful
+5	C04A11.4_2	C04A11.4_2 (Doubtful)	1	1	MIILEEFMWTTTMIRSK	NH2-M<ox>IILEEFMWTTTM<ox>IRSK-COOH	1		QL	Oxidation of M (13, 1)		Oxidation of M (1: Random, 13: Very Confident)	1	2	100.0	Doubtful
+6	C32E12.2_1	C32E12.2_1 (Doubtful)	1	1	YLQSTVVWLFIMQNCMIK	NH2-YLQSTVVWLFIMQNC<cmm>M<ox>IK-COOH	15	LK	YG	Oxidation of M (16)	Carbamidomethylation of C (15)	Oxidation of M (12: Random, 16: Random)	2	2	100.0	Doubtful
+7	T10A3.1a_5	T10A3.1a_5 (Doubtful)	1	1	RMMNTLTTTSLR	NH2-RMM<ox>NTLTTTSLR-COOH	4	TR	TT	Oxidation of M (3)		Oxidation of M (3: Random)	0	1	100.0	Doubtful

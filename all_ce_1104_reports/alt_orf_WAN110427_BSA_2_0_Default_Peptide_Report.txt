@@ -1,0 +1,8 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P13528	P13528 (Doubtful)	1	1	QLETFAEHFK	NH2-QLETFAEHFK-COOH	272	PR	QR				0	9	100.0	Doubtful
+2	D2096.3.1_5	D2096.3.1_5 (Doubtful)	1	1	YINEMENICSR	NH2-YINEM<ox>ENIC<cmm>SR-COOH	10	KR	KL	Oxidation of M (5)	Carbamidomethylation of C (9)	Oxidation of M (5: Very Confident)	0	31	80.0	Doubtful
+3	Q23363	Q23363 (Doubtful)	1	1	GMELNKLVR	NH2-GM<ox>ELNKLVR-COOH	488	LR	RQ	Oxidation of M (2)		Oxidation of M (2: Very Confident)	2	2	100.0	Doubtful
+4	Q7YTF8	Q7YTF8 (Doubtful)	1	1	LIKSFEALLEVWR	NH2-LIKSFEALLEVWR-COOH	458	EK	RT				2	3	100.0	Doubtful
+5	Q9BIG5	Q9BIG5 (Doubtful)	1	1	QLWMDEGVKK	NH2-QLWM<ox>DEGVKK-COOH	132	MK	CV	Oxidation of M (4)		Oxidation of M (4: Very Confident)	0	3	77.77777777777779	Doubtful
+6	O45545	O45545 (Doubtful)	1	1	MATAVVQRK	NH2-MATAVVQRK-COOH	1		GY				0	1	80.0	Doubtful
+7	B7FAS5; Q7K711; Q9U2D8	B7FAS5, Q7K711, Q9U2D8 (Doubtful); H1UBJ3, Q7K711, Q9U2D8 (Doubtful)	2	0	LQRYEEHFK	NH2-LQRYEEHFK-COOH	415; 711; 711	PK; PK; PK	RV; RV; RV				0	13	80.0	Doubtful

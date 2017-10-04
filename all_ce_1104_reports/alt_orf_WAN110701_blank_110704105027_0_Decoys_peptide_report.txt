@@ -1,0 +1,2 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	Q4W5T4	1	1	AASSISNR	NH2-AASSISNR-COOH	M	LI				0	4	30.000000000000004	0	Doubtful

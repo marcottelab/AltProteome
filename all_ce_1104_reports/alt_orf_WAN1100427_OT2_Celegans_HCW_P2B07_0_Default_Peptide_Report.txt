@@ -1,0 +1,5 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	Q23621	Q23621 (Doubtful)	1	1	DIVHSGLEYTMQR	NH2-DIVHSGLEYTM<ox>QR-COOH	482	EK	SG	Oxidation of M (11)		Oxidation of M (11: Very Confident)	1	1	100.0	Doubtful
+2	F53C3.12_1	F53C3.12_1 (Doubtful)	1	1	APLINCSMR	NH2-APLINC<cmm>SM<ox>R-COOH	49	TR	TA	Oxidation of M (8)	Carbamidomethylation of C (6)	Oxidation of M (8: Very Confident)	3	6	100.0	Doubtful
+3	Q23621	Q23621 (Doubtful)	1	1	IIAEAANGPTTPAADR	NH2-IIAEAANGPTTPAADR-COOH	380	AK	IL				2	2	100.0	Doubtful
+4	Q19087	Q19087 (Doubtful)	1	1	AAALKPSAPEIR	ace-AAALKPSAPEIR-COOH	2	M	KA	Acetylation of protein N-term (1)			1	1	100.0	Doubtful

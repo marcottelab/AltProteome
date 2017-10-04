@@ -1,0 +1,9 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	P09446	1	1	IFTPEEISSMVLLK	NH2-IFTPEEISSM<ox>VLLK-COOH	NK	MK	Oxidation of M (10)		Oxidation of M (10: Very Confident)	1	1	8.188153310104529	0	Doubtful
+2	Q23621	1	1	DIVHSGLEYTMQR	NH2-DIVHSGLEYTM<ox>QR-COOH	EK	SG	Oxidation of M (11)		Oxidation of M (11: Very Confident)	2	2	8.188153310104529	0	Doubtful
+3	P09446	1	1	MKETAEAFLGTTVK	NH2-M<ox>KETAEAFLGTTVK-COOH	LK	DA	Oxidation of M (1)		Oxidation of M (1: Very Confident)	1	1	8.188153310104529	0	Doubtful
+4	Q23621	1	1	MVGLDTGLAGK	NH2-M<ox>VGLDTGLAGK-COOH	MK	TA	Oxidation of M (1)		Oxidation of M (1: Very Confident)	1	1	8.188153310104529	0	Doubtful
+5	O45815; P0DM41; P0DM42; P10984; P10986; Q6A8K1	2	0	HQGVMVGMGQK	NH2-HQGVM<ox>VGM<ox>GQK-COOH	PR; PR; PR; PR; PR; PR	DS; DS; DS; DS; DS; DS	Oxidation of M (8, 5)		Oxidation of M (5: Very Confident, 8: Very Confident)	1	1	8.188153310104529	0	Doubtful
+6	O45815; P0DM41; P0DM42; P10984; P10986; Q6A8K1	2	0	AGFAGDDAPR	NH2-AGFAGDDAPR-COOH	CK; CK; CK; CK; CK; ER	AV; AV; AV; AV; AV; AV				1	1	8.188153310104529	0	Doubtful
+7	Q23621	1	1	IIAEAANGPTTPAADR	NH2-IIAEAANGPTTPAADR-COOH	AK	IL				2	2	8.188153310104529	0	Doubtful
+8	O45815	2	0	SYELPDGQVITIGNER	NH2-SYELPDGQVITIGNER-COOH	EK	FR				1	1	8.188153310104529	0	Doubtful

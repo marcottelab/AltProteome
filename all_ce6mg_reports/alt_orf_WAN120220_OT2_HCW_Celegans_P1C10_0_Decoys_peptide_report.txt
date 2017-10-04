@@ -1,0 +1,11 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	P36573	1	1	SAEEPKSYPVPYR	ace-SAEEPKSYPVPYR-COOH	M	SV	Acetylation of protein N-term (1)			2	2	0.0	0	Doubtful
+2	O61790	1	1	TAATATANGNHSIED	NH2-TAATATANGNHSIED-COOH	M	PV				2	2	0.0	0	Doubtful
+3	O45815; P0DM41; P0DM42; P10984; P10986; Q6A8K1	1	1	AGFAGDDAPR	NH2-AGFAGDDAPR-COOH	CK; CK; CK; CK; CK; ER	AV; AV; AV; AV; AV; AV				1	2	0.0	0	Doubtful
+4	P29691	1	1	AYLPVNESFGFTADLR	NH2-AYLPVNESFGFTADLR-COOH	VK	SN				1	1	0.0	0	Doubtful
+5	P49197	1	1	LAQKDGLVPRDDVKSN	NH2-LAQKDGLVPRDDVKSN-COOH	LR					2	4	0.0	0	Doubtful
+6	P29691	1	1	VPALDNYLDKM	NH2-VPALDNYLDKM<ox>-COOH	EG		Oxidation of M (11)		Oxidation of M (11: Very Confident)	2	2	0.0	0	Doubtful
+7	P49197	1	1	MQNDAGQTVELYVPRK	ace-M<ox>QNDAGQTVELYVPRK-COOH		CS	Acetylation of protein N-term (1), Oxidation of M (1)		Acetylation of protein N-term (1: Very Confident), Oxidation of M (1: Very Confident)	1	1	0.0	0	Doubtful
+8	P49197	1	1	LAQKDGLVPR	NH2-LAQKDGLVPR-COOH	LR	DD				2	2	0.0	0	Doubtful
+9	G8JY74; P53013	1	1	SVEKSDGSSGKVTK	NH2-SVEKSDGSSGKVTK-COOH	IK; IK	SA; SA				2	3	0.0	0	Doubtful
+10	G5EBP4; G5EEG8; G5EEP9	1	1	FRHEGDEDVVEKPD	NH2-FRHEGDEDVVEKPD-COOH	AR, AR, AR, AR, AR, AR, AR, AR, AR, AR; AR, AR, AR, AR, AR, AR, AR, AR, AR, AR; AR, AR, AR, AR, AR, AR, AR, AR, AR, AR	PY, PY, PY, PY, PY, PY, PY, PY, PY, PY; PY, PY, PY, PY, PY, PY, PY, PY, PY, PY; PY, PY, PY, PY, PY, PY, PY, PY, PY, PY				1	4	0.0	0	Doubtful

@@ -1,0 +1,307 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	R06B9.4_3	ref_frame-1|R06B9.4alt_frame-3			6.056945933567782	100.0	0.0	0.0					Single Protein		R06B9.4_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+2	G4SFC1	OToPetrin-Like (G4SFC1_CAEEL)	otpl-5	V	64.93149574125476	70.1	0.0	0.0					Single Protein		G4SFC1	0	1	1	0	1	0	0	1	0.0	Doubtful
+3	Q9TXQ1	Tankyrase-like protein (TNKS1_CAEEL)	tank-1	V	254.4155518782628	91.61	0.0	0.0					Single Protein		Q9TXQ1	0	1	1	0	1	0	0	1	0.0	Doubtful
+4	Q9XVA2	Uncharacterized protein (Q9XVA2_CAEEL)	CELE_F08G2.7		50.50208980596494	71.17	0.0	0.0					Single Protein		Q9XVA2	0	1	1	0	1	0	0	1	0.0	Doubtful
+5	O45063	Uncharacterized protein (O45063_CAEEL)	B0212.3	IV	78.48653365956818	85.12	0.0	0.0					Single Protein		O45063	0	1	1	0	1	0	0	2	0.0	Doubtful
+6	T23G5.2a.3_2	ref_frame-3|T23G5.2alt_frame-1			5.133624914678991	100.0	0.0	0.0					Single Protein		T23G5.2a.3_2	0	1	1	0	1	0	0	2	0.0	Doubtful
+7	K08E4.2b_2	ref_frame-3|K08E4.2alt_frame-1			9.261592239484454	100.0	0.0	0.0					Single Protein		K08E4.2b_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+8	C10G8.7_1	ref_frame-1|C10G8.7alt_frame-2			8.535623592601556	100.0	0.0	0.0					Single Protein		C10G8.7_1	0	1	1	0	1	0	0	2	0.0	Doubtful
+9	R04F11.4a_1	ref_frame-1|R04F11.4alt_frame-2			7.433130889795252	100.0	0.0	0.0					Single Protein		R04F11.4a_1	0	1	1	0	1	0	0	2	0.0	Doubtful
+10	4R79.2b_1	ref_frame-1|4R79.2alt_frame-2			7.344310333918564	100.0	0.0	0.0					Single Protein		4R79.2b_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+11	U4PF58	Dolichol Phosphate Mannosyltransferase (U4PF58_CAEEL)	dpm-1	IV	5.95503946339452	100.0	0.0	0.0					Related Proteins	Q9TYJ7	Q9TYJ7, U4PF58	0	1	1	0	1	0	0	1	0.0	Doubtful
+12	Q21303	MecKel-Gruber Syndrome (MKS) homolog (Q21303_CAEEL)	mks-6	I	138.38395588846106	93.84	0.0	0.0					Single Protein		Q21303	0	1	1	0	1	0	0	1	0.0	Doubtful
+13	T21E3.3_7	ref_frame-1|T21E3.3alt_frame-2			11.386997690943263	100.0	0.0	0.0					Single Protein		T21E3.3_7	0	1	1	0	1	0	0	1	0.0	Doubtful
+14	Q93932	SKN-1 Dependent Zygotic transcript (Q93932_CAEEL)	sdz-27	IV	24.29933225450728	80.58	0.0	0.0					Single Protein		Q93932	0	1	1	0	1	0	0	2	0.0	Doubtful
+15	K01A11.2_3	ref_frame-3|K01A11.2alt_frame-2			4.75757225726259	100.0	0.0	0.0					Single Protein		K01A11.2_3	0	1	1	0	1	0	0	2	0.0	Doubtful
+16	Y119D3B.11.2_2	ref_frame-3|Y119D3B.11alt_frame-1			6.460527502928494	100.0	0.0	0.0					Single Protein		Y119D3B.11.2_2	0	1	1	0	1	0	0	2	0.0	Doubtful
+17	H2KY62	Uncharacterized protein (H2KY62_CAEEL)	B0205.1	I	87.78802516531255	95.11	0.0	0.0					Related Proteins	Q2MGE6	H2KY62, Q2MGE6	0	1	1	0	1	0	0	1	0.0	Doubtful
+18	Q22882	Uncharacterized protein (Q22882_CAEEL)	B0507.8	V	45.763218046118446	100.0	0.0	0.0					Single Protein		Q22882	0	1	1	0	1	0	0	1	0.0	Doubtful
+19	P90841	Uncharacterized protein (P90841_CAEEL)	smgl-1	I	183.16926980500182	83.53	0.0	0.0					Single Protein		P90841	0	1	1	0	1	0	0	1	0.0	Doubtful
+20	F09G8.8_3	ref_frame-1|F09G8.8alt_frame-2			5.605946291285672	100.0	0.0	0.0					Single Protein		F09G8.8_3	0	1	1	0	1	0	0	2	0.0	Doubtful
+21	Q18034	Transcriptional repressor NF-X1 homolog (NFX1_CAEEL)	nfx-1	III	125.06511712505643	89.63	0.0	0.0					Single Protein		Q18034	0	1	1	0	1	0	0	2	0.0	Doubtful
+22	H9G2Z7	Uncharacterized protein (H9G2Z7_CAEEL)	C30H6.12	IV	18.070570496957234	80.0	0.0	0.0					Related Proteins	H9G2Z6	H9G2Z6, H9G2Z7	0	1	1	0	1	0	0	1	0.0	Doubtful
+23	F10E7.4_3	ref_frame-1|F10E7.4alt_frame-2			12.182517309332166	100.0	0.0	0.0					Single Protein		F10E7.4_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+24	O02355	Uncharacterized protein (O02355_CAEEL)	CELE_F35E12.2		48.88256329593494	52.8	0.0	0.0					Single Protein		O02355	0	1	1	0	1	0	0	1	0.0	Doubtful
+25	Q09624	Location of vulva defective 1 (PKD1_CAEEL)	lov-1	II	355.2700456493554	53.87	0.0	0.0					Single Protein		Q09624	0	1	1	0	1	0	0	1	0.0	Doubtful
+26	A0A078BQN0	Uncharacterized protein (A0A078BQN0_CAEEL)	B0207.5	I	423.5193618502064	98.66	0.0	0.0					Related Proteins	A0A078BTN1	A0A078BQN0, A0A078BTN1	0	1	1	0	1	0	0	1	0.0	Doubtful
+27	C41D11.1d_2	ref_frame-3|C41D11.1alt_frame-2			7.1586959608594345	100.0	0.0	0.0					Single Protein		C41D11.1d_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+28	Q9TYQ2	Uncharacterized protein (Q9TYQ2_CAEEL)	CELE_Y24D9B.1		62.17070762026637	78.18	0.0	0.0					Related Proteins	Q9U261	Q9TYQ2, Q9U261	0	1	1	0	1	0	0	1	0.0	Doubtful
+29	H2KZA9	Uncharacterized protein (H2KZA9_CAEEL)	CELE_R148.4		31.713909369912795	72.22	0.0	0.0					Single Protein		H2KZA9	0	1	1	0	1	0	0	1	0.0	Doubtful
+30	Q23621	Glutamate dehydrogenase (Q23621_CAEEL)	gdh-1	IV	58.757815682273275	100.0	0.0	0.0					Single Protein		Q23621	0	1	1	0	1	0	0	1	0.0	Doubtful
+31	Q23500	Probable cytoplasmic aconitate hydratase (ACOC_CAEEL)	aco-1	X	96.5996825567582	75.54	1.92	4119.329481665998					Single Protein		Q23500	1	1	1	1	1	1	6	6	100.0	Doubtful
+32	Q9TXT9	Beta-Carotene 15,15'-MonoOxygenase (Q9TXT9_CAEEL)	bcmo-2	II	60.55893498854451	93.02	0.0	0.0					Single Protein		Q9TXT9	0	1	1	0	1	0	0	1	0.0	Doubtful
+33	Q22898	Uncharacterized protein (Q22898_CAEEL)	C16D9.4	V	44.131150503512444	91.67	0.0	0.0					Single Protein		Q22898	0	1	1	0	1	0	0	1	0.0	Doubtful
+34	O17602	Uncharacterized protein (O17602_CAEEL)	C25D7.10	V	26.22996886944725	44.78	0.0	0.0					Single Protein		O17602	0	1	1	0	1	0	0	1	0.0	Doubtful
+35	G5EF10	Uncharacterized protein (G5EF10_CAEEL)	CELE_VH15N14R.1		22.83607291988675	100.0	0.0	0.0					Single Protein		G5EF10	0	1	1	0	1	0	0	1	0.0	Doubtful
+36	Q966J7	Uncharacterized protein (Q966J7_CAEEL)	CELE_F35B3.7		65.5933402052026	88.93	0.0	0.0					Single Protein		Q966J7	0	1	1	0	1	0	0	1	0.0	Doubtful
+37	P49181	60S ribosomal protein L36 (RL36_CAEEL)	rpl-36	III	11.87681534852339	100.0	0.0	0.0					Single Protein		P49181	0	1	1	0	1	0	0	1	0.0	Doubtful
+38	Q21210	Uncharacterized protein (Q21210_CAEEL)	CELE_K04C2.2		109.78651582304705	89.29	0.0	0.0					Single Protein		Q21210	0	1	1	0	1	0	0	1	0.0	Doubtful
+39	C04A11.4_2	ref_frame-1|C04A11.4alt_frame-2			5.922972406171159	100.0	34.0	0.0	Oxidation of M(M1, M13)	Oxidation of M(2)			Single Protein		C04A11.4_2	1	1	1	1	1	1	0	15	100.0	Doubtful
+40	O61970	Serpentine Receptor, class W (O61970_CAEEL)	srw-142	V	41.7942956976484	81.72	0.0	0.0					Single Protein		O61970	0	1	1	0	1	0	0	1	0.0	Doubtful
+41	C30H6.2_2	ref_frame-2|C30H6.2alt_frame-3			7.413897746652863	100.0	0.0	0.0					Single Protein		C30H6.2_2	0	1	1	0	1	0	0	1	84.61538461538461	Doubtful
+42	C09H6.2b_1	ref_frame-2|C09H6.2alt_frame-1			4.71430069489588	100.0	0.0	0.0					Single Protein		C09H6.2b_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+43	G5ED84	Kelch-like protein 8 (KLHL8_CAEEL)	kel-8	V	76.71347173816727	80.43	0.0	0.0					Related Proteins	A0A0K3ASX2, A0A0K3AY66	A0A0K3ASX2, A0A0K3AY66, G5ED84	0	1	1	0	1	0	0	1	0.0	Doubtful
+44	M03C11.1_1	ref_frame-1|M03C11.1alt_frame-2			6.954699287307794	100.0	0.0	0.0					Single Protein		M03C11.1_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+45	R05F9.11_1	ref_frame-1|R05F9.11alt_frame-2			4.991813899555371	100.0	0.0	0.0					Single Protein		R05F9.11_1	0	1	1	0	1	0	0	1	80.0	Doubtful
+46	Q9N365	Uncharacterized protein (Q9N365_CAEEL)	CELE_Y55F3AM.11		37.019558588395746	87.31	0.0	0.0					Single Protein		Q9N365	0	1	1	0	1	0	0	1	0.0	Doubtful
+47	Q20255	Tetratricopeptide repeat protein 21 homolog (TTC21_CAEEL)	ZK328.7	III	151.07225103147755	83.76	0.0	0.0					Single Protein		Q20255	0	1	1	0	1	0	0	2	0.0	Doubtful
+48	E1B6T7	TRYpsin-like protease (E1B6T7_CAEEL)	try-10	V	39.09460128844404	78.87	0.0	0.0					Single Protein		E1B6T7	0	1	1	0	1	0	0	1	0.0	Doubtful
+49	R13H8.1b.1_5	ref_frame-1|R13H8.1alt_frame-3			7.057668532214705	100.0	0.0	0.0					Related Proteins	R13H8.1f_4	R13H8.1b.1_5, R13H8.1f_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+50	A7LPI6	Uncharacterized protein (A7LPI6_CAEEL)	CELE_ZK1037.13		32.62535751848074	88.32	0.0	0.0					Single Protein		A7LPI6	0	1	1	0	1	0	0	1	0.0	Doubtful
+51	Q21465	2 (Zwei) IG domain protein (Q21465_CAEEL)	zig-12		22.10613302388279	83.25	9.64	5609.656001455729					Single Protein		Q21465	1	1	1	1	1	1	2	2	100.0	Doubtful
+52	A0A1C3NSK8	Insulin receptor SubsTrate homolog (A0A1C3NSK8_CAEEL)	ist-1	X	123.7057699742654	93.69	0.0	0.0					Related Proteins	Q18820	A0A1C3NSK8, Q18820	0	1	1	0	1	0	0	1	0.0	Doubtful
+53	Q09956	DNA N6-methyl methyltransferase (DAMT1_CAEEL)	damt-1		42.18868921558642	91.51	0.0	0.0					Single Protein		Q09956	0	1	1	0	1	0	0	2	0.0	Doubtful
+54	A0A131MCW9	Uncharacterized protein (A0A131MCW9_CAEEL)	CELE_F28F8.7		25.63175213608964	100.0	0.0	0.0					Related Proteins	O18691	A0A131MCW9, O18691	0	1	1	0	1	0	0	1	0.0	Doubtful
+55	O16706	Uncharacterized protein (O16706_CAEEL)	CELE_F22E5.8		32.03656928333054	83.7	0.0	0.0					Single Protein		O16706	0	1	1	0	1	0	0	2	0.0	Doubtful
+56	F21G4.2_4	ref_frame-1|F21G4.2alt_frame-2			10.649504830299128	100.0	0.0	0.0					Single Protein		F21G4.2_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+57	T08B2.5a_4	ref_frame-3|T08B2.5alt_frame-1			6.313417893065221	100.0	0.0	0.0					Related Proteins	T08B2.5b_1	T08B2.5a_4, T08B2.5b_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+58	O02317	Uncharacterized protein (O02317_CAEEL)	CELE_T15D6.10		59.71264438192067	100.0	0.0	0.0					Single Protein		O02317	0	1	1	0	1	0	0	1	0.0	Doubtful
+59	M04C9.1b_1	ref_frame-2|M04C9.1alt_frame-3			6.117424281691662	100.0	0.0	0.0					Single Protein		M04C9.1b_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+60	K09H11.4_3	ref_frame-1|K09H11.4alt_frame-2			19.410585196473043	100.0	0.0	0.0					Single Protein		K09H11.4_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+61	F57F5.3_1	ref_frame-1|F57F5.3alt_frame-3			4.9402542474077	100.0	0.0	0.0					Single Protein		F57F5.3_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+62	Q20160	Uncharacterized protein (Q20160_CAEEL)	CELE_F38E1.3		35.529910313548214	100.0	0.0	0.0					Single Protein		Q20160	0	1	1	0	1	0	0	1	0.0	Doubtful
+63	F27D4.4a.1_2	ref_frame-1|F27D4.4alt_frame-2			6.731359194082402	100.0	0.0	0.0					Single Protein		F27D4.4a.1_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+64	Q9XTU5	Uncharacterized protein (Q9XTU5_CAEEL)	CELE_Y49E10.16		36.85783327916266	100.0	0.0	0.0					Single Protein		Q9XTU5	0	1	1	0	1	0	0	2	0.0	Doubtful
+65	Q09252	Nuclear speckle splicing regulatory protein 1 homolog (NSRP1_CAEEL)	ccdc-55	III	45.07326226569284	100.0	0.0	0.0					Single Protein		Q09252	0	1	1	0	1	0	0	1	0.0	Doubtful
+66	B0302.2_1	ref_frame-2|B0302.2alt_frame-3			5.364068276314732	100.0	0.0	0.0					Single Protein		B0302.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+67	B7WN66	Uncharacterized protein (B7WN66_CAEEL)	unc-68	V	598.9838778775355	85.02	0.0	0.0					Related Proteins	I2HAA6, I2HAA7, Q94279	B7WN66, I2HAA6, I2HAA7, Q94279	0	1	1	0	1	0	0	2	0.0	Doubtful
+68	Q20842	Uncharacterized protein (Q20842_CAEEL)	CELE_F55F1.2		16.03375953564882	100.0	0.0	0.0					Single Protein		Q20842	0	1	1	0	1	0	0	5	0.0	Doubtful
+69	P52716	Uncharacterized serine carboxypeptidase F32A5.3 (YPP3_CAEEL)	F32A5.3	II	64.0469912266449	61.67	0.0	0.0					Single Protein		P52716	0	1	1	0	1	0	0	1	0.0	Doubtful
+70	Q9UAY5	Uncharacterized protein (Q9UAY5_CAEEL)	CELE_W03G1.2		40.259496099321986	100.0	0.0	0.0					Single Protein		Q9UAY5	0	1	1	0	1	0	0	1	0.0	Doubtful
+71	W04B5.5_1	ref_frame-3|W04B5.5alt_frame-2			5.12371579317845	100.0	0.0	0.0					Single Protein		W04B5.5_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+72	C32E12.2_1	ref_frame-1|C32E12.2alt_frame-2			7.141606424304503	100.0	0.0	0.0					Single Protein		C32E12.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+73	Q9N564	Uncharacterized protein (Q9N564_CAEEL)	CELE_Y23B4A.1		15.186800003405441	100.0	0.0	0.0					Single Protein		Q9N564	0	1	1	0	1	0	0	1	0.0	Doubtful
+74	Q9N4U5	Suppressor of Mec and Unc defects (Q9N4U5_CAEEL)	smu-2	II	62.15931319687725	93.97	0.0	0.0					Single Protein		Q9N4U5	0	1	1	0	1	0	0	1	0.0	Doubtful
+75	Q9N324	NeuroPeptide Receptor family (Q9N324_CAEEL)	npr-22	IV	49.07162645390051	68.85	0.0	0.0					Single Protein		Q9N324	0	1	1	0	1	0	0	1	0.0	Doubtful
+76	G5EEV2	Transcription-associated protein 1 (TRR1_CAEEL)	trr-1	II	466.5632248711068	85.21	0.0	0.0					Single Protein		G5EEV2	0	1	1	0	1	0	0	1	0.0	Doubtful
+77	H2L0F2	Uncharacterized protein (H2L0F2_CAEEL)	CELE_K07E8.6		39.01503859740064	83.78	0.0	0.0					Single Protein		H2L0F2	0	1	1	0	1	0	0	1	0.0	Doubtful
+78	C27C12.1_1	ref_frame-1|C27C12.1alt_frame-2			12.694910488807533	100.0	0.0	0.0					Single Protein		C27C12.1_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+79	Y47D3A.29b_3	ref_frame-1|Y47D3A.29alt_frame-2			6.156468046034851	100.0	0.0	0.0					Single Protein		Y47D3A.29b_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+80	Q20507	Acyl-CoA-binding protein homolog 3 (ACBP3_CAEEL)	acbp-3	X	13.165882518171323	100.0	15.52	11896.339451363012					Single Protein		Q20507	2	2	2	2	2	2	4	4	100.0	Doubtful
+81	Q09592	Uncharacterized protein (Q09592_CAEEL)	CELE_M106.2		53.42634945216404	69.15	0.0	0.0					Single Protein		Q09592	0	1	1	0	1	0	0	1	0.0	Doubtful
+82	Y63D3A.5.2_1	ref_frame-3|Y63D3A.5alt_frame-1			29.480270885043716	100.0	0.0	0.0					Single Protein		Y63D3A.5.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+83	T12B5.4_1	ref_frame-1|T12B5.4alt_frame-2			8.663559027118117	100.0	0.0	0.0					Single Protein		T12B5.4_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+84	C50C3.9c.2_6	ref_frame-2|C50C3.9alt_frame-3			5.216958289456621	100.0	0.0	0.0					Single Protein		C50C3.9c.2_6	0	1	1	0	1	0	0	1	0.0	Doubtful
+85	Q95QU0	PCI domain-containing protein 2 homolog (PCID2_CAEEL)	C27F2.10	III	47.126903061459636	89.59	0.0	0.0					Single Protein		Q95QU0	0	1	1	0	1	0	0	1	0.0	Doubtful
+86	P91821	SET (Trithorax/polycomb) domain containing (P91821_CAEEL)	set-18	I	56.766305379147916	92.61	0.0	0.0					Related Proteins	Q8I4F7	P91821, Q8I4F7	0	1	1	0	1	0	0	2	0.0	Doubtful
+87	ZK1290.2a_1	ref_frame-3|ZK1290.2alt_frame-1			5.65627799429745	100.0	0.0	0.0					Single Protein		ZK1290.2a_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+88	O01775	Serine/threonine-protein kinase nekl-2 (NEKL2_CAEEL)	nekl-2	I	40.4788781086917	79.27	0.0	0.0					Single Protein		O01775	0	1	1	0	1	0	0	1	0.0	Doubtful
+89	F26E4.10a_3	ref_frame-1|F26E4.10alt_frame-2			8.768697292219128	100.0	0.0	0.0					Single Protein		F26E4.10a_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+90	G8JY74	Eukaryotic translation Elongation Factor (G8JY74_CAEEL)	eef-1a.2		47.115482290192816	92.31	6.53	1742.3931519673097					Related Proteins	P53013	G8JY74, P53013	2	2	2	2	2	2	2	2	100.0	Doubtful
+91	F57G4.8_1	ref_frame-1|F57G4.8alt_frame-2			5.770256596871991	100.0	0.0	0.0					Single Protein		F57G4.8_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+92	Y75B8A.9a_1	ref_frame-3|Y75B8A.9alt_frame-1			6.971614897741203	100.0	0.0	0.0					Single Protein		Y75B8A.9a_1	0	1	1	0	1	0	0	2	0.0	Doubtful
+93	P27604	Adenosylhomocysteinase (SAHH_CAEEL)	ahcy-1	I	47.505414734208365	80.32	6.41	3931.553778798033					Single Protein		P27604	3	3	3	3	3	3	4	6	100.0	Doubtful
+94	T22B7.4_2	ref_frame-2|T22B7.4alt_frame-3			12.807588622203458	100.0	0.0	0.0					Single Protein		T22B7.4_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+95	P34257	Transposable element Tc3 transposase (TC3A_CAEEL)	tc3a		38.22921659213078	100.0	0.0	0.0					Single Protein		P34257	0	1	1	0	1	0	0	1	0.0	Doubtful
+96	B0350.2f.2_5	ref_frame-2|B0350.2alt_frame-3			8.026318451986347	100.0	0.0	0.0					Single Protein		B0350.2f.2_5	0	1	1	0	1	0	0	1	0.0	Doubtful
+97	O61804	F-box B protein (O61804_CAEEL)	fbxb-58	X	26.864326025529973	72.53	0.0	0.0					Single Protein		O61804	0	1	1	0	1	0	0	1	0.0	Doubtful
+98	B9ZSG9	Zinc finger putative Transcription Factor family (B9ZSG9_CAEEL)	ztf-18	III	100.90249101883295	79.5	0.0	0.0					Single Protein		B9ZSG9	0	1	1	0	1	0	0	1	0.0	Doubtful
+99	Q94045	Putative RNA polymerase II transcriptional coactivator (TCP4_CAEEL)	T13F2.2	IV	14.437405117997544	100.0	0.0	0.0					Single Protein		Q94045	0	1	1	0	1	0	0	1	0.0	Doubtful
+100	Q94168	Serpentine receptor class gamma (Q94168_CAEEL)	srg-26	V	38.241140910813726	78.04	0.0	0.0					Single Protein		Q94168	0	1	1	0	1	0	0	1	0.0	Doubtful
+101	R166.4.1_2	ref_frame-3|R166.4alt_frame-1			11.542537493760172	100.0	0.0	0.0					Single Protein		R166.4.1_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+102	W01A11.5_1	ref_frame-1|W01A11.5alt_frame-2			10.28247020825434	100.0	0.0	0.0					Single Protein		W01A11.5_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+103	T26E3.5_1	ref_frame-1|T26E3.5alt_frame-2			8.947613656331498	100.0	0.0	0.0					Single Protein		T26E3.5_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+104	O76385	Uncharacterized protein (O76385_CAEEL)	C24G6.2	V	101.55179905515764	83.28	0.0	0.0					Related Proteins	Q9TZS7	O76385, Q9TZS7	0	1	1	0	1	0	0	1	0.0	Doubtful
+105	Y77E11A.7a_3	ref_frame-2|Y77E11A.7alt_frame-3			7.035611091953321	100.0	0.0	0.0					Single Protein		Y77E11A.7a_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+106	Q9XU24	MAM (Meprin, A5-protein, PTPmu) domain protein (Q9XU24_CAEEL)	mam-6	X	42.31384699838508	84.62	0.0	0.0					Single Protein		Q9XU24	0	1	1	0	1	0	0	1	0.0	Doubtful
+107	G5EGT6	CYtochrome P450 family (G5EGT6_CAEEL)	cyp-31a2		56.78153051585927	78.38	0.0	0.0					Related Proteins	Q9N574	G5EGT6, Q9N574	0	1	1	0	1	0	0	1	0.0	Doubtful
+108	A0A061ACS9	TBC (Tre-2/Bub2/Cdc16) domain family (A0A061ACS9_CAEEL)	tbc-9	IV	141.83416376944135	94.69	0.0	0.0					Related Proteins	G5EBE2, G5EBY2, G5EE94, K8ESB8, K8ESI6, K8F7X2	A0A061ACS9, G5EBE2, G5EBY2, G5EE94, K8ESB8, K8ESI6, K8F7X2	0	1	1	0	1	0	0	2	0.0	Doubtful
+109	Y80D3A.2a.1_5	ref_frame-3|Y80D3A.2alt_frame-1			5.707909226557371	100.0	34.04	0.0					Single Protein		Y80D3A.2a.1_5	1	1	1	1	1	1	0	1	91.66666666666666	Doubtful
+110	T03F6.5_4	ref_frame-3|T03F6.5alt_frame-1			7.320842639982853	100.0	0.0	0.0					Single Protein		T03F6.5_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+111	Q19660	Uncharacterized protein (Q19660_CAEEL)	CELE_F21C10.10		24.535913504259927	100.0	0.0	0.0					Single Protein		Q19660	0	1	1	0	1	0	0	1	0.0	Doubtful
+112	F29F11.5a_1	ref_frame-2|F29F11.5alt_frame-3			7.222666158175273	100.0	0.0	0.0					Single Protein		F29F11.5a_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+113	G5EG53	UNC-34 (G5EG53_CAEEL)	unc-34	V	49.84871432074962	54.49	0.0	0.0					Related Proteins	A0A0K3ASI4, A0A0K3AT36, A0A0K3AVD7, A0A0K3AYC9	A0A0K3ASI4, A0A0K3AT36, A0A0K3AVD7, A0A0K3AYC9, G5EG53	0	1	1	0	1	0	0	1	0.0	Doubtful
+114	G5ECW0	Na/Ca eXchangers (G5ECW0_CAEEL)	ncx-3	IV	92.01694102491211	66.51	0.0	0.0					Single Protein		G5ECW0	0	1	1	0	1	0	0	1	0.0	Doubtful
+115	R06F6.1.2_3	ref_frame-2|R06F6.1alt_frame-3			7.432020930378364	100.0	0.0	0.0					Single Protein		R06F6.1.2_3	0	1	1	0	1	0	0	2	0.0	Doubtful
+116	C06E1.11_1	ref_frame-1|C06E1.11alt_frame-2			8.503884439172198	100.0	0.0	0.0					Single Protein		C06E1.11_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+117	C33G8.2_1	ref_frame-1|C33G8.2alt_frame-2			27.711224836854402	100.0	0.0	0.0					Single Protein		C33G8.2_1	0	2	2	0	2	0	0	2	0.0	Doubtful
+118	O01605	Uncharacterized protein (O01605_CAEEL)	CELE_T10E9.2		83.93595943071512	89.44	0.0	0.0					Single Protein		O01605	0	1	1	0	1	0	0	1	0.0	Doubtful
+119	A0A1X7RBQ6	Uncharacterized protein (A0A1X7RBQ6_CAEEL)	CELE_D2089.8		15.540536601148743	41.61	0.0	0.0					Single Protein		A0A1X7RBQ6	0	1	1	0	1	0	0	1	0.0	Doubtful
+120	Q9U8C8	Serpentine Receptor, class W (Q9U8C8_CAEEL)	srw-79	II	39.59648767372987	80.52	0.0	0.0					Single Protein		Q9U8C8	0	1	1	0	1	0	0	1	0.0	Doubtful
+121	H20J04.2_3	ref_frame-1|H20J04.2alt_frame-2			10.510928065626983	100.0	0.0	0.0					Single Protein		H20J04.2_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+122	O17199	F-box A protein (O17199_CAEEL)	fbxa-165	II	50.83027885008932	100.0	0.0	0.0					Single Protein		O17199	0	1	1	0	1	0	0	1	0.0	Doubtful
+123	F45E4.11_2	ref_frame-1|F45E4.11alt_frame-3			5.055229949429769	100.0	0.0	0.0					Single Protein		F45E4.11_2	0	1	1	0	1	0	0	2	0.0	Doubtful
+124	W10G11.6_3	ref_frame-1|W10G11.6alt_frame-3			5.242404057042559	100.0	0.0	0.0					Single Protein		W10G11.6_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+125	Q09567	Uncharacterized protein (Q09567_CAEEL)	CELE_F48E8.3		51.749990540708744	93.51	3.45	997.8129980897392					Single Protein		Q09567	1	1	1	1	1	1	1	1	100.0	Doubtful
+126	O76387	Probable peptidyl-tRNA hydrolase 2 (PTH2_CAEEL)	C24G6.8	V	33.66845184327334	59.18	0.0	0.0					Single Protein		O76387	0	1	1	0	1	0	0	1	0.0	Doubtful
+127	J7RNI7	Uncharacterized protein (J7RNI7_CAEEL)	CELE_D1054.3		6.589987794003272	100.0	0.0	0.0					Related Proteins	Q18949	J7RNI7, Q18949	0	1	1	0	1	0	0	2	0.0	Doubtful
+128	Q07292	Raf homolog serine/threonine-protein kinase (KRAF1_CAEEL)	lin-45	IV	90.34970654418882	83.39	0.0	0.0					Related Proteins	V6CJK3, V6CKR7, V6CM34, V6CM38	Q07292, V6CJK3, V6CKR7, V6CM34, V6CM38	0	1	1	0	1	0	0	1	0.0	Doubtful
+129	G5EDX2	Enhanced RNAI (RNA interference) (G5EDX2_CAEEL)	eri-6	I	40.35814118038311	100.0	0.0	0.0					Single Protein		G5EDX2	0	1	1	0	1	0	0	1	0.0	Doubtful
+130	Y51F10.4a_3	ref_frame-2|Y51F10.4alt_frame-3			6.292028952154451	100.0	0.0	0.0					Single Protein		Y51F10.4a_3	0	1	1	0	1	0	0	2	0.0	Doubtful
+131	Q9N5T2	Uncharacterized protein (Q9N5T2_CAEEL)	CELE_F45D11.14		59.28979137568696	100.0	3.15	2716.4869613348606	Oxidation of M(M8)	Oxidation of M(1)			Single Protein		Q9N5T2	1	1	1	1	1	1	3	4	100.0	Doubtful
+132	Q21875	Elongin-B/C E3 ligase in AXon guidance (Q21875_CAEEL)	ebax-1	IV	195.17204846471313	80.96	0.0	0.0					Single Protein		Q21875	0	1	1	0	1	0	0	1	0.0	Doubtful
+133	T15H9.7a_2	ref_frame-1|T15H9.7alt_frame-2			8.988733848117162	100.0	0.0	0.0					Single Protein		T15H9.7a_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+134	Y48G1A.3_2	ref_frame-2|Y48G1A.3alt_frame-3			10.415398616656386	100.0	0.0	0.0					Single Protein		Y48G1A.3_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+135	O01628	Uncharacterized protein (O01628_CAEEL)	CELE_ZC196.4		59.046354576399324	100.0	0.0	0.0					Single Protein		O01628	0	1	1	0	1	0	0	1	0.0	Doubtful
+136	O18062	Uncharacterized protein (O18062_CAEEL)	CELE_T07G12.3		72.86042162630658	85.87	0.0	0.0					Single Protein		O18062	0	1	1	0	1	0	0	1	0.0	Doubtful
+137	P34696	Heat shock protein Hsp-16.1/Hsp-16.11 (HSP11_CAEEL)	hsp-16.1	V	16.243178376550205	100.0	0.0	0.0					Related Proteins	P06582	P06582, P34696	0	1	1	0	1	0	0	1	80.0	Doubtful
+138	F22D6.3a.1_3	ref_frame-3|F22D6.3alt_frame-1			7.886206827084981	100.0	0.0	0.0					Single Protein		F22D6.3a.1_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+139	R04F11.3.2_1	ref_frame-3|R04F11.3alt_frame-1			12.133539501917438	100.0	0.0	0.0					Single Protein		R04F11.3.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+140	Q9N306	Uncharacterized protein (Q9N306_CAEEL)	CELE_Y61A9LA.10		120.36209321057602	78.96	0.0	0.0					Single Protein		Q9N306	0	1	1	0	1	0	0	1	0.0	Doubtful
+141	G5ECX0	Latrophilin-like protein LAT-2 (LPLT2_CAEEL)	lat-2	II	147.2067473639081	54.48	0.0	0.0					Single Protein		G5ECX0	0	1	1	0	1	0	0	1	0.0	Doubtful
+142	C6KRI9	Uncharacterized protein (C6KRI9_CAEEL)	CELE_T28C6.7		263.9990871533381	89.74	0.0	0.0					Related Proteins	Q22847, X5M5W2, X5M900	C6KRI9, Q22847, X5M5W2, X5M900	0	2	2	0	2	0	0	3	0.0	Doubtful
+143	ZC513.6.1_1	ref_frame-3|ZC513.6alt_frame-1			5.734200521309151	100.0	0.0	0.0					Single Protein		ZC513.6.1_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+144	F53A2.4.2_1	ref_frame-3|F53A2.4alt_frame-1			6.1166761883262915	100.0	0.0	0.0					Single Protein		F53A2.4.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+145	O18233	Uncharacterized protein (O18233_CAEEL)	CELE_Y57G11C.7		29.18876723264504	100.0	0.0	0.0					Single Protein		O18233	0	1	1	0	1	0	0	1	0.0	Doubtful
+146	Q09364	Uncharacterized protein ZK1320.2 (YS22_CAEEL)	ZK1320.2	II	23.110359254834133	58.65	0.0	0.0					Related Proteins	Q09365	Q09364, Q09365	0	1	1	0	1	0	0	2	0.0	Doubtful
+147	B0228.4c_27	ref_frame-1|B0228.4alt_frame-2			8.404508703603808	100.0	0.0	0.0					Single Protein		B0228.4c_27	0	1	1	0	1	0	0	1	0.0	Doubtful
+148	P91239	Uncharacterized protein (P91239_CAEEL)	CELE_F08D12.12		58.1274528935809	92.45	0.0	0.0					Single Protein		P91239	0	1	1	0	1	0	0	1	0.0	Doubtful
+149	C06G3.9.2_1	ref_frame-1|C06G3.9alt_frame-2			6.371050490334401	100.0	0.0	0.0					Single Protein		C06G3.9.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+150	P34688	Cuticle collagen dpy-7 (DPY7_CAEEL)	dpy-7	X	31.609509320266607	57.23	0.0	0.0					Single Protein		P34688	0	1	1	0	1	0	0	1	0.0	Doubtful
+151	Q2WF59	Zyg eleven-related protein 1 (ZER1_CAEEL)	zer-1	III	101.0596650075347	65.03	0.0	0.0					Single Protein		Q2WF59	0	1	1	0	1	0	0	1	0.0	Doubtful
+152	Q9N3J6	F-box B protein (Q9N3J6_CAEEL)	fbxb-42	II	37.031096723978656	100.0	0.0	0.0					Single Protein		Q9N3J6	0	1	1	0	1	0	0	1	0.0	Doubtful
+153	I2HAG0	Uncharacterized protein (I2HAG0_CAEEL)	CELE_Y113G7A.15		10.185079460793883	52.81	0.0	0.0					Related Proteins	Q95ZJ6	I2HAG0, Q95ZJ6	0	1	1	0	1	0	0	1	0.0	Doubtful
+154	F11E6.7_1	ref_frame-1|F11E6.7alt_frame-2			7.919428366723316	100.0	0.0	0.0					Single Protein		F11E6.7_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+155	V6CLN2	ThioRedoXin Reductase (V6CLN2_CAEEL)	trxr-1	IV	70.5460912022372	89.27	0.0	0.0					Related Proteins	Q17745	Q17745, V6CLN2	0	1	1	0	1	0	0	1	93.33333333333333	Doubtful
+156	O44410	Ribosomal RNA-processing protein 8 (RRP8_CAEEL)	T07A9.8	IV	39.42365547080806	100.0	0.0	0.0					Single Protein		O44410	0	1	1	0	1	0	0	1	0.0	Doubtful
+157	Q8WQD9	Uncharacterized protein (Q8WQD9_CAEEL)	CELE_M176.10		50.20854385116426	81.94	0.0	0.0					Single Protein		Q8WQD9	0	1	1	0	1	0	0	1	0.0	Doubtful
+158	Q19907	TWiK family of potassium channels protein 12 (TWK12_CAEEL)	twk-12	V	82.01510867104027	82.33	0.0	0.0					Single Protein		Q19907	0	1	1	0	1	0	0	2	84.61538461538461	Doubtful
+159	Y37E3.19_1	ref_frame-1|Y37E3.19alt_frame-2			8.119482989211233	100.0	0.0	0.0					Single Protein		Y37E3.19_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+160	F32D8.9_1	ref_frame-1|F32D8.9alt_frame-1			5.02647056469888	100.0	0.0	0.0					Single Protein		F32D8.9_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+161	F35C8.4.1_1	ref_frame-2|F35C8.4alt_frame-1			6.5355410873039625	100.0	0.0	0.0					Single Protein		F35C8.4.1_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+162	C09F9.2_8	ref_frame-1|C09F9.2alt_frame-2			5.310781189593282	100.0	0.0	0.0					Single Protein		C09F9.2_8	0	1	1	0	1	0	0	1	0.0	Doubtful
+163	C54G10.3a_2	ref_frame-2|C54G10.3alt_frame-1			4.822342302007681	100.0	45.45	0.0					Single Protein		C54G10.3a_2	1	2	2	1	2	1	0	3	91.66666666666666	Doubtful
+164	Q93370	Uncharacterized protein (Q93370_CAEEL)	C41G7.6	I	24.63269559095637	84.93	5.94	0.0					Single Protein		Q93370	1	1	1	1	1	1	0	4	100.0	Doubtful
+165	H2KYR1	VIG (Drosophila Vasa Intronic Gene) ortholog (H2KYR1_CAEEL)	vig-1	II	40.38238389641798	100.0	4.23	2433.8190059225913					Single Protein		H2KYR1	1	1	1	1	1	1	2	2	100.0	Doubtful
+166	G5ECZ7	Uncharacterized protein (G5ECZ7_CAEEL)	CELE_Y6B3B.1		211.77276462721605	79.48	0.0	0.0					Single Protein		G5ECZ7	0	1	1	0	1	0	0	1	0.0	Doubtful
+167	O18238	Uncharacterized protein (O18238_CAEEL)	CELE_Y57G11C.14		27.234675084549156	100.0	0.0	0.0					Single Protein		O18238	0	1	1	0	1	0	0	1	0.0	Doubtful
+168	A0A0K3ARD1	Uncharacterized protein (A0A0K3ARD1_CAEEL)	CELE_Y50D7A.13		22.622921460474227	100.0	0.0	0.0					Single Protein		A0A0K3ARD1	0	1	1	0	1	0	0	1	0.0	Doubtful
+169	O62194	Uncharacterized protein (O62194_CAEEL)	CELE_F31C3.6		62.52700717392478	68.77	0.0	0.0					Single Protein		O62194	0	1	1	0	1	0	0	1	0.0	Doubtful
+170	O45713	Uncharacterized protein (O45713_CAEEL)	CELE_R09B3.3		9.390495003576818	61.18	17.65	17691.992004591146					Single Protein		O45713	1	1	1	1	1	1	2	2	100.0	Doubtful
+171	Q20445	Suppressor with Morphological effect on Genitalia (Q20445_CAEEL)	smg-4	V	38.84092878530829	90.27	0.0	0.0					Related Proteins	Q8WQF3	Q20445, Q8WQF3	0	1	1	0	1	0	0	1	0.0	Doubtful
+172	P91136	Nucleolar complex protein 3 homolog (NOC3L_CAEEL)	C37H5.5	V	88.89287722541994	91.65	0.0	0.0					Single Protein		P91136	0	1	1	0	1	0	0	1	0.0	Doubtful
+173	P34550	Uncharacterized protein R10E11.6 (YNJ6_CAEEL)	R10E11.6	III	40.330265886449254	67.39	0.0	0.0					Single Protein		P34550	0	1	1	0	1	0	0	1	0.0	Doubtful
+174	O44993	Uncharacterized protein (O44993_CAEEL)	CELE_K09H9.7		18.75257455008739	100.0	0.0	0.0					Single Protein		O44993	0	1	1	0	1	0	0	1	0.0	Doubtful
+175	O02108	Probable Hsp90 co-chaperone cdc37 (CDC37_CAEEL)	cdc-37	II	42.67881576290848	90.27	0.0	0.0					Related Proteins	Q336L8	O02108, Q336L8	0	1	1	0	1	0	0	1	0.0	Doubtful
+176	O45607	ENhancer of Uncoordination (O45607_CAEEL)	enu-3.1	III	22.687500707822583	78.92	0.0	0.0					Single Protein		O45607	0	1	1	0	1	0	0	1	0.0	Doubtful
+177	Q23076	Serpentine receptor class gamma (Q23076_CAEEL)	srg-67	V	36.22293001070082	51.74	0.0	0.0					Single Protein		Q23076	0	1	1	0	1	0	0	1	0.0	Doubtful
+178	Q95X84	Uncharacterized protein (Q95X84_CAEEL)	CELE_F25G6.1		63.89827600468947	94.46	0.0	0.0					Single Protein		Q95X84	0	1	1	0	1	0	0	1	0.0	Doubtful
+179	T10F2.4.1_1	ref_frame-1|T10F2.4alt_frame-2			14.721220534273103	73.02	0.0	0.0					Single Protein		T10F2.4.1_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+180	F0IWT2	Heavy chain, Unconventional Myosin (F0IWT2_CAEEL)	hum-7	I	213.24796649742763	89.95	0.0	0.0					Related Proteins	H2L082	F0IWT2, H2L082	0	1	1	0	1	0	0	1	0.0	Doubtful
+181	R05D3.12a_1	ref_frame-3|R05D3.12alt_frame-1			6.318350324373912	100.0	0.0	0.0					Single Protein		R05D3.12a_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+182	Q17651	Uncharacterized protein (Q17651_CAEEL)	C05C12.1	IV	46.2434518718735	100.0	0.0	0.0					Related Proteins	Q18976	Q17651, Q18976	0	1	1	0	1	0	0	1	0.0	Doubtful
+183	O17580	Nucleolar complex protein 2 homolog (NOC2L_CAEEL)	pro-2	II	81.90212859468552	84.62	0.0	0.0					Single Protein		O17580	0	1	1	0	1	0	0	2	0.0	Doubtful
+184	I7J4C6	Uncharacterized protein (I7J4C6_CAEEL)	CELE_K07F5.15		8.656014952831113	100.0	0.0	0.0					Related Proteins	K07F5.15.2_1, K07F5.15.3_1	I7J4C6, K07F5.15.2_1, K07F5.15.3_1	0	2	2	0	2	0	0	2	0.0	Doubtful
+185	P10038	Homeobox protein mab-5 (MAB5_CAEEL)	mab-5	III	22.38449060691621	61.0	0.0	0.0					Single Protein		P10038	0	1	1	0	1	0	0	2	84.61538461538461	Doubtful
+186	H2KYL4	GABA/Glycine Receptor family (See gbr) (H2KYL4_CAEEL)	ggr-2	X	59.02856737074453	74.85	0.0	0.0					Related Proteins	Q2WF65	H2KYL4, Q2WF65	0	1	1	0	1	0	0	1	0.0	Doubtful
+187	G5EDA3	CENP-C-like protein HCP-4 (G5EDA3_CAEEL)	hcp-4	I	97.36306375311817	92.38	0.0	0.0					Single Protein		G5EDA3	0	1	1	0	1	0	0	1	0.0	Doubtful
+188	F28F9.4_1	ref_frame-1|F28F9.4alt_frame-2			8.264273090336685	100.0	0.0	0.0					Single Protein		F28F9.4_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+189	O45935	Kinesin-like protein (O45935_CAEEL)	klp-19	III	123.06293936752223	83.66	0.0	0.0					Single Protein		O45935	0	1	1	0	1	0	0	1	0.0	Doubtful
+190	Q9XXQ9	H(+) MyoInositol coTransporter (Q9XXQ9_CAEEL)	hmit-1.2	V	67.84130761029218	50.08	0.0	0.0					Single Protein		Q9XXQ9	0	1	1	0	1	0	0	1	0.0	Doubtful
+191	Q04833	Low-density lipoprotein receptor-related protein (LRP_CAEEL)	lrp-1	I	526.0818118242802	84.41	0.0	0.0					Single Protein		Q04833	0	1	1	0	1	0	0	1	0.0	Doubtful
+192	B0205.3.2_2	ref_frame-1|B0205.3alt_frame-3			4.53198244223054	100.0	0.0	0.0					Single Protein		B0205.3.2_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+193	Q19942	Uncharacterized protein (Q19942_CAEEL)	CELE_F31F6.1		41.07162812102063	91.78	0.0	0.0					Single Protein		Q19942	0	1	1	0	1	0	0	1	0.0	Doubtful
+194	Q9TZA2	Uncharacterized protein (Q9TZA2_CAEEL)	CELE_E02H9.6		52.79702762936803	93.04	0.0	0.0					Single Protein		Q9TZA2	0	1	1	0	1	0	0	1	0.0	Doubtful
+195	W08E3.4_1	ref_frame-1|W08E3.4alt_frame-2			6.623334510345922	100.0	0.0	0.0					Single Protein		W08E3.4_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+196	O17352	Acid Alpha Glucosidase Relate (O17352_CAEEL)	aagr-4	X	104.01894109926951	96.12	0.0	0.0					Single Protein		O17352	0	1	1	0	1	0	0	1	0.0	Doubtful
+197	F32E10.6.1_2	ref_frame-1|F32E10.6alt_frame-2			10.62051869215811	100.0	0.0	0.0					Single Protein		F32E10.6.1_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+198	Q8MXT9	Uncharacterized protein (Q8MXT9_CAEEL)	CELE_Y97E10C.1		6.357018029308783	100.0	0.0	0.0					Single Protein		Q8MXT9	0	1	1	0	1	0	0	1	0.0	Doubtful
+199	D7SFI3	Uncharacterized protein (D7SFI3_CAEEL)	C02D5.4	III	28.543528473377304	87.01	5.91	4162.821648139094					Single Protein		D7SFI3	1	1	1	1	1	1	2	3	100.0	Doubtful
+200	G8XYY6	tRNA (guanine-N(7)-)-methyltransferase non-catalytic subunit (G8XYY6_CAEEL)	wdr-4		43.92967109063885	91.3	4.86	1288.4924149001954					Related Proteins	Q23232	G8XYY6, Q23232	1	1	1	1	1	1	1	1	100.0	Doubtful
+201	G5EEA3	Uncharacterized protein (G5EEA3_CAEEL)	CELE_H05L14.1		89.68670477905974	95.84	0.0	0.0					Single Protein		G5EEA3	0	1	1	0	1	0	0	1	0.0	Doubtful
+202	F42G9.9a.1_1	ref_frame-3|F42G9.9alt_frame-1			6.479336071292102	100.0	0.0	0.0					Related Proteins	F42G9.9d.1_1	F42G9.9a.1_1, F42G9.9d.1_1	0	1	1	0	1	0	0	1	80.0	Doubtful
+203	F35B12.5a_1	ref_frame-3|F35B12.5alt_frame-1			9.062090562493138	100.0	0.0	0.0					Single Protein		F35B12.5a_1	0	2	2	0	2	0	0	2	0.0	Doubtful
+204	F35B12.5a_2	ref_frame-3|F35B12.5alt_frame-1			6.5353954092018025	40.0	16.36	0.0					Single Protein		F35B12.5a_2	1	1	1	1	1	1	0	1	91.66666666666666	Doubtful
+205	Q9GYK8	Uncharacterized protein (Q9GYK8_CAEEL)	CELE_T05A12.3		74.89888959941426	93.89	0.0	0.0					Single Protein		Q9GYK8	0	1	1	0	1	0	0	2	0.0	Doubtful
+206	A8WFH5	Uncharacterized protein (A8WFH5_CAEEL)	CELE_F48E3.8		265.7829272415782	73.12	0.0	0.0					Single Protein		A8WFH5	0	1	1	0	1	0	0	1	0.0	Doubtful
+207	Q17892	Uncharacterized protein (Q17892_CAEEL)	C10A4.2	X	30.501720474685534	72.93	0.0	0.0					Single Protein		Q17892	0	1	1	0	1	0	0	1	0.0	Doubtful
+208	Y76B12C.2_2	ref_frame-3|Y76B12C.2alt_frame-1			10.629752145183122	100.0	0.0	0.0					Single Protein		Y76B12C.2_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+209	W07G1.5b_1	ref_frame-2|W07G1.5alt_frame-3			11.7213812832361	100.0	0.0	0.0					Single Protein		W07G1.5b_1	0	1	1	0	1	0	0	2	0.0	Doubtful
+210	Q9NEK3	Uncharacterized protein (Q9NEK3_CAEEL)	CELE_Y116F11B.6		41.653120776798	77.75	0.0	0.0					Single Protein		Q9NEK3	0	1	1	0	1	0	0	2	0.0	Doubtful
+211	Q9U3S6	Uncharacterized protein (Q9U3S6_CAEEL)	B0379.7	I	42.82511081590352	78.24	0.0	0.0					Single Protein		Q9U3S6	0	1	1	0	1	0	0	1	0.0	Doubtful
+212	B0546.2.1_1	ref_frame-3|B0546.2alt_frame-1			9.367780389341673	100.0	0.0	0.0					Single Protein		B0546.2.1_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+213	W06H8.8e.2_55	ref_frame-1|W06H8.8alt_frame-2			9.479161896235546	100.0	0.0	0.0					Single Protein		W06H8.8e.2_55	0	1	1	0	1	0	0	1	0.0	Doubtful
+214	O62249	Uncharacterized protein (O62249_CAEEL)	CELE_F45G2.7		19.611381374337057	100.0	0.0	0.0					Single Protein		O62249	0	1	1	0	1	0	0	1	0.0	Doubtful
+215	A0A1N7SYR9	Uncharacterized protein (A0A1N7SYR9_CAEEL)	C04E6.12	V	27.760754672282523	84.15	0.0	0.0					Related Proteins	A0A1N7SYS1, A0A1N7SYS4, A0A1N7SYU3	A0A1N7SYR9, A0A1N7SYS1, A0A1N7SYS4, A0A1N7SYU3	0	1	1	0	1	0	0	1	0.0	Doubtful
+216	Y41E3.19_2	ref_frame-2|Y41E3.19alt_frame-3			8.293354652216014	100.0	0.0	0.0					Single Protein		Y41E3.19_2	0	1	1	0	1	0	0	2	0.0	Doubtful
+217	A8WI09	Uncharacterized protein (A8WI09_CAEEL)	C14A6.12	V	16.12194069102431	70.83	0.0	0.0					Single Protein		A8WI09	0	1	1	0	1	0	0	1	0.0	Doubtful
+218	Q19965	Uncharacterized protein (Q19965_CAEEL)	CELE_F32D8.4		33.70229853223591	87.97	0.0	0.0					Single Protein		Q19965	0	1	1	0	1	0	0	1	0.0	Doubtful
+219	H2L0J4	Uncharacterized protein (H2L0J4_CAEEL)	CELE_T07D3.9		45.16697035907144	92.17	0.0	0.0					Related Proteins	O16725	H2L0J4, O16725	0	1	1	0	1	0	0	1	0.0	Doubtful
+220	Q94259	Uncharacterized protein (Q94259_CAEEL)	CELE_K04A8.1		43.05900865674573	100.0	0.0	0.0					Single Protein		Q94259	0	1	1	0	1	0	0	1	0.0	Doubtful
+221	T27C5.5_2	ref_frame-1|T27C5.5alt_frame-3			5.7479570860729705	100.0	0.0	0.0					Single Protein		T27C5.5_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+222	Y76B12C.2_3	ref_frame-3|Y76B12C.2alt_frame-1			7.351213037002475	100.0	0.0	0.0					Single Protein		Y76B12C.2_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+223	Q09263	Protein EFR3 homolog (EFR3_CAEEL)	C32D5.3	II	96.6067380552285	87.54	0.0	0.0					Single Protein		Q09263	0	1	1	0	1	0	0	1	0.0	Doubtful
+224	Q8WQF8	Uncharacterized protein (Q8WQF8_CAEEL)	CELE_F07F6.7		28.838697300272212	80.38	0.0	0.0					Single Protein		Q8WQF8	0	1	1	0	1	0	0	3	0.0	Doubtful
+225	F11A10.2_2	ref_frame-1|F11A10.2alt_frame-2			5.549182669333703	100.0	0.0	0.0					Single Protein		F11A10.2_2	0	1	1	0	1	0	0	2	0.0	Doubtful
+226	A0A0K3AR10	NURF (Nucleosome remodeling factor) complex homolog (A0A0K3AR10_CAEEL)	nurf-1	II	252.26498584619048	87.66	0.0	0.0					Related Proteins	A0A0K3ARK1, A0A0K3ATY3, B6VQ92, H2FLJ6, Q6BER5	A0A0K3AR10, A0A0K3ARK1, A0A0K3ATY3, B6VQ92, H2FLJ6, Q6BER5	0	2	2	0	2	0	0	3	0.0	Doubtful
+227	P34333	Nuclear receptor corepressor 1 (NCOR1_CAEEL)	gei-8	III	197.7997405599273	72.33	0.0	0.0					Single Protein		P34333	0	1	1	0	1	0	0	1	0.0	Doubtful
+228	K02A4.2.2_1	ref_frame-1|K02A4.2alt_frame-3			9.004747606814368	100.0	0.0	0.0					Single Protein		K02A4.2.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+229	A0A0K3AU50	Metabotropic GLutamate receptor family (A0A0K3AU50_CAEEL)	mgl-2	I	115.24434863167939	89.8	0.0	0.0					Related Proteins	A0A0K3AWF7, G5EG10	A0A0K3AU50, A0A0K3AWF7, G5EG10	0	1	1	0	1	0	0	2	0.0	Doubtful
+230	T09B9.2_4	ref_frame-1|T09B9.2alt_frame-3			9.568655340096285	100.0	0.0	0.0					Single Protein		T09B9.2_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+231	C28D4.9_4	ref_frame-3|C28D4.9alt_frame-1			5.584752968726421	100.0	0.0	0.0					Single Protein		C28D4.9_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+232	A0A131MAT8	Uncharacterized protein (A0A131MAT8_CAEEL)	lin-42	II	36.63055493779668	100.0	0.0	0.0					Related Proteins	A0A131MAY5, A0A131MCB3, Q65ZG8	A0A131MAT8, A0A131MAY5, A0A131MCB3, Q65ZG8	0	1	1	0	1	0	0	1	0.0	Doubtful
+233	G5EGK5	Tyrosine-protein kinase receptor cam-1 (CAM1_CAEEL)	cam-1	II	103.79746363349093	76.51	0.0	0.0					Single Protein		G5EGK5	0	1	1	0	1	0	0	1	0.0	Doubtful
+234	Q23680	Probable V-type proton ATPase subunit F (VATF_CAEEL)	vha-9	II	13.303900979283451	100.0	19.83	15206.340235351066					Single Protein		Q23680	1	1	1	1	1	1	4	4	100.0	Doubtful
+235	Q067Y2	Uncharacterized protein (Q067Y2_CAEEL)	CELE_K08E4.7		38.37452224604583	86.5	0.0	0.0					Single Protein		Q067Y2	0	1	1	0	1	0	0	1	0.0	Doubtful
+236	Q21014	Uncharacterized protein (Q21014_CAEEL)	CELE_F58H1.5		35.31618479477187	69.35	0.0	0.0					Single Protein		Q21014	0	1	1	0	1	0	0	1	0.0	Doubtful
+237	Q9XVI3	Protein argonaute (Q9XVI3_CAEEL)	alg-5		101.82491207898663	73.92	0.0	0.0					Single Protein		Q9XVI3	0	1	1	0	1	0	0	1	0.0	Doubtful
+238	Y55F3AR.2_1	ref_frame-1|Y55F3AR.2alt_frame-2			6.051156801490524	100.0	0.0	0.0					Single Protein		Y55F3AR.2_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+239	O16568	Uncharacterized protein (O16568_CAEEL)	CELE_F40E12.2		143.5605523151365	94.88	0.0	0.0					Single Protein		O16568	0	1	1	0	1	0	0	1	0.0	Doubtful
+240	Q4W5T4	Uncharacterized protein (Q4W5T4_CAEEL)	CELE_K08D12.7		12.39415933782892	71.2	0.0	0.0					Single Protein		Q4W5T4	0	1	1	0	1	0	0	6	0.0	Doubtful
+241	Q95XT1	SUPpressor of Rpm-1 (Q95XT1_CAEEL)	supr-1	I	85.13574680712172	94.5	0.0	0.0					Single Protein		Q95XT1	0	1	1	0	1	0	0	2	0.0	Doubtful
+242	A0A0K3AWR5	Uncharacterized protein (A0A0K3AWR5_CAEEL)	2L52.1	II	26.01121276581175	100.0	0.0	0.0					Related Proteins	A4F336	A0A0K3AWR5, A4F336	0	1	1	0	1	0	0	1	80.0	Doubtful
+243	Q9N4D5	Uncharacterized protein (Q9N4D5_CAEEL)	CELE_Y74C9A.1		27.588205128233035	76.54	0.0	0.0					Single Protein		Q9N4D5	0	1	1	0	1	0	0	1	0.0	Doubtful
+244	A0A0K3AR60	Uncharacterized protein (A0A0K3AR60_CAEEL)	CELE_Y43H11AL.1		54.53110765754658	100.0	0.0	0.0					Related Proteins	H2L057, Q8IAA7	A0A0K3AR60, H2L057, Q8IAA7	0	1	1	0	1	0	0	2	0.0	Doubtful
+245	M106.4c_3	ref_frame-1|M106.4alt_frame-2			4.67150801736861	100.0	0.0	0.0					Single Protein		M106.4c_3	0	1	1	0	1	0	0	1	0.0	Doubtful
+246	G5EFH4	SeRPin (G5EFH4_CAEEL)	srp-6	V	41.67033421033134	78.67	0.0	0.0					Single Protein		G5EFH4	0	1	1	0	1	0	0	1	0.0	Doubtful
+247	O76620	Serpentine Receptor, class W (O76620_CAEEL)	srw-66	II	44.0492104306601	81.35	0.0	0.0					Single Protein		O76620	0	1	1	0	1	0	0	2	0.0	Doubtful
+248	Q9BL48	SET (Trithorax/polycomb) domain containing (Q9BL48_CAEEL)	set-27	III	56.310532961575774	70.12	0.0	0.0					Single Protein		Q9BL48	0	1	1	0	1	0	0	1	0.0	Doubtful
+249	F15B9.10_2	ref_frame-2|F15B9.10alt_frame-3			27.567084456330793	70.42	0.0	0.0					Single Protein		F15B9.10_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+250	B3CJ34	GCN (Yeast General Control Nondrepressible) homolog (B3CJ34_CAEEL)	gcn-1	III	291.41522031251526	89.97	0.0	0.0					Single Protein		B3CJ34	0	1	1	0	1	0	0	2	0.0	Doubtful
+251	Q8IA75	Phosphoinositide phospholipase C (Q8IA75_CAEEL)	pll-1	III	121.03576389490982	81.21	0.0	0.0					Related Proteins	Q8IA76	Q8IA75, Q8IA76	0	1	1	0	1	0	0	1	0.0	Doubtful
+252	C24H11.7_4	ref_frame-2|C24H11.7alt_frame-3			7.543639819756285	100.0	0.0	0.0					Single Protein		C24H11.7_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+253	O17786	Serpentine Receptor, class H (O17786_CAEEL)	srh-281	V	39.048638530804695	69.88	0.0	0.0					Single Protein		O17786	0	1	1	0	1	0	0	1	0.0	Doubtful
+254	Q9NL87	KETtiN (Drosophila actin-binding) homolog (Q9NL87_CAEEL)	ketn-1	V	468.39793283714545	83.15	0.0	0.0					Related Proteins	V6CJB8, V6CKH1, V6CLP5, V6CLU5	Q9NL87, V6CJB8, V6CKH1, V6CLP5, V6CLU5	0	1	1	0	1	0	0	1	0.0	Doubtful
+255	H2KYE7	Uncharacterized protein (H2KYE7_CAEEL)	C41A3.2	X	60.7438196259397	100.0	0.0	0.0					Related Proteins	Q3HKB7	H2KYE7, Q3HKB7	0	1	1	0	1	0	0	1	0.0	Doubtful
+256	Q966L6	Uncharacterized protein (Q966L6_CAEEL)	let-504	I	59.008845470252076	100.0	0.0	0.0					Single Protein		Q966L6	0	1	1	0	1	0	0	1	0.0	Doubtful
+257	O16595	MS Related Protein (O16595_CAEEL)	msrp-5		14.138164183265005	39.55	0.0	0.0					Single Protein		O16595	0	1	1	0	1	0	0	1	0.0	Doubtful
+258	D3YT89	Uncharacterized protein (D3YT89_CAEEL)	C37A5.3	I	9.091486483866033	100.0	0.0	0.0					Single Protein		D3YT89	0	1	1	0	1	0	0	1	0.0	Doubtful
+259	R107.8_4	ref_frame-1|R107.8alt_frame-2			5.438990679810641	100.0	0.0	0.0					Single Protein		R107.8_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+260	Q95QC2	Uncharacterized protein (Q95QC2_CAEEL)	CELE_R02F2.9		18.91694910971336	100.0	0.0	0.0					Single Protein		Q95QC2	0	1	1	0	1	0	0	1	0.0	Doubtful
+261	A0A131MB05	CUTiclin-Like (A0A131MB05_CAEEL)	cutl-12	II	54.71336016855964	93.43	0.0	0.0					Related Proteins	A0A131MBI8	A0A131MB05, A0A131MBI8	0	1	1	0	1	0	0	1	0.0	Doubtful
+262	Q21175	Chondroitin proteoglycan 8 (CPG8_CAEEL)	cpg-8	V	12.197967205357761	100.0	0.0	0.0					Single Protein		Q21175	0	1	1	0	1	0	0	1	0.0	Doubtful
+263	C36E6.1b_4	ref_frame-2|C36E6.1alt_frame-3			13.960627169248466	100.0	0.0	0.0					Single Protein		C36E6.1b_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+264	Q22377	Uncharacterized protein (Q22377_CAEEL)	CELE_T10E10.3		45.543052746200786	81.42	0.0	0.0					Single Protein		Q22377	0	1	1	0	1	0	0	2	0.0	Doubtful
+265	O62337	Uncharacterized protein (O62337_CAEEL)	CELE_R06C1.4		9.29956261256083	58.33	30.95	9387.58759427285					Single Protein		O62337	2	2	2	2	2	2	2	4	100.0	Doubtful
+266	D0IMZ2	Uncharacterized protein (D0IMZ2_CAEEL)	C18H7.12	IV	57.97642718323593	59.45	0.0	0.0					Single Protein		D0IMZ2	0	1	1	0	1	0	0	1	0.0	Doubtful
+267	F26G5.9_2	ref_frame-3|F26G5.9alt_frame-1			5.5908553323454395	100.0	0.0	0.0					Single Protein		F26G5.9_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+268	P54412	Probable elongation factor 1-gamma (EF1G_CAEEL)	eef-1G	V	44.35973506875614	83.92	0.0	0.0					Single Protein		P54412	0	2	2	0	2	0	0	2	0.0	Doubtful
+269	H2KZ70	Uncharacterized protein (H2KZ70_CAEEL)	CELE_ZC477.3		37.955926532147	100.0	0.0	0.0					Related Proteins	H2KZ71, Q5WRS7	H2KZ70, H2KZ71, Q5WRS7	0	1	1	0	1	0	0	1	0.0	Doubtful
+270	P34891	Receptor-like tyrosine-protein kinase kin-15 (KIN15_CAEEL)	kin-15	II	56.50834114003079	68.24	0.0	0.0					Related Proteins	Q8T8M7	P34891, Q8T8M7	0	1	1	0	1	0	0	1	0.0	Doubtful
+271	Q23597	Uncharacterized protein (Q23597_CAEEL)	CELE_ZK809.3		24.342507872260295	100.0	0.0	0.0					Single Protein		Q23597	0	1	1	0	1	0	0	1	0.0	Doubtful
+272	Q22145	High Incidence of Males (Increased X chromosome loss) (Q22145_CAEEL)	him-18	III	81.03227931192718	91.78	0.0	0.0					Single Protein		Q22145	0	2	2	0	2	0	0	2	0.0	Doubtful
+273	Q21179	Zinc metalloproteinase nas-18 (NAS18_CAEEL)	nas-18	V	46.24044069564182	80.73	0.0	0.0					Single Protein		Q21179	0	1	1	0	1	0	0	1	0.0	Doubtful
+274	E5QCJ5	Uncharacterized protein (E5QCJ5_CAEEL)	CELE_Y69H2.1		16.036480266819922	76.81	0.0	0.0					Related Proteins	Q9XTT0	E5QCJ5, Q9XTT0	0	1	1	0	1	0	0	1	0.0	Doubtful
+275	C54D1.5.1_5	ref_frame-2|C54D1.5alt_frame-3			6.961051926088294	100.0	0.0	0.0					Single Protein		C54D1.5.1_5	0	1	1	0	1	0	0	1	0.0	Doubtful
+276	F29G9.6a_1	ref_frame-3|F29G9.6alt_frame-1			5.81156634156093	100.0	0.0	0.0					Single Protein		F29G9.6a_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+277	O16642	C-type LECtin (O16642_CAEEL)	clec-125	II	75.06558183292957	84.12	0.0	0.0					Single Protein		O16642	0	1	1	0	1	0	0	1	0.0	Doubtful
+278	R10E8.6_1	ref_frame-1|R10E8.6alt_frame-2			10.209110876273687	100.0	0.0	0.0					Single Protein		R10E8.6_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+279	G5EFL8	Uncharacterized protein (G5EFL8_CAEEL)	CELE_R53.8		20.723262995000105	83.15	0.0	0.0					Single Protein		G5EFL8	0	1	1	0	1	0	0	1	0.0	Doubtful
+280	C50B6.4_1	ref_frame-2|C50B6.4alt_frame-3			30.039218538059774	74.21	0.0	0.0					Single Protein		C50B6.4_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+281	Q93570	Uncharacterized protein (Q93570_CAEEL)	CELE_F25H2.7		43.27300676582288	91.58	0.0	0.0					Single Protein		Q93570	0	1	1	0	1	0	0	1	0.0	Doubtful
+282	O02263	Uncharacterized protein (O02263_CAEEL)	CELE_F44F1.4		62.9588969710465	91.8	0.0	0.0					Single Protein		O02263	0	1	1	0	1	0	0	1	0.0	Doubtful
+283	Q93332	See cpr (Q93332_CAEEL)	gcp-2.2	X	87.56172876092735	82.41	2.31	0.0					Single Protein		Q93332	1	1	1	1	1	1	0	2	100.0	Doubtful
+284	G4SF97	Uncharacterized protein (G4SF97_CAEEL)	CELE_W05F2.4		213.91519837056416	81.11	0.0	0.0					Related Proteins	G4SFA4	G4SF97, G4SFA4	0	1	1	0	1	0	0	1	0.0	Doubtful
+285	O17744	Uncharacterized protein (O17744_CAEEL)	CELE_E03H4.4		93.65689555191427	95.28	0.0	0.0					Single Protein		O17744	0	1	1	0	1	0	0	2	0.0	Doubtful
+286	ZC376.8_1	ref_frame-2|ZC376.8alt_frame-3			5.132744902352742	100.0	0.0	0.0					Single Protein		ZC376.8_1	0	1	1	0	1	0	0	1	80.0	Doubtful
+287	A0A061ACL3	Cysteinyl Amino-acyl tRNA Synthetase (A0A061ACL3_CAEEL)	cars-1	I	87.13634120429188	87.53	0.0	0.0					Related Proteins	O76618, Q965I6	A0A061ACL3, O76618, Q965I6	0	1	1	0	1	0	0	1	80.0	Doubtful
+288	G5EBG6	GEX Interacting protein (G5EBG6_CAEEL)	gei-3	X	153.68086602007116	62.7	0.0	0.0					Single Protein		G5EBG6	0	1	1	0	1	0	0	1	0.0	Doubtful
+289	Q8MYM8	General transcription factor IIF subunit 2 (Q8MYM8_CAEEL)	CELE_Y39B6A.36		29.63359537607298	100.0	0.0	0.0					Single Protein		Q8MYM8	0	1	1	0	1	0	0	1	0.0	Doubtful
+290	T05F1.6_4	ref_frame-1|T05F1.6alt_frame-2			6.588893951811575	100.0	0.0	0.0					Single Protein		T05F1.6_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+291	Q93442	Mediator of RNA polymerase II transcription subunit 13 (MED13_CAEEL)	let-19	II	324.9309750750176	74.28	0.0	0.0					Single Protein		Q93442	0	1	1	0	1	0	0	1	0.0	Doubtful
+292	C50A2.2_3	ref_frame-2|C50A2.2alt_frame-3			7.477365613005415	100.0	0.0	0.0					Single Protein		C50A2.2_3	0	1	1	0	1	0	0	2	0.0	Doubtful
+293	W06A7.3c_6	ref_frame-1|W06A7.3alt_frame-2			13.208057163399102	100.0	0.0	0.0					Single Protein		W06A7.3c_6	0	1	1	0	1	0	0	1	0.0	Doubtful
+294	D2096.3.1_1	ref_frame-1|D2096.3alt_frame-2			14.431738218891095	60.98	0.0	0.0					Single Protein		D2096.3.1_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+295	F35A5.1_7	ref_frame-1|F35A5.1alt_frame-2			10.521841727162052	100.0	0.0	0.0					Single Protein		F35A5.1_7	0	1	1	0	1	0	0	1	0.0	Doubtful
+296	ZC449.3b_2	ref_frame-2|ZC449.3alt_frame-1			6.724509571961814	100.0	0.0	0.0					Single Protein		ZC449.3b_2	0	1	1	0	1	0	0	6	0.0	Doubtful
+297	T04G9.2.1_4	ref_frame-1|T04G9.2alt_frame-2			11.521132817213198	100.0	0.0	0.0					Single Protein		T04G9.2.1_4	0	1	1	0	1	0	0	1	0.0	Doubtful
+298	Y20F4.4_2	ref_frame-2|Y20F4.4alt_frame-1			7.631631944043601	100.0	0.0	0.0					Single Protein		Y20F4.4_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+299	Q22181	Putative UDP-glucuronosyltransferase ugt-56 (UGT56_CAEEL)	ugt-56	V	59.24572882530383	92.18	0.0	0.0					Single Protein		Q22181	0	1	1	0	1	0	0	1	0.0	Doubtful
+300	P90757	Uncharacterized protein (P90757_CAEEL)	che-11	V	162.37322513150707	89.28	0.0	0.0					Single Protein		P90757	0	1	1	0	1	0	0	5	0.0	Doubtful
+301	H9G2T4	Isocitrate dehydrogenase [NADP] (H9G2T4_CAEEL)	idh-1	IV	48.49455731815935	92.87	1.84	2277.1870896998503					Related Proteins	Q21032	H9G2T4, Q21032	1	1	1	1	1	1	2	2	100.0	Doubtful
+302	O17525	Uncharacterized protein (O17525_CAEEL)	CELE_W02D7.4		26.052669358348204	100.0	0.0	0.0					Single Protein		O17525	0	1	1	0	1	0	0	1	0.0	Doubtful
+303	Y9C9A.5_2	ref_frame-1|Y9C9A.5alt_frame-3			7.141691365476383	100.0	0.0	0.0					Single Protein		Y9C9A.5_2	0	1	1	0	1	0	0	1	0.0	Doubtful
+304	Q95XU6	Zinc finger CCCH domain-containing protein 14 (ZC3HE_CAEEL)	sut-2	V	82.80261502497221	89.19	0.0	0.0					Single Protein		Q95XU6	0	1	1	0	1	0	0	1	0.0	Doubtful
+305	Y54E10A.3_1	ref_frame-2|Y54E10A.3alt_frame-3			4.557183433452871	100.0	0.0	0.0					Single Protein		Y54E10A.3_1	0	1	1	0	1	0	0	1	0.0	Doubtful
+306	D2045.1c_4	ref_frame-2|D2045.1alt_frame-3			7.1659241339729025	100.0	0.0	0.0					Single Protein		D2045.1c_4	0	1	1	0	1	0	0	1	0.0	Doubtful

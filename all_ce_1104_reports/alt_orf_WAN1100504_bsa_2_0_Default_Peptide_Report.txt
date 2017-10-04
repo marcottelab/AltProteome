@@ -1,0 +1,5 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P34460; Q9U2H9	P34460, Q9U2H9 (Doubtful)	1	1	KLQIITVIEDLK	NH2-KLQIITVIEDLK-COOH	173; 223	IK; IK	VS; VS				3	3	8.737864077669899	Doubtful
+2	P13528	P13528 (Doubtful)	1	1	QLETFAEHFK	NH2-QLETFAEHFK-COOH	272	PR	QR				2	19	8.737864077669899	Doubtful
+3	G5EFP6	G5EFP6 (Doubtful)	1	1	YILCQFILVVIMK	NH2-YILC<cmm>QFILVVIMK-COOH	190	NK	IT		Carbamidomethylation of C (4)		0	24	8.737864077669899	Doubtful
+4	Q9BIG5	Q9BIG5 (Doubtful)	1	1	QLWMDEGVKK	NH2-QLWM<ox>DEGVKK-COOH	132	MK	CV	Oxidation of M (4)		Oxidation of M (4: Very Confident)	1	17	8.737864077669899	Doubtful

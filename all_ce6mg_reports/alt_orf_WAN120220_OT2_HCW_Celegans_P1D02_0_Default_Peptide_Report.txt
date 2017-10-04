@@ -1,0 +1,3 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	Q95Y04	Q95Y04 (Doubtful)	1	1	VTKVIGRTGSQG	NH2-VTKVIGRTGSQG-COOH	9	AR	QC				0	2	83.33333333333334	Doubtful
+2	G8JY74; P53013	G8JY74, P53013 (Doubtful)	1	1	SVEKSDGSSGKVTK	NH2-SVEKSDGSSGKVTK-COOH	406; 440	IK; IK	SA; SA				2	4	81.81818181818181	Doubtful

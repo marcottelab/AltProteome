@@ -1,0 +1,10 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	Q95QU0	1	1	VAMLNMTNQLFQIYFQINK	NH2-VAMLNMTNQLFQIYFQINK-COOH	KK	LN				0	2	77.27272727272727	0	Doubtful
+2	Q9TZD6	1	1	SDAGSYNTSDKRSSR	NH2-SDAGSYNTSDKRSSR-COOH	FR	GG				0	4	66.66666666666667	0	Doubtful
+3	C32E12.2_1	1	1	YLQSTVVWLFIMQNCMIK	NH2-YLQSTVVWLFIMQNC<cmm>M<ox>IK-COOH	LK	YG	Oxidation of M (16)	Carbamidomethylation of C (15)	Oxidation of M (12: Random, 16: Random)	0	4	83.33333333333334	0	Doubtful
+4	ZK721.2_1	1	1	RSTTSTTSSPR	NH2-RSTTSTTSSPR-COOH	RR	LR				0	2	85.71428571428572	0	Doubtful
+5	F53C3.12_1	1	1	APLINCSMR	NH2-APLINC<cmm>SM<ox>R-COOH	TR	TA	Oxidation of M (8)	Carbamidomethylation of C (6)	Oxidation of M (8: Very Confident)	0	6	90.9090909090909	0	Doubtful
+6	Q688C1	1	1	DEKMVIFPITNHYYNMLK	NH2-DEKMVIFPITNHYYNMLK-COOH	RR	LT				0	2	77.27272727272727	0	Doubtful
+7	F10F2.4_1	1	1	MRIEPILCTK	ace-MRIEPILC<cmm>TK-COOH		GY	Acetylation of protein N-term (1)	Carbamidomethylation of C (8)		0	2	85.71428571428572	0	Doubtful
+8	Q23621	1	1	IIAEAANGPTTPAADR	NH2-IIAEAANGPTTPAADR-COOH	AK	IL				0	2	68.75	0	Doubtful
+9	Q7K7A5	1	1	DLSSRQCLLITYNGMQRFK	NH2-DLSSRQC<cmm>LLITYNGMQRFK-COOH	M	SD		Carbamidomethylation of C (7)		0	2	77.27272727272727	0	Doubtful

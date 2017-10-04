@@ -1,0 +1,9 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	T22C1.8_2	T22C1.8_2 (Doubtful)	1	1	LLHIILQQKKHKNAWKR	NH2-LLHIILQQKKHKNAWKR-COOH	50	KK	FA				0	1	100.0	Doubtful
+2	B0286.4b_1	B0286.4b_1 (Doubtful)	1	1	MCNREPFHRRRELLQTK	ace-M<ox>C<cmm>NREPFHRRRELLQTK-COOH	1		QE	Acetylation of protein N-term (1), Oxidation of M (1)	Carbamidomethylation of C (2)	Acetylation of protein N-term (1: Very Confident), Oxidation of M (1: Very Confident)	0	1	100.0	Doubtful
+3	X5M5N0	X5M5N0 (Doubtful)	1	1	IPAQYPEIR	NH2-IPAQYPEIR-COOH	562	SR	EI				0	1	100.0	Doubtful
+4	Q9TZD6	Q9TZD6 (Doubtful)	1	1	SDAGSYNTSDKRSSR	NH2-SDAGSYNTSDKRSSR-COOH	182	FR	GG				1	4	100.0	Doubtful
+5	C32E12.2_1	C32E12.2_1 (Doubtful)	1	1	YLQSTVVWLFIMQNCMIK	NH2-YLQSTVVWLFIM<ox>QNC<cmm>MIK-COOH	15	LK	YG	Oxidation of M (12)	Carbamidomethylation of C (15)	Oxidation of M (12: Random)	2	5	100.0	Doubtful
+6	Q10125	Q10125 (Doubtful)	1	1	ARDPDPQNQVIAGIPDLSDPCFR	NH2-ARDPDPQNQVIAGIPDLSDPC<cmm>FR-COOH	115	QK	RY		Carbamidomethylation of C (21)		0	3	100.0	Doubtful
+7	C04A11.4_2	C04A11.4_2 (Doubtful)	1	1	MIILEEFMWTTTMIRSK	NH2-MIILEEFM<ox>WTTTM<ox>IRSK-COOH	1		QL	Oxidation of M (8, 13)		Oxidation of M (1: Random, 8: Very Confident, 13: Very Confident)	1	3	100.0	Doubtful
+8	F53C3.12_1	F53C3.12_1 (Doubtful)	1	1	APLINCSMR	NH2-APLINC<cmm>SM<ox>R-COOH	49	TR	TA	Oxidation of M (8)	Carbamidomethylation of C (6)	Oxidation of M (8: Very Confident)	5	9	100.0	Doubtful

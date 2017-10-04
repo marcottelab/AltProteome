@@ -1,0 +1,4 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	C45G9.15_1	C45G9.15_1 (Doubtful)	1	1	FGQSLCYQRR	NH2-FGQSLC<cmm>YQRR-COOH	18	YR	RI		Carbamidomethylation of C (6)		1	2	44.44444444444444	Doubtful
+2	Q95ZM7	Q95ZM7 (Doubtful)	1	1	PIAYQMGLQNR	ace-PIAYQM<ox>GLQNR-COOH	2	M	WF	Acetylation of protein N-term (1), Oxidation of M (6)		Acetylation of protein N-term (1: Very Confident), Oxidation of M (6: Very Confident)	1	2	85.71428571428572	Doubtful
+3	O02039	O02039 (Doubtful)	1	1	EFGDLLACPTGK	NH2-EFGDLLAC<cmm>PTGK-COOH	415	RK	RV		Carbamidomethylation of C (8)		2	7	85.71428571428572	Doubtful

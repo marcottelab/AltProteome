@@ -1,0 +1,3 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	O02056	O02056 (Doubtful)	1	1	GGGTHRSGQGAFGNMCR	NH2-GGGTHRSGQGAFGNM<ox>C<cmm>R-COOH	80	VR	GG	Oxidation of M (15)	Carbamidomethylation of C (16)	Oxidation of M (15: Very Confident)	1	1	100.0	Doubtful
+2	F53C3.12_1	F53C3.12_1 (Doubtful)	1	1	APLINCSMR	NH2-APLINC<cmm>SM<ox>R-COOH	49	TR	TA	Oxidation of M (8)	Carbamidomethylation of C (6)	Oxidation of M (8: Very Confident)	2	2	100.0	Doubtful

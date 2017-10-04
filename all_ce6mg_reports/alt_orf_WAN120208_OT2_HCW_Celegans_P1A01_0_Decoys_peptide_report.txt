@@ -1,0 +1,7 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	T21G5.2_1	1	1	FIHISHSIR	NH2-FIHISHSIR-COOH	M	NI				1	1	7.971014492753625	0	Doubtful
+2	ZC8.4b_7	1	1	NWREKREIMMRR	NH2-NWREKREIM<ox>MRR-COOH	M	ST	Oxidation of M (9)		Oxidation of M (9: Random)	1	1	7.971014492753625	0	Doubtful
+3	Q9U297	1	1	MPPRRLSEEYR	NH2-MPPRRLSEEYR-COOH	PR	AE				1	6	7.971014492753625	0	Doubtful
+4	O01923	1	1	SLTEDSPSIGTLYELLKSRHLR	NH2-SLTEDSPSIGTLYELLKSRHLR-COOH	IK	VS				1	1	7.971014492753625	0	Doubtful
+5	G5EGB1; Q20684	1	1	AHESAFPVPYR	ace-AHESAFPVPYR-COOH	M; EM	SK; SK	Acetylation of protein N-term (1)			1	1	7.971014492753625	0	Doubtful
+6	Q19404	1	1	YEKNQNQKK	NH2-YEKNQNQKK-COOH	KK	NP				1	2	7.971014492753625	0	Doubtful

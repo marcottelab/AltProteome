@@ -1,0 +1,5 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	O61790	O61790 (Doubtful)	1	1	TAATATANGNHSIED	NH2-TAATATANGNHSIED-COOH	2	M	PV				0	2	12.637362637362637	Doubtful
+2	P46769	P46769 (Doubtful)	1	1	PTETEKEETGAHADVAEA	NH2-PTETEKEETGAHADVAEA-COOH	212	RD	QE				0	2	12.637362637362637	Doubtful
+3	P46769	P46769 (Doubtful)	1	1	PDLYFYRD	NH2-PDLYFYRD-COOH	204	IM	PT				0	2	12.637362637362637	Doubtful
+4	P46769	P46769 (Doubtful)	1	1	TFKEPRLLVISD	NH2-TFKEPRLLVISD-COOH	115	QK	PR				0	4	12.637362637362637	Doubtful

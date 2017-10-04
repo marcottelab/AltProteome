@@ -1,0 +1,2 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	A3RMS2; G8JY07; Q17770	A3RMS2, G8JY07, Q17770 (Doubtful)	1	1	LDATVHGEVSSK	NH2-LDATVHGEVSSK-COOH	81; 81; 81	GK; GK; GK	FE; FE; FE				1	1	31.521739130434778	Doubtful

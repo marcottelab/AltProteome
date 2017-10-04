@@ -1,0 +1,11 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P36573	P36573 (Doubtful)	1	1	SAEEPKSYPVPYR	ace-SAEEPKSYPVPYR-COOH	2	M	SV	Acetylation of protein N-term (1)			2	2	0.0	Doubtful
+2	O61790	O61790 (Doubtful)	1	1	TAATATANGNHSIED	NH2-TAATATANGNHSIED-COOH	2	M	PV				2	2	0.0	Doubtful
+3	O45815; P0DM41; P0DM42; P10984; P10986; Q6A8K1	O45815, P0DM41, P0DM42, P10984, P10986, Q6A8K1 (Doubtful)	1	1	AGFAGDDAPR	NH2-AGFAGDDAPR-COOH	19; 20; 20; 20; 20; 6	CK; CK; CK; CK; CK; ER	AV; AV; AV; AV; AV; AV				1	2	0.0	Doubtful
+4	P29691	P29691 (Doubtful)	1	1	AYLPVNESFGFTADLR	NH2-AYLPVNESFGFTADLR-COOH	780	VK	SN				1	1	0.0	Doubtful
+5	P49197	P49197 (Doubtful)	1	1	LAQKDGLVPRDDVKSN	NH2-LAQKDGLVPRDDVKSN-COOH	73	LR					2	4	0.0	Doubtful
+6	P29691	P29691 (Doubtful)	1	1	VPALDNYLDKM	NH2-VPALDNYLDKM<ox>-COOH	842	EG		Oxidation of M (11)		Oxidation of M (11: Very Confident)	2	2	0.0	Doubtful
+7	P49197	P49197 (Doubtful)	1	1	MQNDAGQTVELYVPRK	ace-M<ox>QNDAGQTVELYVPRK-COOH	1		CS	Acetylation of protein N-term (1), Oxidation of M (1)		Acetylation of protein N-term (1: Very Confident), Oxidation of M (1: Very Confident)	1	1	0.0	Doubtful
+8	P49197	P49197 (Doubtful)	1	1	LAQKDGLVPR	NH2-LAQKDGLVPR-COOH	73	LR	DD				2	2	0.0	Doubtful
+9	G8JY74; P53013	G8JY74, P53013 (Doubtful)	1	1	SVEKSDGSSGKVTK	NH2-SVEKSDGSSGKVTK-COOH	406; 440	IK; IK	SA; SA				2	3	0.0	Doubtful
+10	G5EBP4; G5EEG8; G5EEP9	G5EBP4, G5EEG8, G5EEP9 (Doubtful)	1	1	FRHEGDEDVVEKPD	NH2-FRHEGDEDVVEKPD-COOH	1298, 1501, 1704, 1907, 2110, 2313, 2516, 2719, 2922, 3125; 1287, 1490, 1693, 1896, 2099, 2302, 2505, 2708, 2911, 3114; 1287, 1490, 1693, 1896, 2099, 2302, 2505, 2708, 2911, 3114	AR, AR, AR, AR, AR, AR, AR, AR, AR, AR; AR, AR, AR, AR, AR, AR, AR, AR, AR, AR; AR, AR, AR, AR, AR, AR, AR, AR, AR, AR	PY, PY, PY, PY, PY, PY, PY, PY, PY, PY; PY, PY, PY, PY, PY, PY, PY, PY, PY, PY; PY, PY, PY, PY, PY, PY, PY, PY, PY, PY				1	4	0.0	Doubtful

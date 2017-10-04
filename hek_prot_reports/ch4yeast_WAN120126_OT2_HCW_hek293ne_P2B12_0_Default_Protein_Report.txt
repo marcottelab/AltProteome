@@ -1,8 +1,0 @@
-	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
-1	P81605				11.27682755014452	63.64	10.0	765.091636297871					Single Protein		P81605	1	1	1	1	1	1	1	1	62.5	Doubtful
-2	CTRA_BOVIN				25.649765464359135	66.94	8.57	653.1270065957436					Single Protein		CTRA_BOVIN	1	1	1	1	1	1	2	2	62.5	Doubtful
-3	P19338				76.568358644663	83.24	3.1	90.6199907628612					Single Protein		P19338	1	3	3	1	3	1	1	4	62.5	Doubtful
-4	TRY1_BOVIN				25.408419297583514	82.3	71.6	73843.19825761253	Oxidation of M(M106, M180)	Oxidation of M(2)			Single Protein		TRY1_BOVIN	38	44	43	37	43	37	529	555	62.5	Doubtful
-5	Q13094				60.15107907456671	66.42	3.56	756.4465330628668					Single Protein		Q13094	1	1	1	1	1	1	5	22	62.5	Doubtful
-6	P35030				32.50802898407952	73.68	8.88	916.5160226484915	Oxidation of M(M166)	Oxidation of M(1)			Single Protein		P35030	3	4	3	2	3	2	8	9	62.5	Doubtful
-7	Q6ZNL6				159.79111898474147	72.5	1.3	101.0498387563226					Single Protein		Q6ZNL6	1	1	1	1	1	1	2	2	80.0	Doubtful

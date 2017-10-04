@@ -64,7 +64,7 @@ cmd2 = ['java', '-cp', PeptideShaker, 'eu.isas.peptideshaker.cmd.PeptideShakerCL
 		'-out', '"' + out_path + '/peptide_shaker/' + sample + '.cpsx' + '"'
 ]
 
-print('Running PeptudeShaker on %s\n' % mgf_file)
+print('Running PeptideShaker on %s\n' % mgf_file)
 process2 = subprocess.Popen(cmd2)
 process2.wait()
 

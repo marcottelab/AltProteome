@@ -1,0 +1,6 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	G8JY74; P53013	G8JY74, P53013 (Doubtful)	1	1	SVEKSDGSSGKVTK	NH2-SVEKSDGSSGKVTK-COOH	406; 440	IK; IK	SA; SA				4	4	5.483744614179398	Doubtful
+2	Q93896	Q93896 (Doubtful)	1	1	PDNNQQADEKAAAHQD	NH2-PDNNQQADEKAAAHQD-COOH	2	M	PE				2	2	5.483744614179398	Doubtful
+3	Q19626	Q19626 (Doubtful)	1	1	AAVDVNQPITGHK	ace-AAVDVNQPITGHK-COOH	2	M	SA	Acetylation of protein N-term (1)			1	1	5.483744614179398	Doubtful
+4	G8JY74; P53013	G8JY74, P53013 (Doubtful)	1	1	SVEKSDGSSGKVTKSAQK	NH2-SVEKSDGSSGKVTKSAQK-COOH	406; 440	IK; IK	AA; AA				1	1	5.483744614179398	Doubtful
+5	P61866	P61866 (Doubtful)	1	1	NVKHNGDLTVDTIIK	NH2-NVKHNGDLTVDTIIK-COOH	97	VK	IA				2	2	5.483744614179398	Doubtful

@@ -1,0 +1,5 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	Q688C1	Q688C1 (Doubtful)	1	1	DEKMVIFPITNHYYNMLK	NH2-DEKMVIFPITNHYYNMLK-COOH	51	RR	LT				1	3	80.0	Doubtful
+2	Q17930	Q17930 (Doubtful)	1	1	CSSLHDEMISKQCQPVLLK	NH2-C<cmm>SSLHDEM<ox>ISKQC<cmm>QPVLLK-COOH	191	KK	LG	Oxidation of M (8)	Carbamidomethylation of C (1, 13)	Oxidation of M (8: Very Confident)	0	10	100.0	Doubtful
+3	Q18241	Q18241 (Doubtful)	1	1	SFIDRFEKPIKNGQCVDSSPDDVK	NH2-SFIDRFEKPIKNGQC<cmm>VDSSPDDVK-COOH	519	RK	IA		Carbamidomethylation of C (15)		0	2	80.0	Doubtful
+4	C23G10.7a.2_4; C23G10.7c.1_4	C23G10.7a.2_4, C23G10.7c.1_4 (Doubtful)	1	1	MSHSSSGPFQLLNDLDLMLK	ace-MSHSSSGPFQLLNDLDLMLK-COOH	1; 1		LT; LT	Acetylation of protein N-term (1)			2	4	100.0	Doubtful

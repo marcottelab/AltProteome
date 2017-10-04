@@ -1,9 +1,0 @@
-	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
-1	Q5THJ4				491.6060420525409	86.17	0.0	0.0					Single Protein		Q5THJ4	0	3	3	0	3	0	0	5	10.398230088495575	Doubtful
-2	K22E_HUMAN				65.82539290353346	87.6	21.71	3023.6110357423736	Oxidation of M(M343)	Oxidation of M(1)			Related Proteins	P35908	K22E_HUMAN, P35908	8	12	9	7	10	8	10	15	10.398230088495575	Doubtful
-3	TRY1_BOVIN				25.408419297583514	82.3	61.73	61603.84871496122	Oxidation of M(M106)	Oxidation of M(1)			Single Protein		TRY1_BOVIN	12	17	17	12	17	12	51	81	10.398230088495575	Doubtful
-4	K1C10_HUMAN				59.48287701205572	66.27	17.2	2740.0387115532744	Oxidation of M(M306)	Oxidation of M(1)			Related Proteins	P13645	K1C10_HUMAN, P13645	6	11	0	0	11	6	11	28	10.398230088495575	Doubtful
-5	Q03001				860.1273221698586	91.76	0.0	0.0					Single Protein		Q03001	0	4	4	0	4	0	0	6	10.398230088495575	Doubtful
-6	Q9H6Y2				42.04358967315573	91.64	0.0	0.0					Single Protein		Q9H6Y2	0	3	3	0	3	0	0	6	10.398230088495575	Doubtful
-7	Q9NYQ8				479.0179873449912	71.1	0.0	0.0					Single Protein		Q9NYQ8	0	4	4	0	4	0	0	7	10.398230088495575	Doubtful
-8	K2C1_HUMAN				65.84694613410919	69.21	7.47	1104.4978647064945					Related Proteins	P04264	K2C1_HUMAN, P04264	3	9	0	0	7	3	4	11	10.398230088495575	Doubtful

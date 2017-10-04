@@ -1,0 +1,7 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	D1086.3_2_REVERSED	1	1	LVNLSTLEMK	NH2-LVNLSTLEM<ox>K-COOH	FR	SW	Oxidation of M (9)		Oxidation of M (9: Very Confident)	0	57	8.737864077669899	1	Doubtful
+2	P34460; Q9U2H9	1	1	KLQIITVIEDLK	NH2-KLQIITVIEDLK-COOH	IK; IK	VS; VS				3	3	8.737864077669899	0	Doubtful
+3	P13528	1	1	QLETFAEHFK	NH2-QLETFAEHFK-COOH	PR	QR				2	19	8.737864077669899	0	Doubtful
+4	G5EFP6	1	1	YILCQFILVVIMK	NH2-YILC<cmm>QFILVVIMK-COOH	NK	IT		Carbamidomethylation of C (4)		0	24	8.737864077669899	0	Doubtful
+5	N1NTC6_REVERSED; Q21803_REVERSED	1	1	IARPNMGVEECK	NH2-IARPNM<ox>GVEEC<cmm>K-COOH	AR; AR	SF; SF	Oxidation of M (6)	Carbamidomethylation of C (11)	Oxidation of M (6: Very Confident)	0	60	8.737864077669899	1	Doubtful
+6	Q9BIG5	1	1	QLWMDEGVKK	NH2-QLWM<ox>DEGVKK-COOH	MK	CV	Oxidation of M (4)		Oxidation of M (4: Very Confident)	1	17	8.737864077669899	0	Doubtful

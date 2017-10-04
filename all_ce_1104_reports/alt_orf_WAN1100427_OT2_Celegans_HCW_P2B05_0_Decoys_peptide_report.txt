@@ -1,0 +1,7 @@
+	Protein(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	C23G10.7a.2_4; C23G10.7c.1_4	1	1	MSHSSSGPFQLLNDLDLMLK	ace-MSHSSSGPFQLLNDLDLM<ox>LK-COOH		LT; LT	Acetylation of protein N-term (1), Oxidation of M (18)		Acetylation of protein N-term (1: Very Confident), Oxidation of M (18: Very Confident)	1	1	100.0	0	Doubtful
+2	P09446	1	1	IFTPEEISSMVLLK	NH2-IFTPEEISSM<ox>VLLK-COOH	NK	MK	Oxidation of M (10)		Oxidation of M (10: Very Confident)	1	1	100.0	0	Doubtful
+3	Q23621	1	1	DIVHSGLEYTMQR	NH2-DIVHSGLEYTM<ox>QR-COOH	EK	SG	Oxidation of M (11)		Oxidation of M (11: Very Confident)	2	2	100.0	0	Doubtful
+4	F53C3.12_1	1	1	APLINCSMR	NH2-APLINC<cmm>SM<ox>R-COOH	TR	TA	Oxidation of M (8)	Carbamidomethylation of C (6)	Oxidation of M (8: Very Confident)	0	5	88.88888888888889	0	Doubtful
+5	F10F2.4_1	1	1	MRIEPILCTK	ace-MRIEPILC<cmm>TK-COOH		GY	Acetylation of protein N-term (1)	Carbamidomethylation of C (8)		2	2	88.88888888888889	0	Doubtful
+6	Q23621	1	1	IIAEAANGPTTPAADR	NH2-IIAEAANGPTTPAADR-COOH	AK	IL				1	2	100.0	0	Doubtful
