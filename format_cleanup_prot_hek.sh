@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ############################################################
-# This script parses all *PSM_Reports.txt files in a directory to a single file containing every unique protein with unique PSMs
+# This script parses all *Decoys_PSM_Reports.txt files in a directory to a single file containing every unique protein with unique PSMs
 # 
 ############################################################
 

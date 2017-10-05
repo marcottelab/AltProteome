@@ -1,0 +1,45 @@
+Altorf summary file
+
+Human tissues fractionations-
+	Search database - 142275 sequences excluding decoys (Alts cleaned up using CD-HIT to get rid of redundancy)
+		HEK---  
+			Total proteins identified - 5890 (Prots + Decoys)
+				Decoys  - 1362 (362 AltDecoys + 1000 RefDecoys)
+				Reference proteins - 3873
+				Altorfs - 655
+			FDRs - 
+				Protein - 30%
+				Peptide - 1%
+				PSM - 1%
+	
+		HeLa---
+			Total proteins identified - 5552 (Prots + Decoys)
+				Decoys  - 1201 (300 AltDecoys + 901 RefDecoys)
+				Reference proteins - 3681
+				Altorfs - 670
+			FDRs - 
+				Protein - 27%
+				Peptide - 1%
+				PSM - 1%
+
+C.elegans fractionations-
+	Search database - 62048 sequences exculding decoys (Alts cleaned up using CD-HIT to get rid of redundancy)
+		Ce_6mg
+			Total proteins identified - 2173 (Prots + Decoys)
+				Decoys - 365 (81 AltDecoys + 284 RefDecoys)
+				Reference proteins - 1661
+				Altorfs - 147
+			FDRs -
+				Protein - 20%
+				Peptide - 1%
+				PSM - 1%
+
+		Ce_1104
+			Total proteins identified - 3488 (Prots + Decoys)
+				Decoys - 779 (184 AltDecoys + 595 RefDecoys)
+				Reference proteins - 2334
+				Altorfs - 375
+			FDRs -
+				Protein - 29%
+				Peptide - 1%
+				PSM - 1%
