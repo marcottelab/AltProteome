@@ -1,0 +1,500 @@
+   41  cd pwiz-bin-darwin-x86-xgcc40-release-3
+   42  cd pwiz-bin-darwin-x86-xgcc40-release-3_0_5759/
+   43  ls
+   44  ls
+   45  bash msconvert 
+   46  echo $PATH
+   47  nano ~/.bash_profile
+   48  pwd
+   49  ls
+   50  msconvert
+   51  cd Applications
+   52  ls
+   53  cd ..
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd Applications/
+   60  ls
+   61  cd pwiz-bin-darwin-x86-xgcc40-release-
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd Applications/
+   66  ls
+   67  cd pwiz-bin-darwin-x86-xgcc40-release-3_0_5759/
+   68  ls
+   69  top msconvert 
+   70  cd
+   71  cd Box\ Sync/Marcotte_Lab/ch4yeast/
+   72  ls
+   73  ls
+   74  msconvert
+   75  msconvert --help
+   76  cd
+   77  ls
+   78  touch ~./bash_profile
+   79  cd ..
+   80  ls
+   81  cd ..
+   82  ls
+   83  cd ..
+   84  ls
+   85  cd bin
+   86  ls
+   87  cd ..
+   88  ls
+   89  cd
+   90  ls
+   91  top bash_profile 
+   92  q
+   93  ~/.config/
+   94  cd ..
+   95  ls
+   96  cd ..
+   97  ls
+   98  cd
+   99  la
+  100  ls
+  101  top .bash_profile
+  102  nano .bash_profile
+  103  nano .bash_profile
+  104  ls
+  105  nano bash_profile 
+  106  nano .bash_profile
+  107  echo $PATH
+  108  ls
+  109  cdc Applications/
+  110  ls
+  111  cd Applications/
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd ..
+  116  ls
+  117  cd ..
+  118  ls
+  119  cd Applications/
+  120  ls
+  121  pwd
+  122  cd pwiz-bin-darwin-x86-xgcc40-release-3_0_5759/
+  123  ls
+  124  echo $Path
+  125  echo $PATH
+  126  cd ../../..
+  127  ls
+  128  nano /etc/paths
+  129  cd
+  130  ls
+  131  nano ./bash_profile 
+  132  ls
+  133  cd
+  134  cd bash_profile 
+  135  top bash_profile 
+  136  nano .bash_profile
+  137  nano .bash_profile
+  138  nano .bash_profile
+  139  ssh hoprid
+  140  ssh hoprid
+  141  top
+  142  ssh hoprid
+  143  ssh hoprid
+  144  ls
+  145  ssh hoprid
+  146  msconvert 
+  147  ls
+  148  cd Box\ Sync/Marcotte_Lab/ch4yeast/ch4_mgfs/
+  149  ls
+  150  msconvert .*mzXML --mgf
+  151  ls
+  152  msconvert *.mzXML --mgf
+  153  ls
+  154  ls
+  155  scp *.mgf rgarge@hopper.icmb.utexas.edu:/stor/work/Marcotte/project/rgarge/ch4yeast
+  156  scp /Applications/pwiz-bin-darwin-x86-xgcc40-release-3_0_5759 rgarge@hopper.icmb.utexas.edu:/home/
+  157  scp -r /Applications/pwiz-bin-darwin-x86-xgcc40-release-3_0_5759 rgarge@hopper.icmb.utexas.edu:/home/
+  158  scp -r /Applications/pwiz-bin-darwin-x86-xgcc40-release-3_0_5759 rgarge@hopper.icmb.utexas.edu:/home/
+  159  cd
+  160  nano .bash_profile
+  161  cd Box\ Sync/Marcotte_Lab/ch4yeast/ch4_mgfs/
+  162  msconvert CH4_YPG_1b_90min_20170821.mzXML --mgf
+  163  scp CH4_YPG_1b_90min_20170821.mgf rgarge@hopper.icmb.utexas.edu:/stor/work/Marcotte/project/rgarge/ch4yeast
+  164  scp -r Downloads/PeptideShaker-1.16.12.zip rgarge@hopper.icmb.utexas.edu: /home/
+  165  scp -r Downloads/PeptideShaker-1.16.12.zip rgarge@hopper.icmb.utexas.edu: /home
+  166  scp -r Downloads/PeptideShaker-1.16.12.zip rgarge@hopper.icmb.utexas.edu: /home/rgarge
+  167  scp -r Downloads/PeptideShaker-1.16.12.zip rgarge@hopper.icmb.utexas.edu:home/rgarge
+  168  scp -r Downloads/PeptideShaker-1.16.12.zip rgarge@hopper.icmb.utexas.edu:home/
+  169  scp Downloads/PeptideShaker-1.16.12.zip rgarge@hopper.icmb.utexas.edu:/home 
+  170  top
+  171  ssh hoprid
+  172  s
+  173  ssh hoprid
+  174  exit
+  175  ssh lonerid
+  176  exit
+  177  ssh hoprid
+  178  ls
+  179  ssh hoprid
+  180  ls
+  181  ls
+  182  ssh hoprid
+  183  ssh lonerid
+  184  ls
+  185  ssh lonerid
+  186  ls
+  187  ssh hoprid
+  188  ssh hoprid
+  189  ls
+  190  ssh lonerid
+  191  ssh hoprid
+  192  ssh hoprid
+  193  cd Downloads/
+  194  ls
+  195  ls
+  196  ls
+  197  ls
+  198  python tandem_pepxml-to-logE_hit_list.py .pepxml
+  199  python tandem_pepxml-to-logE_hit_list.py .xml
+  200  python tandem_pepxml-to-logE_hit_list.py WAN100329_OT2_HS3NE_HCW_P1A02.t.xml 
+  201  ls
+  202  ssh perrid
+  203  ssh adarid
+  204  ssh perrid
+  205  ls
+  206  ssh adarid
+  207  ssh adarid
+  208  exit
+  209  ssh perrid
+  210  exit
+  211  ssh hoprid
+  212  exit
+  213  ls
+  214  ssh hoprid
+  215  ssh hoprid
+  216  ls
+  217  ls
+  218  top
+  219  q
+  220  ssh hoprid
+  221  ssh lonerid
+  222  ssh loneird
+  223  ssh lonerid
+  224  scp Downloads/msblender2elution.py rgarge@ls5.tacc.utexas.edu:/home/
+  225  pwd
+  226  scp Downloads/msblender2elution.py rgarge@ls5.tacc.utexas.edu:/home
+  227  scp Downloads/msblender2elution.py rgarge@ls5.tacc.utexas.edu:/scratch/04157/rgarge/run_msblender/scripts
+  228  ls
+  229  ls
+  230  ssh stamprid
+  231  ssh hoprid
+  232  ssh hoprid
+  233  ssh hoprid
+  234  ssh lonerid
+  235  ssh lonerid
+  236  ssh lonerid
+  237  ssh hoprid
+  238  ls
+  239  ssh hoprid
+  240  ls
+  241  defaults read /Library/Preferences/com.apple.Bluetooth.plist ControllerPowerState 0
+  242  killall blued
+  243  ls
+  244  ssh hoprid
+  245  ssh hoprid
+  246  ssh lonerid
+  247  ssh hoprid
+  248  ssh hoprid
+  249  ls
+  250  sl
+  251  ssh hoprid
+  252  ls
+  253  cd Box\ Sync/Marcotte_Lab/
+  254  ls
+  255  cd marcottelab_AltProteome/
+  256  ls
+  257  cd python_scripts/
+  258  ls
+  259  chmod 777 peptide_report_parser_confidents.py 
+  260  ls
+  261  ls -ltr
+  262  [wd
+  263  pwd
+  264  ssh hoprid
+  265  ssh hoprid
+  266  ssh hoprid
+  267  ssh hoprid
+  268  ssh hoprid
+  269  ls
+  270  ssh hoprid
+  271  pwd
+  272  cd
+  273  pwd
+  274  pwd
+  275  la
+  276  la
+  277  ls
+  278  cd ..
+  279  ls
+  280  cd ..
+  281  ls
+  282  cd ..
+  283  ls
+  284  cd home/
+  285  ls
+  286  la
+  287  ls
+  288  cd ..
+  289  cd Library/
+  290  ls
+  291  cd ..
+  292  ls
+  293  pwd
+  294  chmod 777 home
+  295  cd
+  296  .peptideshaker/
+  297  ls
+  298  cd .peptideshaker/
+  299  ls
+  300  defaults write com.apple.finder AppleShowAllFiles YES
+  301  defaults write com.apple.finder AppleShowAllFiles YES
+  302  cd bin
+  303  cd
+  304  ls
+  305  cd bin/
+  306  ls
+  307  cd ..
+  308  ls
+  309  profiles 
+  310  ssh hoprid
+  311  ssh hoprid
+  312  exit
+  313  ls
+  314  ls -ltr
+  315  chmod 777 *.py
+  316  ls
+  317  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  318  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  319  ls
+  320  ls
+  321  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  322  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  323  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  324  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  325  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  326  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  327  python protein_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  328  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  329  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  330  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  331  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  332  python peptide_report_parser_confidents_and_fraction.py ../hek_prot_reports/
+  333  python protein_report_parser_confidents_and_fraction.py ../hela_prot_reports/
+  334  python protein_report_parser_confidents_and_fraction.py ../hela_prot_reports/
+  335  python protein_report_parser_confidents_and_fraction.py ../hela_prot_reports/
+  336  ls
+  337  cd ..
+  338  ls
+  339  pwd
+  340  ks
+  341  ls
+  342  ./format_cleanup.sh 
+  343  chmod 777 format_cleanup.sh 
+  344  ./format_cleanup.sh 
+  345  ./format_cleanup.sh 
+  346  ./format_cleanup.sh 
+  347  awk
+  348  ./format_cleanup.sh 
+  349  ./format_cleanup.sh hek_prot_reports/*PSM_Report.txt >hek_fracs_out_clean.txt
+  350  ./format_cleanup.sh hek_prot_reports/*PSM_Report.txt >hek_fracs_out_clean.txt
+  351  ./format_cleanup.sh hek_prot_reports/*PSM_Report.txt >hek_fracs_out_clean.txt
+  352  cd hek_prot_reports
+  353  ../format_cleanup.sh *PSM_Report.txt >../hek_fracs_out_clean.txt
+  354  ../format_cleanup.sh *PSM_Report.txt >../hek_fracs_out_clean.txt
+  355  ../format_cleanup.sh *PSM_Report.txt >../hek_fracs_out_clean.txt
+  356  ../format_cleanup.sh *PSM_Report.txt >../hek_fracs_out_clean.txt
+  357  ../format_cleanup.sh *PSM_Report.txt >../hek_fracs_out_clean.txt
+  358  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  359  chmod 777 ../format_cleanup_prot.sh 
+  360  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  361  ls
+  362  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  363  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  364  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  365  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  366  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  367  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  368  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  369  cd ../hela_prot_reports
+  370  ../format_cleanup_prot.sh *PSM_Report.txt >../hela_fracs_out_clean_prot.txt
+  371  ../format_cleanup_prot_hela.sh *PSM_Report.txt >../hela_fracs_out_clean_prot.txt
+  372  chmod 777 ../format_cleanup_prot_hela.sh alt_orf_WAN100[B
+  373  ../format_cleanup_prot_hela.sh *PSM_Report.txt >../hela_fracs_out_clean_prot.txt
+  374  ../format_cleanup_prot_hela.sh *PSM_Report.txt >../hela_fracs_out_clean_prot.txt
+  375  cd ..
+  376  cd hek_prot_reports
+  377  ls
+  378  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  379  ls
+  380  cd ..
+  381  ls
+  382  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  383  ls
+  384  cd hek_prot_reports
+  385  ../format_cleanup_prot.sh *PSM_Report.txt >../hek_fracs_out_clean_prot.txt
+  386   
+  387  ls
+  388  ls
+  389  cd ..
+  390  ls
+  391  cd hela_prot100FDR_reports/
+  392   ../format_cleanup_prot_hela.sh 
+  393  fg
+  394   ../format_cleanup_prot_hela.sh *.PSM_Report.txt >hela_100fdr_clean_prot.txt
+  395   ../format_cleanup_prot_hela.sh *PSM_Report.txt >hela_100fdr_clean_prot.txt
+  396  cd ..
+  397  ls
+  398  python python_scripts/protein_report_parser_confidents_and_fraction.py hela_prot100FDR_reports/
+  399  python python_scripts/protein_report_parser_confidents_and_fraction.py hek_prot100FDR_reports/
+  400  cd hek_prot100FDR_reports
+  401  ../format_cleanup_prot_hela.sh *PSM_Report.txt 
+  402  ../format_cleanup_prot_hela.sh *PSM_Report.txt > ../hek_100fdr_clean_prot.txt
+  403  exit
+  404  ssh hoprid
+  405  ssh hoprid
+  406  ssh hoprid
+  407  ssh hoprid
+  408  dp
+  409  ssh hoprid
+  410  ssh hoprid
+  411  sl
+  412  ssh hopid
+  413  ssh hoprid
+  414  ls
+  415  ssh hoprid
+  416  ls
+  417  ssh hoprid
+  418  ssh hoprid
+  419  ssh hoprid
+  420  ssh HOPRID
+  421  ssh hoprid
+  422  cd Downloads/
+  423  ls
+  424  ls *gen
+  425  ls .geneious
+  426  scp rkg_geneious.geneious rgarge@hopper.icmb.utexas.edu:/home/
+  427  scp rkg_geneious.geneious rgarge@hopper.icmb.utexas.edu:/home
+  428  scp rkg_geneious.geneious rgarge@hopper.icmb.utexas.edu:/home/rgarge
+  429  scp rkg_geneious.geneious rgarge@hopper.icmb.utexas.edu:/home/rgarge
+  430  bg
+  431  top
+  432  fg
+  433  users
+  434  ls
+  435  ssh hoprid
+  436  ssh hoprid
+  437  ssh hoprid
+  438  cd 
+  439  ls
+  440  cd Box\ Sync/Marcotte_Lab/
+  441  ls
+  442  cd marcottelab_AltProteome/
+  443  ls
+  444  bash format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_Report.txt > ce_6mg_clean_prot.txt
+  445  bash format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_Report > ce_6mg_clean_prot.txt
+  446  cd all_ce6mg_reports/
+  447  cd ..
+  448  ls
+  449  ls -ltr
+  450  chmod 777 format_cleanup_prot_ce6mg.sh 
+  451  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  452  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  453  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  454  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  455  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  456  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  457  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  458  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  459  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  460  ./format_cleanup_prot_ce6mg.sh all_ce6mg_reports/*Decoys_PSM_report.txt > ce_6mg_clean_prot.txt 
+  461  ssh hoprid
+  462  ls
+  463  ssh hoprid
+  464  ssh hoprid
+  465  ssh hoprid
+  466  ssh hoprid
+  467  ssh hoprid
+  468  top
+  469  ssh hoprid
+  470  ssh hoprid
+  471  ssh hoprid
+  472  cdp
+  473  cd Box\ Sync/Marcotte_Lab/marcottelab_AltProteome/
+  474  ls
+  475  cd all_ce_1104_reports/
+  476  ls
+  477  cd ..
+  478  chmod 777 format_cleanup_prot_ce_1104_mg.sh 
+  479  cd all_ce_1104_reports/
+  480  ls
+  481  ../format_cleanup_prot_ce_1104_mg.sh *Decoys_PSM_report.txt > ce_1104_clean_prot.txt
+  482  ../format_cleanup_prot_ce_1104_mg.sh *Decoys_PSM_report.txt > ../ce_1104_clean_prot.txt
+  483  defaults write com.apple.finder AppleShowAllFiles YES
+  484  ssh hoprid
+  485  ssh hoprid
+  486  cd Box\ Sync/Marcotte_Lab/marcottelab_AltProteome/
+  487  ls
+  488  cd hek_all_prot_reports/
+  489  ls
+  490  ../format_cleanup_prot_hek.sh *Decoys_PSM_report.txt > clean_hek_prot_out.txt
+  491  ../format_cleanup_prot_hek.sh *Decoys_PSM_report.txt > clean_hek_prot_out.txt
+  492  ls
+  493  pwd
+  494  top
+  495  ssh hoprid
+  496  cd
+  497  cd Downloads/
+  498  ls
+  499  unzip dnaResults_Plate_22043_Order_147496.zip 
+  500  ssh hoprid
+  501  cd Box\ Sync/Marcotte_Lab/marcottelab_AltProteome/
+  502  ls
+  503  cd hela_all_reports/
+  504  ls
+  505  ../format_cleanup_prot_hela.sh *Decoys_PSM_Report.txt > ../hela_clean_prot.txt
+  506  ../format_cleanup_prot_hela.sh *Decoys_PSM_Report.txt > ../hela_clean_prot.txt
+  507  cd ..
+  508  ./format_cleanup_prot_hela.sh hela_all_reports/*Decoys_PSM_Report.txt > hela_clean_prot.txt
+  509  ./format_cleanup_prot_hela.sh hela_all_reports/*Decoys_PSM_report.txt > hela_clean_prot.txt
+  510  ./format_cleanup_prot_hela.sh hela_all_reports/*Decoys_PSM_report.txt > hela_clean_prot.txt
+  511  cd hela_all_reports/
+  512  ../format_cleanup_prot_hela.sh *Decoys_PSM_report.txt > ../hela_clean_prot.txt
+  513  cd ..
+  514  cd hek_all_prot_reports/
+  515  ../format_cleanup_prot_hek.sh *Decoys_PSM_report.txt > ../hek_clean_prot.txt
+  516  pwd
+  517  cd ..
+  518  ls
+  519  cat hek_clean_prot.txt 
+  520  cat hek_clean_prot.txt | grep -v '_REVERSED' 
+  521  cat hek_clean_prot.txt | grep -v '_REVERSED' | wc -l
+  522  cat hek_clean_prot.txt | wc -l
+  523  cat hek_clean_prot.txt | grep -v '_REVERSED' > hek_cleanest_prot.txt 
+  524  cat hek_cleanest_prot.txt 
+  525  cat hek_cleanest_prot.txt | wc -l
+  526  cat hela_clean_prot.txt | grep -v '_REVERSED' > hela_cleanest_prot.txt 
+  527  cat hek_cleanest_prot.txt 
+  528  tail -n +2 hek_cleanest_prot.txt | head
+  529  tail -n +2 hek_cleanest_prot.txt
+  530  tail -n +2 hek_cleanest_prot.txt | cut -f2 | head
+  531  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c
+  532  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort
+  533  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c 
+  534  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c | sort -k 2,2n
+  535  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c | sort -k 2,2n | cat <(echo -e "Protein number\tSpectral Counts") - |head
+  536  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c | sort -k 2,2n | cat <(echo -e "Protein number\tSpectral Counts") <(awk 'BEGIN{OFS="\t"}{print}') |head
+  537  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c | sort -k 2,2n | awk 'BEGIN{OFS="\t"}{print}' | cat <(echo -e "Protein number\tSpectral Counts") - |head
+  538  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c | sort -k 2,2n | awk 'BEGIN{OFS="\t"}{print $1,$2}' | cat <(echo -e "Protein number\tSpectral Counts") - |head
+  539  tail -n +2 hek_cleanest_prot.txt | cut -f2 | sort | uniq -c | sort -k 2,2n | awk 'BEGIN{OFS="\t"}{print $1,$2}' | cat <(echo -e "Protein number\tSpectral Counts") - 
+  540  history > tmp.txt
