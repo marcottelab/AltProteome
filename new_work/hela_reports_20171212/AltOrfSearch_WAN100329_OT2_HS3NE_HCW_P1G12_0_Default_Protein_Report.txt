@@ -1,0 +1,17 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P53999				14.386410160891673	100.0	0.0	NaN					Single Protein		P53999	0	7	7	0	7	0	0	14	43.0622009569378	Doubtful
+2	Q15029				109.36628102068903	85.19	0.0	NaN					Single Protein		Q15029	0	13	13	0	13	0	0	18	43.0622009569378	Doubtful
+3	O76094				74.55997123673659	84.2	0.0	NaN					Single Protein		O76094	0	13	13	0	13	0	0	27	43.0622009569378	Doubtful
+4	P06454				12.195968941857553	47.75	0.0	NaN					Single Protein		P06454	0	2	2	0	2	0	0	3	43.0622009569378	Doubtful
+5	P12270				267.1311125207239	80.36	0.0	NaN					Single Protein		P12270	0	39	39	0	39	0	0	68	43.0622009569378	Doubtful
+6	P68363				50.119604615111854	73.84	0.0	NaN					Related Proteins	P68366, Q13748, Q6PEY2, Q71U36, Q9BQE3, Q9H853, Q9NY65	P68363, P68366, Q13748, Q6PEY2, Q71U36, Q9BQE3, Q9H853, Q9NY65	0	3	0	0	3	0	0	5	43.0622009569378	Doubtful
+7	O75643				244.35261769115783	90.03	0.0	NaN					Single Protein		O75643	0	6	6	0	6	0	0	7	43.0622009569378	Doubtful
+8	P29692				31.10278320777167	100.0	0.0	NaN					Single Protein		P29692	0	4	4	0	4	0	0	11	43.0622009569378	Doubtful
+9	P67870				24.926002234218686	81.86	0.0	NaN					Single Protein		P67870	0	4	4	0	4	0	0	6	43.0622009569378	Doubtful
+10	P26641				50.08714232857586	90.85	0.0	NaN					Single Protein		P26641	0	9	9	0	9	0	0	16	43.0622009569378	Doubtful
+11	Q9UHB9				70.68556140896806	94.26	0.0	NaN					Single Protein		Q9UHB9	0	14	14	0	14	0	0	26	43.0622009569378	Doubtful
+12	Q8IYB3				102.27412874174193	96.24	0.0	NaN					Single Protein		Q8IYB3	0	7	7	0	7	0	0	7	43.0622009569378	Doubtful
+13	Q9UHX1				59.83762419975925	67.44	0.0	NaN					Single Protein		Q9UHX1	0	3	3	0	3	0	0	8	43.0622009569378	Doubtful
+14	P68104				50.10910826932214	84.2	0.0	NaN					Related Proteins	Q05639, Q5VTE0	P68104, Q05639, Q5VTE0	0	4	4	0	4	0	0	5	43.0622009569378	Doubtful
+15	B2RXH8				32.0527546522516	88.4	0.0	NaN					Related Proteins	B7ZW38, O60812, P07910, P0DMR1	B2RXH8, B7ZW38, O60812, P07910, P0DMR1	0	3	0	0	3	0	0	5	43.0622009569378	Doubtful
+16	Q6P2Q9				273.42656038109743	92.55	0.0	NaN					Single Protein		Q6P2Q9	0	6	6	0	6	0	0	9	43.0622009569378	Doubtful

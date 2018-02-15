@@ -1,0 +1,11 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	IP_200833_1				6.32925465016726	100.0	16.67	6838.594639639816				Single Protein		IP_200833_1	1	1	1	1	1	1	4	100.0	0	Doubtful
+2	Q8N1N4				56.83049222411559	86.54	2.31	820.6313567567779				Single Protein		Q8N1N4	1	1	1	1	1	1	1	100.0	0	Doubtful
+3	P02533				51.52938407421822	87.29	4.03	1195.094208869094				Single Protein		P02533	2	2	1	1	1	2	3	100.0	0	Doubtful
+4	P35527				62.02681468242336	68.38	9.47	3669.724729158831				Single Protein		P35527	5	8	8	5	8	10	15	100.0	0	Doubtful
+5	P04264				65.99900087210398	69.25	33.23	6360.182630586702	Oxidation of M(M259, M262)	Oxidation of M(2)		Single Protein		P04264	21	28	23	17	23	41	70	100.0	0	Doubtful
+6	Q08554				99.92374912383887	82.21	1.68	1004.8547225593198				Single Protein		Q08554	1	1	1	1	1	2	2	100.0	0	Doubtful
+7	Q14CN4				55.842437763397974	92.37	2.35	1564.7631802565681				Related Proteins	Q3SY84, Q7RTS7, Q86Y46	Q14CN4, Q3SY84, Q7RTS7, Q86Y46	1	1	1	1	1	2	2	100.0	0	Doubtful
+8	P13647				62.33997694347283	73.56	7.29	3247.544597303609				Single Protein		P13647	6	7	2	1	2	16	23	100.0	0	Doubtful
+9	P13645				58.79169361540863	71.92	37.84	8598.077939068338	Oxidation of M(M271, M291)	Oxidation of M(2)		Single Protein		P13645	21	27	26	20	26	55	66	100.0	0	Doubtful
+10	P35908				65.39321717101762	93.11	41.63	4669.810696825998				Single Protein		P35908	24	27	20	18	21	53	65	100.0	0	Doubtful

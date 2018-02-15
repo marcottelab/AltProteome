@@ -1,0 +1,12 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P02538; P04259; P19013; P35908; P48668; Q01546	P35908 (Doubtful)	1	1	AQYEEIAQR	NH2-AQYEEIAQR-COOH	339; 339; 327; 354; 339; 359	VK; VK; VR; VK; VK; VR	SR; SR; SK; SK; SR; SK				1	1	100.0	Doubtful
+2	P04264	P04264 (Doubtful)	1	1	NMQDMVEDYR	NH2-NM<ox>QDM<ox>VEDYR-COOH	258	LK	NK	Oxidation of M (5, 2)		Oxidation of M (2: Very Confident, 5: Very Confident)	1	1	100.0	Doubtful
+3	P35908	P35908 (Doubtful)	1	1	GSSSGGGYSSGSSSYGSGGR	NH2-GSSSGGGYSSGSSSYGSGGR-COOH	525	GR	QS				1	1	100.0	Doubtful
+4	P52272	P52272 (Doubtful)	1	1	MGLAMGGGGGASFDR	NH2-M<ox>GLAM<ox>GGGGGASFDR-COOH	607	ER	AI	Oxidation of M (1, 5)		Oxidation of M (1: Very Confident, 5: Very Confident)	1	1	100.0	Doubtful
+5	P13645	P13645 (Doubtful)	1	1	SGGGGGGGGCGGGGGVSSLR	NH2-SGGGGGGGGC<cmm>GGGGGVSSLR-COOH	16	SR	IS		Carbamidomethylation of C (10)		1	1	100.0	Doubtful
+6	P35527	P35527 (Doubtful)	1	1	STMQELNSR	NH2-STMQELNSR-COOH	155	EK	LA				2	2	100.0	Doubtful
+7	P35527	P35527 (Doubtful)	1	1	SGGGGGGGLGSGGSIR	NH2-SGGGGGGGLGSGGSIR-COOH	14	SR	SS				1	1	100.0	Doubtful
+8	P35527	P35527 (Doubtful)	1	1	GGSGGSYGGGGSGGGYGGGSGSR	NH2-GGSGGSYGGGGSGGGYGGGSGSR-COOH	491	SR	GG				1	1	100.0	Doubtful
+9	P35908	P35908 (Doubtful)	1	1	GFSSGSAVVSGGSR	NH2-GFSSGSAVVSGGSR-COOH	21	FR	RS				1	1	100.0	Doubtful
+10	P02533; P08779; P13645; Q7Z3Y7; Q7Z3Y8; Q7Z3Y9; Q7Z3Z0	P13645 (Doubtful)	1	1	VTMQNLNDR	NH2-VTM<ox>QNLNDR-COOH	117; 119; 148; 88; 86; 85; 81	EK; EK; EK; EK; EK; EK; EK	LA; LA; LA; LA; LA; LA; LA	Oxidation of M (3)		Oxidation of M (3: Very Confident)	1	1	100.0	Doubtful
+11	P13645	P13645 (Doubtful)	1	1	SQYEQLAEQNRK	NH2-SQYEQLAEQNRK-COOH	323	MR	DA				1	2	100.0	Doubtful

@@ -1,0 +1,13 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P02533				51.52938407421822	87.29	2.33	278.2329684294113					Related Proteins	P08779, P13646, P19012, P35900, Q04695	P02533, P08779, P13646, P19012, P35900, Q04695	2	2	0	0	2	2	2	2	100.0	Doubtful
+2	P02768				69.32149565531064	100.0	10.84	11361.554176440883					Single Protein		P02768	7	8	8	7	8	7	39	57	100.0	Doubtful
+3	P81605				11.27682755014452	63.64	21.82	5158.439234681286					Single Protein		P81605	2	2	2	2	2	2	2	2	100.0	Doubtful
+4	O00522				84.29444262479272	90.49	1.09	2168.713191757898					Single Protein		O00522	1	1	1	1	1	1	6	11	100.0	Doubtful
+5	P35527				62.02681468242336	68.38	15.73	2345.112046439615					Single Protein		P35527	6	12	12	6	12	6	10	23	100.0	Doubtful
+6	P07477				26.54108894082115	69.64	9.31	2799.153073082868					Single Protein		P07477	2	3	2	2	3	2	3	32	100.0	Doubtful
+7	P04264				65.99900087210398	69.25	31.21	3669.6994578232734	Oxidation of M(M262, M296)	Oxidation of M(2)			Single Protein		P04264	20	31	26	17	26	17	42	66	100.0	Doubtful
+8	Q14CN4				55.842437763397974	92.37	0.0	0.0					Related Proteins	Q3SY84, Q7RTS7, Q86Y46	Q14CN4, Q3SY84, Q7RTS7, Q86Y46	0	1	0	0	1	0	1	1	86.66666666666667	Doubtful
+9	P35030				32.50802898407952	73.68	5.92	1970.237207690769	Oxidation of M(M166)	Oxidation of M(1)			Single Protein		P35030	3	4	4	3	4	3	3	5	100.0	Doubtful
+10	P13647				62.33997694347283	73.56	5.59	1811.9248924686958					Single Protein		P13647	3	6	1	1	1	1	8	12	100.0	Doubtful
+11	P13645				58.79169361540863	71.92	22.43	2888.585369422178					Single Protein		P13645	11	17	16	11	16	11	22	37	100.0	Doubtful
+12	P35908				65.39321717101762	93.11	23.63	2267.8803101791773					Single Protein		P35908	13	21	14	9	15	10	27	38	100.0	Doubtful

@@ -1,0 +1,10 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P35030	P35030 (Not Validated)	0	1	VVSAAHCYK	NH2-VVSAAHC<cmm>YK-COOH	115	QW	TR		Carbamidomethylation of C (7)		4	4	4.859335038363167	Doubtful
+2	P35030	P35030 (Not Validated)	0	1	TLDNDIMLIK	NH2-TLDNDIMLIK-COOH	160	RD	LS				0	2	4.859335038363167	Doubtful
+3	P07478; P35030	P35030 (Not Validated)	0	1	NRPGVYTK	NH2-NRPGVYTK-COOH	224; 281	QK; WK	VY; VY				2	2	4.859335038363167	Doubtful
+4	P19338	P19338 (Not Validated)	0	1	TLVLSNLSYSATEETLQEVFEK	NH2-TLVLSNLSYSATEETLQEVFEK-COOH	487	SK	AT				1	1	4.859335038363167	Doubtful
+5	P35030	P35030 (Not Validated)	0	1	TLDNDIMLIK	NH2-TLDNDIM<ox>LIK-COOH	160	RD	LS	Oxidation of M (7)		Oxidation of M (7: Very Confident)	1	2	4.859335038363167	Doubtful
+6	P07477	P07477 (Not Validated)	0	1	TLNNDIMLIK	NH2-TLNNDIMLIK-COOH	103	RK	LS				3	6	4.859335038363167	Doubtful
+7	Q13094	Q13094 (Not Validated)	0	1	KYHIDGARFLNLTENDIQK	NH2-KYHIDGARFLNLTENDIQK-COOH	38	VK	FP				0	29	4.859335038363167	Doubtful
+8	P81605	P81605 (Not Validated)	0	1	ENAGEDPGLAR	NH2-ENAGEDPGLAR-COOH	43	QK	QA				1	1	4.859335038363167	Doubtful
+9	P07477	P07477 (Not Validated)	0	1	TLNNDIMLIK	NH2-TLNNDIM<ox>LIK-COOH	103	RK	LS	Oxidation of M (7)		Oxidation of M (7: Very Confident)	0	2	4.859335038363167	Doubtful

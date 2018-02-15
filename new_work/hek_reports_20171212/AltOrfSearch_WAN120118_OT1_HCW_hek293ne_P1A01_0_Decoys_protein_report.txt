@@ -1,0 +1,13 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Decoy	Validation
+1	P02533				51.52938407421822	87.29	2.33	577.937224148185	Oxidation of M(M391)	Oxidation of M(1)		Related Proteins	Q04695	P02533, Q04695	1	1	0	0	1	2	2	10.216718266253865	0	Doubtful
+2	P81605				11.27682755014452	63.64	10.0	3401.5733764150314				Single Protein		P81605	1	1	1	1	1	1	1	10.216718266253865	0	Doubtful
+3	P08709				51.56043596016683	92.27	3.43	553.7445031373308				Single Protein		P08709	1	1	1	1	1	1	1	10.216718266253865	0	Doubtful
+4	P35527				62.02681468242336	68.38	22.47	3383.6476476980915	Oxidation of M(M157, M245, M269)	Oxidation of M(3)		Single Protein		P35527	11	14	14	11	14	21	27	10.216718266253865	0	Doubtful
+5	P07477				26.54108894082115	69.64	9.31	16612.335094119928	Oxidation of M(M109)	Oxidation of M(1)		Single Protein		P07477	3	6	4	2	4	17	72	10.216718266253865	0	Doubtful
+6	P04264				65.99900087210398	69.25	33.85	4324.126737406523	Oxidation of M(M259, M262, M296, M493)	Oxidation of M(4)		Single Protein		P04264	20	25	19	14	22	45	62	10.216718266253865	0	Doubtful
+7	P07478				26.471034287798968	59.92	5.67	16088.522726287312				Related Proteins	Q8NHM4	P07478, Q8NHM4	1	1	1	1	1	10	10	10.216718266253865	0	Doubtful
+8	P35030				32.50802898407952	73.68	3.29	3188.9750403890916				Single Protein		P35030	1	7	6	1	6	6	14	10.216718266253865	0	Doubtful
+9	P13645				58.79169361540863	71.92	28.42	2923.1154904863924	Oxidation of M(M150, M306)	Oxidation of M(2)		Single Protein		P13645	15	18	15	13	16	25	33	10.216718266253865	0	Doubtful
+10	Q7Z5L2				87.82897261998046	79.04	2.9	380.3676299505626	Oxidation of M(M1, M17)	Oxidation of M(2)		Single Protein		Q7Z5L2	1	1	1	1	1	1	1	10.216718266253865	0	Doubtful
+11	Q86YZ3				282.2276283698903	55.93	1.89	136.9307559514625				Single Protein		Q86YZ3	2	2	2	2	2	3	4	10.216718266253865	0	Doubtful
+12	P35908				65.39321717101762	93.11	29.58	2961.769139423309	Oxidation of M(M294, M467)	Oxidation of M(2)		Single Protein		P35908	18	20	14	12	17	35	43	10.216718266253865	0	Doubtful

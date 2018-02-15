@@ -1,0 +1,3 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P19013				57.249828579886504	74.34	2.25	11013.133955326342					Related Proteins	Q86Y46	P19013, Q86Y46	1	1	0	0	1	1	2	2	93.33333333333333	Doubtful
+2	P35908				65.39321717101762	93.11	6.89	20942.538510510905					Single Protein		P35908	3	3	2	2	3	3	4	4	93.33333333333333	Doubtful

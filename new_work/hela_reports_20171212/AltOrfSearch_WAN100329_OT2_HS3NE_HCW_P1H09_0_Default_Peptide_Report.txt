@@ -1,0 +1,4 @@
+	Protein(s)	Protein Group(s)	#Validated Protein Group(s)	Unique Database	Sequence	Modified Sequence	Position	AAs Before	AAs After	Variable Modifications	Fixed Modifications	Localization Confidence	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P0DME0; Q01105	P0DME0, Q01105 (Doubtful); Q01105 (Not Validated)	1	0	VEVTEFEDIK	NH2-VEVTEFEDIK-COOH	133; 123	TK; TR	SG; SG				0	4	20.76271186440678	Doubtful
+2	P0DME0; Q01105	P0DME0, Q01105 (Doubtful); Q01105 (Not Validated)	1	0	IDFYFDENPYFENK	NH2-IDFYFDENPYFENK-COOH	147; 137	YR; YR	VF; VL				0	2	20.76271186440678	Doubtful
+3	Q01105	P0DME0, Q01105 (Doubtful); Q01105 (Not Validated)	1	0	LNEQASEEILK	NH2-LNEQASEEILK-COOH	58	DR	VE				0	2	20.76271186440678	Doubtful

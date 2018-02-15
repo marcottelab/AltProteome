@@ -1,0 +1,11 @@
+	Main Accession	Description	Gene Name	Chromosome	MW [kDa]	Possible Coverage [%]	Coverage [%]	Spectrum Counting	Confidently Localized Modification Sites	# Confidently Localized Modification Sites	Ambiguously Localized Modification Sites	#Ambiguously Localized Modification Sites	Protein Inference	Secondary Accessions	Protein Group	#Validated Peptides	#Peptides	#Unique	#Validated Unique	#Unique to Group	#Validated Unique to Group	#Validated PSMs	#PSMs	Confidence [%]	Validation
+1	P17480				89.35022633920845	88.09	1.83	2036.8267128660316					Single Protein		P17480	1	1	1	1	1	1	1	1	63.63636363636363	Doubtful
+2	O60506				69.55959742052443	94.06	0.0	0.0					Single Protein		O60506	0	2	2	0	2	0	0	74	72.22222222222221	Doubtful
+3	P68363				50.119604615111854	73.84	3.55	2058.2348014396985					Related Proteins	P68366, Q13748, Q6PEY2, Q71U36, Q9BQE3	P68363, P68366, Q13748, Q6PEY2, Q71U36, Q9BQE3	1	3	0	0	3	1	1	3	63.63636363636363	Doubtful
+4	Q9UQ35				299.4380101693397	91.72	0.62	543.0999911881297					Single Protein		Q9UQ35	1	3	3	1	3	1	1	3	63.63636363636363	Doubtful
+5	Q8WZ42				3634.273545458802	91.02	0.0	0.0					Single Protein		Q8WZ42	0	5	5	0	5	0	0	37	72.22222222222221	Doubtful
+6	P60709				41.709730139029176	100.0	4.8	7310.850014713809					Related Proteins	P63261	P60709, P63261	1	4	4	1	4	1	3	5	63.63636363636363	Doubtful
+7	Q14978				73.55963598521475	100.0	3.58	2941.5973771648914					Single Protein		Q14978	2	4	4	2	4	2	2	5	72.22222222222221	Doubtful
+8	Q08945				81.02442027045807	93.09	3.39	3115.419040360998					Single Protein		Q08945	2	3	3	2	3	2	2	3	72.22222222222221	Doubtful
+9	Q92688				28.77030858058959	65.74	5.18	8307.78410762933					Single Protein		Q92688	1	1	1	1	1	1	1	1	63.63636363636363	Doubtful
+10	Q13428				152.0153228971003	80.04	2.69	3548.770079560387					Single Protein		Q13428	4	8	8	4	8	4	7	24	69.23076923076923	Doubtful
